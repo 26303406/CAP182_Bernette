@@ -1,8 +1,9 @@
 # CAP182_Bernette
-This is the repository for the Capstone (CAP182) Project module for PGD: Data Science course
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-PART A - Motivation
+| **Course Name and Code** | Capstone Project (CAP182) | **Assignment**     | SS1                |
+| ------------------------ | ------------------------- | ------------------ | ------------------ |
+| **Student Name**         | Bernette Lesejane         | **Student No**     | 26303406           |
+| **Lecturer**             | Dr. Mia Gerber            | **Date submitted** | 06 September 20226 |
 
 **Part A – Motivation**
 
@@ -11,8 +12,16 @@ South Africa's fintech sector is growing rapidly, with platforms such as STADIOE
 The root causes include ineffective onboarding processes, limited ability to identify customers at risk of disengagement, and a lack of personalised engagement strategies for different investor types. Despite having several years of behavioural, financial, and customer interaction data, much of this information remains underutilised.
 
 Data science offers an opportunity to address these challenges through predictive modelling and customer segmentation. Predictive analytics can identify accounts likely to remain unfunded or become dormant, enabling proactive interventions, while segmentation can support personalised communication and product recommendations. Integrating customer data into a unified analytical view will enable evidence-based decision-making, improve customer activation and retention, and support STADIOEquities' strategic objective of growing a sustainable, engaged investor base without significantly increasing operating costs.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**PART E**
+
+**Part B: Problem Statement**
+
+STADIOEquities collects a large amount of information about customers during registration and onboarding, including demographic details, onboarding progress, and platform activity. However, the company does not currently know which customers are likely to make their first deposit and become active investors, and which are likely to stop engaging with the platform.
+
+The purpose of this study is to establish whether customer information and early platform behaviour can be used to predict account activation. Using predictive analytics and classification models, the study will identify customers who are likely to become active investors, as well as those at risk of remaining inactive or abandoning the onboarding process.
+
+The insights gained from this research can help STADIOEquities identify high-potential and high-risk customers early, enabling the company to provide targeted support, personalized communication, and more effective retention strategies. Ultimately, this could improve account activation rates, customer engagement, and the efficient use of marketing and retention resources.
+
+**PART E - RAAIDD Log**
 
 1. **RAAIDD Log**
 
