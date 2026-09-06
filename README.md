@@ -1,10 +1,13 @@
 # CAP182_Bernette
 
 ---
-| Course Name and Code | Capstone Project (CAP182) | Assignment | SS1  |
-| ------------------------ | ------------------------- | ------------------ | ------------------ |
-| **Student Name**         | **Bernette Lesejane**         | **Student No**     | **26303406**           |
-| **Lecturer**             | **Dr. Mia Gerber**            | **Date submitted** | **06 September 2026** |
+| **Course Name and Code:** | Capstone Project (CAP182) |
+| ------------------------- | ------------------------- |
+| **Assignment Code:**      | SS1                       |
+| **Student Name:**         | Bernette Lesejane         |
+| **Student No:**           | 26303406                  |
+| **Lecturer:**             | Dr Mia Gerber             |
+| **Date Submitted:**       | 06 September 2026         |
 
 ---
 ## Part A – Motivation
@@ -300,13 +303,11 @@ The insights gained from this research can help STADIOEquities identify high-pot
 
 ## PART E - RAAIDD Log
 
-### RAAIDD Log
-
 The **RAAIDD Log** is a project governance tool used to record and track **Risks, Actions, Assumptions, Issues, Decisions, and Dependencies** throughout the project lifecycle. It provides a single source of information to support monitoring, decision-making, and effective project control from initiation to handover.
 
 As a **living document**, the RAAIDD Log will be continuously reviewed and updated to reflect the current status of project risks, actions, assumptions, issues, decisions, and dependencies as the project progresses.
 
-1.1 **Risks**
+1. **Risks**
 
 | Risk No | Description | Impact | Probability | Mitigation Strategy |
 | :--- | :--- | :--- | :--- | :--- |
@@ -316,7 +317,7 @@ As a **living document**, the RAAIDD Log will be continuously reviewed and updat
 | R4 | Ambiguity in Activation Definition | Medium | High | Confirm in writing by Week 1 |
 | R5 | Privacy & Compliance Barriers: Behavioral data may face regulatory scrutiny under POPIA | Medium | Medium | Engage compliance review Week 1; use pseudonymized IDs; ensure analysis is for internal use only |
 
-1.2 **Actions**
+2. **Actions**
 
 | **Action No** | **Description**                    | **Owner**            | **Timeline**   | **Status** |
 | ------------- | ---------------------------------- | -------------------- | -------------- | ---------- |
@@ -326,7 +327,7 @@ As a **living document**, the RAAIDD Log will be continuously reviewed and updat
 | A4            | Exploratory Data Analysis          | Data Analysis Team   | Week 4 – 6     | Pending    |
 | A5            | Funnel and Cohort Analysis         | Data Analysis Team   | Week 6         | Pending    |
 
-1.3 **Assumptions**
+3. **Assumptions**
 
 | **Assumption ID** | **Statement**                                       | **Criticality**    | **Validation Date** |
 | ----------------- | --------------------------------------------------- | ------------------ | ------------------- |
@@ -336,7 +337,7 @@ As a **living document**, the RAAIDD Log will be continuously reviewed and updat
 | AS4               | Activation Definition Stable: No changes            | Data Analysis Team | Week 1              |
 | AS5               | No Major Business Changes: Stable product           | Data Analysis Team | Week 2              |
 
-1.4 **Issues**
+4. **Issues**
 
 There are no issues at the because the project is at pre-planning phase with no work commenced and no data collected as yet.
 
@@ -345,7 +346,7 @@ There are no issues at the because the project is at pre-planning phase with no 
 - No stakeholder presentations have occurred (cannot have misalignment issues)
 - No decisions have been made (cannot have decision-based issues)
 
-  1.5 **Decisions**
+  5. **Decisions**
 
 | **Decision ID** | **Decision Description**           | **Reason/ Rationale**                                            | **Impact**                         |
 | --------------- | ---------------------------------- | ---------------------------------------------------------------- | ---------------------------------- |
@@ -355,7 +356,7 @@ There are no issues at the because the project is at pre-planning phase with no 
 | DEC4            | Stratified 60-20-20 Train-Val-Test | Preserves class distribution; prevents overfitting               | Standard practice                  |
 | DEC5            | Logistic Regression as Baseline    | Simple, interpretable; establishes performance floor             | Clarifies complexity justification |
 
-1.6 **Dependencies**
+6. **Dependencies**
 
 | **Action No** | **Predecessor** | **Successor**              | **Type**             | **Risk if Delayed**              |
 | ------------- | --------------- | -------------------------- | -------------------- | -------------------------------- |
