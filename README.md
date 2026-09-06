@@ -1,20 +1,22 @@
 # CAP182_Bernette
 
-| **Course Name and Code** | Capstone Project (CAP182) | **Assignment**     | SS1                |
+---
+| Course Name and Code | Capstone Project (CAP182) | Assignment | SS1  |
 | ------------------------ | ------------------------- | ------------------ | ------------------ |
-| **Student Name**         | Bernette Lesejane         | **Student No**     | 26303406           |
-| **Lecturer**             | Dr. Mia Gerber            | **Date submitted** | 06 September 20226 |
+| **Student Name**         | **Bernette Lesejane**         | **Student No**     | **26303406**           |
+| **Lecturer**             | **Dr. Mia Gerber**            | **Date submitted** | **06 September 2026** |
 
 ---
-**Part A – Motivation**
+## Part A – Motivation
 
 South Africa's fintech sector is growing rapidly, with platforms such as STADIOEquities expanding access to investment products for retail investors. While the platform has attracted 2.3 million registered accounts, a significant challenge remains: many users do not become active, funded investors. Although customer acquisition is cost effective, the platform's long-term profitability depends on converting registered users into engaged investors. Current trends show declining deposit conversion rates, increasing account dormancy, and reduced uptake of premium subscription services, resulting in operational costs without corresponding revenue growth.
 
 The root causes include ineffective onboarding processes, limited ability to identify customers at risk of disengagement, and a lack of personalised engagement strategies for different investor types. Despite having several years of behavioural, financial, and customer interaction data, much of this information remains underutilised.
 
 Data science offers an opportunity to address these challenges through predictive modelling and customer segmentation. Predictive analytics can identify accounts likely to remain unfunded or become dormant, enabling proactive interventions, while segmentation can support personalised communication and product recommendations. Integrating customer data into a unified analytical view will enable evidence-based decision-making, improve customer activation and retention, and support STADIOEquities' strategic objective of growing a sustainable, engaged investor base without significantly increasing operating costs.
+
 ---
-**Part B: Problem Statement**
+## Part B: Problem Statement
 
 STADIOEquities collects a large amount of information about customers during registration and onboarding, including demographic details, onboarding progress, and platform activity. However, the company does not currently know which customers are likely to make their first deposit and become active investors, and which are likely to stop engaging with the platform.
 
@@ -24,11 +26,11 @@ The insights gained from this research can help STADIOEquities identify high-pot
 
 ---
 
-## PART C: DATA REQUEST
+## Part C: Data Request
 
 ### Table 1: Account Registration & Onboarding Data
 
-Purpose: Track the user onboarding funnel from registration through first deposit. Identifies where users drop off and which segments complete the onboarding journey.
+**Purpose:** Track the user onboarding funnel from registration through first deposit. Identifies where users drop off and which segments complete the onboarding journey.
 
 | Column Name | Data Type | Example | Additional Information |
 |---|---|---|---|
@@ -50,7 +52,7 @@ Purpose: Track the user onboarding funnel from registration through first deposi
 
 ### Table 2: Initial Session Behavior & Engagement
 
-Purpose: Measure early app engagement patterns during first 7 days post-registration. Captures whether users explore the platform or bounce immediately.
+**Purpose:** Measure early app engagement patterns during first 7 days post-registration. Captures whether users explore the platform or bounce immediately.
 
 | Column Name | Data Type | Example | Additional Information |
 |---|---|---|---|
@@ -72,7 +74,7 @@ Purpose: Measure early app engagement patterns during first 7 days post-registra
 
 ### Table 3: User Demographics & Identity Data
 
-Purpose:Segment users by demographic characteristics. Identifies which cohorts activate at higher rates and enables segment-specific intervention strategies.
+**Purpose:** Segment users by demographic characteristics. Identifies which cohorts activate at higher rates and enables segment-specific intervention strategies.
 
 | Column Name | Data Type | Example | Additional Information |
 |---|---|---|---|
@@ -89,7 +91,7 @@ Purpose:Segment users by demographic characteristics. Identifies which cohorts a
 
 ### Table 4: Communication & Support Interactions
 
-Purpose: Track basic user communication engagement: email responses and support interactions during onboarding. Identifies communication barriers and engagement with app assistance.
+**Purpose:** Track basic user communication engagement: email responses and support interactions during onboarding. Identifies communication barriers and engagement with app assistance.
 
 | Column Name | Data Type | Example | Additional Information |
 |---|---|---|---|
@@ -108,7 +110,7 @@ Purpose: Track basic user communication engagement: email responses and support 
 
 ### Table 5: Platform Interaction Before First Deposit (or Abandonment Window)
 
-Purpose: Track platform feature usage BEFORE first deposit. Measures investment research behaviors, intent signals, and platform familiarity that predict deposit likelihood.
+**Purpose:** Track platform feature usage BEFORE first deposit. Measures investment research behaviors, intent signals, and platform familiarity that predict deposit likelihood.
 
 | Column Name | Data Type | Example | Additional Information |
 |---|---|---|---|
@@ -128,7 +130,7 @@ Purpose: Track platform feature usage BEFORE first deposit. Measures investment 
 
 ### Table 6: Feature Requests & In-App Messaging Responses
 
-Track user response to in-app promotions, notifications, and feature requests. Identifies messaging effectiveness and what users want from the platform.
+**Purpose:** Track user response to in-app promotions, notifications, and feature requests. Identifies messaging effectiveness and what users want from the platform.
 
 | Column Name | Data Type | Example | Additional Information |
 |---|---|---|---|
@@ -144,9 +146,9 @@ Track user response to in-app promotions, notifications, and feature requests. I
 
 ---
 
-###Table 7: Support Ticket and Customer Service Interactions
+### Table 7: Support Ticket and Customer Service Interactions
 
-Purpose: Track detailed customer support interactions during onboarding and early engagement. Identifies support barriers, friction points, resolution quality, and support-driven abandonment.
+**Purpose:** Track detailed customer support interactions during onboarding and early engagement. Identifies support barriers, friction points, resolution quality, and support-driven abandonment.
 
 | Column Name                 | Data Type              | Example                    | Additional Information                                        |
 | --------------------------- | ---------------------- | -------------------------- | ------------------------------------------------------------- |
@@ -162,9 +164,9 @@ Purpose: Track detailed customer support interactions during onboarding and earl
 
 ---
 
-###Table 8: Marketing Campaing and spend data
+### Table 8: Marketing Campaing and spend data
 
-Purpose: Track marketing campaigns, user acquisition attribution, and campaign performance. Identifies which marketing channels and messages drive activation.
+**Purpose:** Track marketing campaigns, user acquisition attribution, and campaign performance. Identifies which marketing channels and messages drive activation.
 
 | Column Name                 | Data Type           | Example                      | Additional Information                                           |
 | --------------------------- | ------------------- | ---------------------------- | ---------------------------------------------------------------- |
@@ -179,13 +181,11 @@ Purpose: Track marketing campaigns, user acquisition attribution, and campaign p
 | campaign_roi_percent        | Numeric, decimal    | 18.5                         | ROI of campaign (%)                                              |
 | is_first_touch_attribution  | Binary, boolean     | 1                            | Was this campaign first marketing touch                          |
 
-
 ---
 
 ### Compliance and KYC Verification Data
 
-Purpose: Track regulatory compliance, KYC verification, and risk assessments. Identifies compliance barriers to activation.
-
+**Purpose:** Track regulatory compliance, KYC verification, and risk assessments. Identifies compliance barriers to activation.
 
 | Column Name              | Data Type                | Example      | Additional Information                                          |
 | ------------------------ | ------------------------ | ------------ | --------------------------------------------------------------- |
@@ -200,9 +200,9 @@ Purpose: Track regulatory compliance, KYC verification, and risk assessments. Id
 | document_expired         | Binary, boolean          | 0            | Identity document expired                                       |
 
 ---
-# Table 10: User Feedback and Satisfaction Survey Data
+### Table 10: User Feedback and Satisfaction Survey Data
 
-Purpose: Track NPS, CSAT, feature requests, and user feedback. Identifies pain points and satisfaction drivers.
+**Purpose:** Track NPS, CSAT, feature requests, and user feedback. Identifies pain points and satisfaction drivers.
 
 | Column Name               | Data Type                  | Example      | Additional Information                                          |
 | ------------------------- | -------------------------- | ------------ | --------------------------------------------------------------- |
@@ -217,9 +217,9 @@ Purpose: Track NPS, CSAT, feature requests, and user feedback. Identifies pain p
 | sentiment_analysis_score  | Numeric, decimal (-1 to 1) | 0.67         | ML sentiment score of open-text feedback                        |
 
 ---
-# Table 11: Device, Browser and Technical Environment Data
+### Table 11: Device, Browser and Technical Environment Data
 
-Purpose: Track device, browser, and technical environment. Identifies technical barriers and platform-specific activation patterns.
+**Purpose**: Track device, browser, and technical environment. Identifies technical barriers and platform-specific activation patterns.
 
 | Column Name         | Data Type           | Example       | Additional Information                       |
 | ------------------- | ------------------- | ------------- | -------------------------------------------- |
@@ -234,9 +234,9 @@ Purpose: Track device, browser, and technical environment. Identifies technical 
 | timezone_offset     | String, categorical | UTC+2         | User timezone (e.g., SAST)                   |
 
 ---
-# Table 12: Account Activity Post-Deposit (Post-Activation Engagement)
+### Table 12: Account Activity Post-Deposit (Post-Activation Engagement)
 
-Purpose: Track account activity AFTER first deposit to assess activation quality and long-term engagement.
+**Purpose:** Track account activity AFTER first deposit to assess activation quality and long-term engagement.
 
 | Column Name                       | Data Type           | Example             | Additional Information                              |
 | --------------------------------- | ------------------- | ------------------- | --------------------------------------------------- |
@@ -271,9 +271,36 @@ Purpose: Track account activity AFTER first deposit to assess activation quality
 
 **TOTAL:** 12 domains | 168 features | 2.04M rows | 145 MB estimated size
 ---
-**PART E - RAAIDD Log**
 
-1. **RAAIDD Log**
+## PART D - Repository set up and structure
+```text
+.
+├── .gitignore
+├── LICENSE
+├── README.md
+├── dashboards/
+│   └── README.md
+├── data/
+│   └── README.md
+├── evaluation/
+│   └── README.md
+├── feature-extraction/
+│   └── README.md
+├── modelling/
+│   └── README.md
+├── preprocessing/
+│   └── README.md
+├── retraining/
+│   └── README.md
+├── utils/
+│   └── README.md
+└── visualisation/
+    └── README.md
+```
+
+## PART E - RAAIDD Log
+
+### RAAIDD Log
 
 The **RAAIDD Log** is a project governance tool used to record and track **Risks, Actions, Assumptions, Issues, Decisions, and Dependencies** throughout the project lifecycle. It provides a single source of information to support monitoring, decision-making, and effective project control from initiation to handover.
 
@@ -311,9 +338,8 @@ As a **living document**, the RAAIDD Log will be continuously reviewed and updat
 
 1.4 **Issues**
 
-The project is at pre-planning phase with no work commenced yet, with no data collected yet.
+There are no issues at the because the project is at pre-planning phase with no work commenced and no data collected as yet.
 
-- At the pre-project planning phase (proposal stage):
 - No data has been extracted yet (cannot have data quality issues)
 - No models have been trained (cannot have overfitting or performance issues)
 - No stakeholder presentations have occurred (cannot have misalignment issues)
