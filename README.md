@@ -1,14 +1,30 @@
 # CAP182_Bernette
 
 ---
-| **Course Name and Code:** | Capstone Project (CAP182) |
-| ------------------------- | ------------------------- |
-| **Assignment Code:**      | SS1                       |
-| **Student Name:**         | Bernette Lesejane         |
-| **Student No:**           | 26303406                  |
-| **Lecturer:**             | Dr Mia Gerber             |
-| **Date Submitted:**       | 06 September 2026         |
-
+<div style="width: 100%; overflow-x: auto;">
+  <table style="width: 100%; min-width: 900px; border-collapse: collapse; text-align: left; font-family: sans-serif;">
+    <thead>
+      <tr style="background-color: #4CAF50; color: white; font-weight: bold;">
+        <th style="padding: 12px; border: 1px solid #ddd;">Course & Code</th>
+        <th style="padding: 12px; border: 1px solid #ddd;">Assignment</th>
+        <th style="padding: 12px; border: 1px solid #ddd;">Student Name</th>
+        <th style="padding: 12px; border: 1px solid #ddd;">Student No</th>
+        <th style="padding: 12px; border: 1px solid #ddd;">Lecturer</th>
+        <th style="padding: 12px; border: 1px solid #ddd;">Date Submitted</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 12px; border: 1px solid #ddd;">Capstone Project (CAP182)</td>
+        <td style="padding: 12px; border: 1px solid #ddd;">SS1</td>
+        <td style="padding: 12px; border: 1px solid #ddd;">Bernette Lesejane</td>
+        <td style="padding: 12px; border: 1px solid #ddd;">26303406</td>
+        <td style="padding: 12px; border: 1px solid #ddd;">Dr Mia Gerber</td>
+        <td style="padding: 12px; border: 1px solid #ddd;">06 September 2026</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 ---
 ## Part A – Motivation
 
@@ -186,7 +202,7 @@ The insights gained from this research can help STADIOEquities identify high-pot
 
 ---
 
-### Compliance and KYC Verification Data
+### Table 9: Compliance and KYC Verification Data
 
 **Purpose:** Track regulatory compliance, KYC verification, and risk assessments. Identifies compliance barriers to activation.
 
