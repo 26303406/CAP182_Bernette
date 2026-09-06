@@ -27,6 +27,7 @@
 </div>
 ---
 
+---
 ## Part A – Motivation
 
 South Africa's fintech sector is growing rapidly, with platforms such as STADIOEquities expanding access to investment products for retail investors. While the platform has attracted 2.3 million registered accounts, a significant challenge remains: many users do not become active, funded investors. Although customer acquisition is cost effective, the platform's long-term profitability depends on converting registered users into engaged investors. Current trends show declining deposit conversion rates, increasing account dormancy, and reduced uptake of premium subscription services, resulting in operational costs without corresponding revenue growth.
