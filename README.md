@@ -1,7 +1,17 @@
 # CAP182_Bernette
 This is the repository for the Capstone (CAP182) Project module for PGD: Data Science course
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PART A - Motivation
 
+**Part A – Motivation**
+
+South Africa's fintech sector is growing rapidly, with platforms such as STADIOEquities expanding access to investment products for retail investors. While the platform has attracted 2.3 million registered accounts, a significant challenge remains: many users do not become active, funded investors. Although customer acquisition is cost effective, the platform's long-term profitability depends on converting registered users into engaged investors. Current trends show declining deposit conversion rates, increasing account dormancy, and reduced uptake of premium subscription services, resulting in operational costs without corresponding revenue growth.
+
+The root causes include ineffective onboarding processes, limited ability to identify customers at risk of disengagement, and a lack of personalised engagement strategies for different investor types. Despite having several years of behavioural, financial, and customer interaction data, much of this information remains underutilised.
+
+Data science offers an opportunity to address these challenges through predictive modelling and customer segmentation. Predictive analytics can identify accounts likely to remain unfunded or become dormant, enabling proactive interventions, while segmentation can support personalised communication and product recommendations. Integrating customer data into a unified analytical view will enable evidence-based decision-making, improve customer activation and retention, and support STADIOEquities' strategic objective of growing a sustainable, engaged investor base without significantly increasing operating costs.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **PART E**
 
 1. **RAAIDD Log**
