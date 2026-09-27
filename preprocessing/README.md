@@ -1,5 +1,3 @@
----
-
 ## 1. DATA PREPROCESSING TECHNIQUES
 
 ### 1.1 Data Loading & Initial Exploration
@@ -12,14 +10,14 @@
    - Loaded 541,909 transactions with 8 columns from Excel (.csv) format
 
 2. **Missing Value Analysis**
-   - About 135080 missing CustomerID, 406829 remained after deletion
-   - Missing Descriptions - majority of CustomerIDs already dropped had missing descriptions. 
+   - About 135,080 missing CustomerID, 406,829 remained after deletion
+   - Missing Descriptions - majority of CustomerIDs already dropped had missing descriptions.
    - Remaining blank descriptions were imputed via StockCode lookup
 
-3. **Removing Duplicates and invalid data**
-   - After removing duplicates, 396681 records remained
-   - Transactions wth zero or negative Quantities were removed
-   - Transactions wth zero/ negative/ extreme Unit Prices were removed
+3. **Removing Duplicates and Invalid Data**
+   - After removing duplicates, 396,681 records remained
+   - Transactions with zero or negative Quantities were removed
+   - Transactions with zero/negative/extreme Unit Prices were removed
 
 4. **Data Type Optimization**
    - Convert InvoiceDate to datetime format (enables time-based calculations)
@@ -34,7 +32,7 @@
 
 1. **Quantile-Based Capping**
    - Identify outliers using 1st and 99th percentiles
-   - Cap Quantity at [1, 99th percentile] to preserve legitimate bulk orders
+   - Cap Quantity at [1st, 99th percentile] to preserve legitimate bulk orders
    - Cap Price at [1st, 99th percentile] to remove extreme adjustments
    - Rationale: Preserves legitimate high-value transactions while removing errors
 
@@ -91,7 +89,7 @@ Aggregate metrics:
   - Date of last purchase (Recency)
   - Various engagement metrics
 ↓
-Output: ~6,300 customer records
+Output: 4338 customer records
 ```
 
 **Aggregation Functions:**
