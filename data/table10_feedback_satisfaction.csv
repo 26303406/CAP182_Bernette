@@ -1,0 +1,1534 @@
+account_id,feedback_type,nps_score,nps_category,csat_score,pain_point_mentioned,barrier_to_activation,sentiment_analysis_score
+66f1f1ec-9aad-459a-b46f-df9b92006c63,NPS Survey,1,Detractor,1,App was confusing to navigate,Trust,-0.122
+e518348f-219b-4586-8c23-578db63a028d,Exit Survey,9,Promoter,5,Support took too long to respond,None,0.601
+eaf57d21-e5d4-462d-b645-f851684ebcc9,NPS Survey,8,Passive,3,Verification took too long,None,1.0
+5362dffe-6e6f-4625-9f3c-6c567f21c8fb,CSAT Survey,10,Promoter,5,Wanted to compare with competitors first,None,0.975
+683aac4f-600c-4ab1-80d9-533fb00204cb,Exit Survey,6,Detractor,4,Verification took too long,Time,0.067
+0c3cf8f0-e284-431e-93fe-65f7141ade63,Exit Survey,10,Promoter,5,App was confusing to navigate,None,1.0
+546c0dc0-f91c-45ef-b357-efa69fd4159c,NPS Survey,7,Passive,4,App was confusing to navigate,Usability,0.463
+6ba766b0-cfc0-4df5-aec8-6a52762128fa,In-app Feedback,5,Detractor,3,App was confusing to navigate,None,0.092
+375a5ce4-dbd1-43a0-9e8e-4a4fc2bd14aa,CSAT Survey,10,Promoter,5,Could not link my bank account,Fees,0.726
+a508cff2-9cd2-42fd-a4a6-70984f71e0f3,App Store Review,5,Detractor,1,Verification took too long,None,0.178
+6d492a50-cf86-4852-81ce-149b404b5174,Exit Survey,3,Detractor,1,Verification took too long,Time,-0.68
+6fd2eac6-ec83-47cf-b2aa-c1c88fc7789d,Exit Survey,6,Detractor,3,Documents kept getting rejected,KYC friction,0.488
+445d450f-2398-467c-b417-51eb9ed8cbc9,App Store Review,8,Passive,5,App was confusing to navigate,None,0.274
+69cd8e8e-cc1e-488b-9608-29c5c3979aa3,Exit Survey,8,Passive,4,Could not link my bank account,Funding method,0.972
+d4740358-7eef-4453-a158-78ca2eadc4e3,App Store Review,6,Detractor,2,Verification took too long,None,-0.077
+851c4fc5-bf9d-4292-b0a3-bd77d207e935,CSAT Survey,10,Promoter,5,App was confusing to navigate,None,0.808
+38b3c45f-c8ac-4fd1-b172-ff3c29ef7796,App Store Review,10,Promoter,5,Documents kept getting rejected,Usability,0.513
+18f34aec-700b-4864-bcf2-534e45ef9ab0,NPS Survey,10,Promoter,5,Support took too long to respond,None,0.779
+f9df1ac1-cde2-4d0e-b2ee-e8ce95e6e59f,App Store Review,10,Promoter,5,No time to finish signing up,KYC friction,0.955
+96fe66c5-4b11-430a-85f4-605453f87dde,App Store Review,4,Detractor,2,Support took too long to respond,None,-0.042
+0a287ae4-ed23-480b-bbdc-2591b30f1d63,CSAT Survey,10,Promoter,5,Documents kept getting rejected,None,0.95
+dbdebef2-9234-493a-830a-da0de2f06103,Exit Survey,6,Detractor,4,Could not link my bank account,None,0.388
+3b262541-a7d4-493d-a9c5-df62dae12b87,Exit Survey,4,Detractor,1,Verification took too long,KYC friction,-0.188
+b4c9a2d8-3f13-4d3a-9bcd-4d5944b21f0a,CSAT Survey,9,Promoter,5,,Fees,0.031
+7fdd5d0c-1ad8-403e-b8b1-1bf33a6aa3e5,In-app Feedback,9,Promoter,5,Minimum deposit too high,None,0.489
+70ffb4ce-8f03-475a-9ba5-58fffbf61f7f,App Store Review,6,Detractor,2,No time to finish signing up,Usability,-0.1
+bd4b68dc-0085-4bfd-bcca-27d18df70b1d,Exit Survey,5,Detractor,1,No time to finish signing up,Fees,-0.249
+d3bbc0d3-4aa7-4fd6-89ef-aa89f2b16866,CSAT Survey,5,Detractor,1,Support took too long to respond,None,0.057
+9ae95185-1d40-426e-a95f-087a1c5a9e8f,Exit Survey,6,Detractor,2,Wanted to compare with competitors first,None,0.09
+250f2716-38d5-4de2-b721-f3ca3b31ceba,App Store Review,9,Promoter,3,Wanted to compare with competitors first,Competitor comparison,0.326
+e0a39d19-5582-4965-b555-d2ad54bdca65,Exit Survey,5,Detractor,2,Unclear fee structure,Trust,0.258
+59f33230-92c2-4bca-b085-35e56cc66561,Exit Survey,6,Detractor,3,No time to finish signing up,Competitor comparison,0.401
+02f5023c-c06b-4c58-800e-2c4c4614af17,NPS Survey,6,Detractor,2,Could not link my bank account,Usability,0.415
+485430ef-c2ed-4b98-a6e1-da813accea72,In-app Feedback,5,Detractor,2,App was confusing to navigate,Usability,0.205
+9de3b47c-f814-4c20-bd21-773266c684db,Exit Survey,8,Passive,5,Verification took too long,None,0.815
+3d6ee811-aa3a-43e2-b143-6fb680562d93,Exit Survey,6,Detractor,4,Unclear fee structure,None,0.076
+005acf41-6779-4219-bde9-a937289094fc,CSAT Survey,7,Passive,3,Verification took too long,None,0.142
+a65d1bc9-ad46-4f2e-b74f-22588556087d,App Store Review,4,Detractor,2,Wanted to compare with competitors first,None,-0.134
+d918ea26-695c-4734-8ae3-47c6b8fefc6d,Exit Survey,3,Detractor,2,Unclear fee structure,KYC friction,-0.701
+9667cff1-480b-4d99-95ba-027a54684987,CSAT Survey,4,Detractor,2,Could not link my bank account,None,-0.336
+82de4910-23c5-4a70-8dad-4991d585b9ca,In-app Feedback,8,Passive,4,,Time,0.99
+df5a6a72-e01a-4797-9e2c-7bb3ee1b611a,Exit Survey,6,Detractor,3,Minimum deposit too high,Trust,0.027
+33af5ec3-602c-480c-9e99-f6a3157f9ccc,App Store Review,10,Promoter,5,Documents kept getting rejected,None,0.578
+2e9224a9-e7a6-4606-a0b0-6414bcb9fc51,NPS Survey,8,Passive,4,Verification took too long,Fees,-0.194
+eaf7d3f0-001a-4715-899f-7c9035210a84,Exit Survey,6,Detractor,3,Wanted to compare with competitors first,None,-0.274
+66db5725-5748-40e2-962a-375f95910596,App Store Review,9,Promoter,4,,None,0.754
+0d077b59-00d8-4b79-b9f7-3e0061b7de89,In-app Feedback,10,Promoter,4,Minimum deposit too high,Funding method,0.451
+92fd56e8-9464-4d18-bbaf-3efddb064b08,NPS Survey,10,Promoter,5,Did not trust the platform yet,None,0.846
+b88157da-50bf-49f7-9bd3-43a3b5230756,App Store Review,9,Promoter,4,Wanted to compare with competitors first,Fees,1.0
+5102299c-5e55-4dc9-bbb5-21ca835e8280,Exit Survey,7,Passive,5,Support took too long to respond,Funding method,0.173
+8e491f8f-5803-4ce5-8d30-1a196f81fa05,In-app Feedback,8,Passive,4,Wanted to compare with competitors first,Usability,0.537
+4af2b26b-e5b4-4a6d-869e-09337b0b2828,App Store Review,1,Detractor,1,Did not trust the platform yet,None,-0.864
+2b16a229-c3e0-4030-b4c3-6cf627389f05,Exit Survey,3,Detractor,1,App was confusing to navigate,Trust,-0.197
+5225c669-6cb5-45e3-b5e0-889729e5b45e,CSAT Survey,8,Passive,5,,None,0.75
+ee45e685-61da-40b4-8208-e0902bfeae92,NPS Survey,8,Passive,5,Verification took too long,Usability,0.625
+5e5aecc1-0209-4243-b24d-f773dd863bba,CSAT Survey,4,Detractor,2,,Fees,-0.142
+d88d55a9-333f-4166-bc36-db3ea9143d14,Exit Survey,8,Passive,4,No time to finish signing up,Trust,0.248
+35abb4f5-4678-41e7-a5d5-8236bd1a1419,Exit Survey,6,Detractor,3,Verification took too long,None,-0.043
+e298f02b-79da-4714-8b12-5e9fffae2c9e,CSAT Survey,4,Detractor,3,Support took too long to respond,Trust,-0.501
+6d7553e2-2014-419b-a85a-a0b583d96a7e,Exit Survey,6,Detractor,3,Support took too long to respond,Trust,-0.287
+3d73b8f4-b100-4ff4-b77d-a273a5c27bae,Exit Survey,8,Passive,5,Minimum deposit too high,None,0.522
+ebf957d8-9100-46bd-b757-207766fdbc60,In-app Feedback,10,Promoter,5,,None,0.61
+ab25dd28-55f3-41ba-8313-4ebfe89f84dd,Exit Survey,9,Promoter,5,Verification took too long,Fees,0.582
+aae0e633-9a71-4db1-b88c-e8f07ac7e09a,CSAT Survey,9,Promoter,3,No time to finish signing up,None,0.939
+e7b1697a-2ff9-4891-b264-0a5bc4f5a13a,NPS Survey,4,Detractor,2,Support took too long to respond,KYC friction,0.234
+76246d7e-41d1-4324-a679-8a3af24b2395,NPS Survey,6,Detractor,3,Documents kept getting rejected,KYC friction,0.377
+459fb5a0-a482-4f63-9ae3-ac5abbcf529f,In-app Feedback,2,Detractor,1,Documents kept getting rejected,Usability,0.088
+e8ad1069-caa8-46ce-8b10-a7877b2459bc,CSAT Survey,10,Promoter,5,Documents kept getting rejected,None,0.996
+3d78afa7-7996-403b-a051-66d9596e9086,Exit Survey,10,Promoter,5,No time to finish signing up,None,0.726
+190b0de7-4184-4327-b7c2-5b58a787796e,Exit Survey,10,Promoter,5,App was confusing to navigate,None,0.734
+7f1a66ff-7909-47f6-a9ff-498f7a65e8d0,NPS Survey,7,Passive,4,App was confusing to navigate,KYC friction,0.607
+9e452201-bd42-49f1-ab89-9a9dc35430df,CSAT Survey,3,Detractor,1,App was confusing to navigate,None,-0.114
+20530a35-da89-45b4-aaa7-e89f13cb82c3,App Store Review,10,Promoter,5,,Trust,0.789
+b0733b5c-a429-4c1b-abd2-b927e7e526f4,NPS Survey,3,Detractor,1,Unclear fee structure,Competitor comparison,-0.602
+81f2b541-02c7-44a7-974b-886eef80d5ec,CSAT Survey,10,Promoter,4,,None,0.785
+b3792bd8-7624-4524-b5a3-853f94ae8f4b,CSAT Survey,7,Passive,4,App was confusing to navigate,Fees,0.987
+711bd45e-2041-426f-a1c3-dcb3d49ebcd0,NPS Survey,8,Passive,4,App was confusing to navigate,Fees,0.418
+ee303f9f-8356-4a66-92d6-98f55d8bf480,In-app Feedback,10,Promoter,4,App was confusing to navigate,None,0.696
+23a2cfdb-9cd0-479d-a6b0-ac4a6a1af965,In-app Feedback,7,Passive,3,,Competitor comparison,0.711
+e44e3e5e-eb4b-44da-8180-ddef60a6e85b,Exit Survey,3,Detractor,1,Could not link my bank account,Funding method,-0.315
+f0e745b9-2620-4260-9985-8a3b8e696bc6,Exit Survey,6,Detractor,3,Minimum deposit too high,Usability,0.336
+ed35b0d7-dade-4120-b236-fd308a3e28a7,App Store Review,6,Detractor,3,No time to finish signing up,None,0.031
+dfb8e5ba-6ff9-429c-83bd-037d9c02a194,App Store Review,8,Passive,4,Support took too long to respond,Time,0.112
+1bef7040-01cb-4ded-afe1-04251fe42312,NPS Survey,10,Promoter,5,Documents kept getting rejected,Usability,0.451
+297331ae-2359-4acc-8fad-2ff8af1886c7,CSAT Survey,9,Promoter,5,Could not link my bank account,None,0.57
+0e225262-b784-4d33-956d-1a48f59b941c,NPS Survey,6,Detractor,3,Documents kept getting rejected,Usability,0.497
+acc1bbd3-7ad3-47ff-ad93-ff692d94f443,NPS Survey,10,Promoter,4,,None,0.781
+65d9f3ab-6fcb-4b89-a1d0-5050dc0f5e20,In-app Feedback,9,Promoter,4,Did not trust the platform yet,Competitor comparison,0.547
+f5449075-a2eb-435e-ac10-348941f8fc4c,CSAT Survey,9,Promoter,4,Did not trust the platform yet,None,0.988
+a514be68-6d10-4aa8-9969-170ef9af861b,In-app Feedback,10,Promoter,5,Verification took too long,None,0.462
+16c3e404-3f7a-4fcd-95b0-5dce0595812a,In-app Feedback,10,Promoter,5,Did not trust the platform yet,None,1.0
+497b4a00-25b9-42bf-994c-8e92fccf5c35,NPS Survey,10,Promoter,5,App was confusing to navigate,None,1.0
+d87c09c4-ca65-4363-85b2-3826f28b59d7,In-app Feedback,10,Promoter,4,Unclear fee structure,None,0.546
+c78eb75d-1852-4dd9-97a0-90152c396648,App Store Review,7,Passive,2,Could not link my bank account,Funding method,0.306
+6a4051c1-144d-4e64-a685-7e7b1a1e44cc,CSAT Survey,5,Detractor,3,Minimum deposit too high,KYC friction,-0.368
+304efae9-9075-45db-907e-69827d598a13,Exit Survey,5,Detractor,2,Wanted to compare with competitors first,Usability,0.612
+a2cf3871-08c2-4e6a-884a-acd1e33d1958,Exit Survey,8,Passive,4,Could not link my bank account,None,0.442
+e0e676cd-dd7d-4481-b4fd-3cb768f24a20,NPS Survey,10,Promoter,5,Unclear fee structure,None,0.532
+990cbf6c-d6e9-47de-a27e-99842d951aab,NPS Survey,3,Detractor,2,Could not link my bank account,None,-0.072
+85187627-448d-4ad1-8727-d3ecfa2719d7,Exit Survey,7,Passive,3,No time to finish signing up,KYC friction,0.149
+17adea51-4c47-4a76-9d77-07c26335d2b7,In-app Feedback,10,Promoter,5,Minimum deposit too high,None,0.524
+06b2b90e-d945-4726-a9a8-d60a78ecd472,Exit Survey,1,Detractor,2,Documents kept getting rejected,Trust,-0.609
+f7cf6a4b-26e1-4147-a800-858076f8edc5,CSAT Survey,10,Promoter,5,,Competitor comparison,0.659
+bc51a837-dff8-464b-ab8a-54adf97a5ea6,NPS Survey,8,Passive,4,Could not link my bank account,KYC friction,0.31
+0b1c2af3-dd94-4d6a-b88f-38116d539695,In-app Feedback,9,Promoter,4,No time to finish signing up,Funding method,0.493
+76b6a22c-c64c-485f-819e-8c469f67ae16,In-app Feedback,8,Passive,5,,Fees,0.071
+80d85585-e794-4239-af64-5e82ed30483c,CSAT Survey,7,Passive,4,Verification took too long,Funding method,-0.096
+3f8509f6-a842-4ee1-8c9c-c49fc4d7b7b5,App Store Review,7,Passive,4,Minimum deposit too high,None,-0.093
+a1a056a9-f846-4b89-9192-804458a5301a,In-app Feedback,6,Detractor,2,App was confusing to navigate,KYC friction,0.266
+37be2288-b6a3-433c-95fa-afc3170b9941,Exit Survey,10,Promoter,5,Minimum deposit too high,Time,0.954
+6ae49a12-1b15-4b99-92df-4c83ea97d877,NPS Survey,9,Promoter,4,Minimum deposit too high,Time,0.885
+0f02dc13-8b0e-4f4e-8e52-02ebaa1370e3,Exit Survey,5,Detractor,2,Could not link my bank account,KYC friction,-0.554
+75d5b0e4-5ead-4348-b4ec-bca5d10ca16c,CSAT Survey,9,Promoter,5,Minimum deposit too high,None,0.884
+220b9db0-5a73-498c-a563-6d2942b985eb,Exit Survey,7,Passive,4,Support took too long to respond,None,0.806
+9174814f-148c-4d81-a68d-fe996b24ae47,App Store Review,10,Promoter,5,App was confusing to navigate,None,1.0
+7f364c09-6320-4de4-bc68-4f2a1eecb54c,NPS Survey,10,Promoter,4,Documents kept getting rejected,None,0.905
+9d9bbffb-e16e-46c2-adb3-aef395d37631,App Store Review,10,Promoter,4,Could not link my bank account,None,0.753
+d907d49d-74bb-4958-b19d-367339021ce5,NPS Survey,10,Promoter,5,Could not link my bank account,None,1.0
+6f57563e-bc13-4f52-ab4c-b898ba0dc954,In-app Feedback,7,Passive,3,No time to finish signing up,None,0.129
+49890139-1f7e-4827-95db-b6de2971bbfd,In-app Feedback,4,Detractor,2,Minimum deposit too high,None,-0.137
+56478f67-5675-4d10-91cd-48acd8ef721e,Exit Survey,0,Detractor,1,Support took too long to respond,KYC friction,-0.513
+6c31d048-b58a-480a-b190-3cf6576a0fb7,CSAT Survey,10,Promoter,5,Minimum deposit too high,KYC friction,1.0
+e56ea88d-5df7-4fda-bf90-344a3d822df9,Exit Survey,9,Promoter,4,Wanted to compare with competitors first,None,0.322
+d0609f32-5ddc-46dc-b0a6-bfcd0a1e5f56,Exit Survey,6,Detractor,2,,None,0.136
+c7ef1058-c578-4e78-893a-4b176d8f2bd9,In-app Feedback,4,Detractor,2,Support took too long to respond,Trust,-0.09
+cde2dde9-5eaf-46ee-b8b7-5aa3e1f3dc75,In-app Feedback,10,Promoter,5,Did not trust the platform yet,None,1.0
+59a1ade0-9e9c-4c6c-bc46-81e7bf322595,Exit Survey,10,Promoter,5,Support took too long to respond,None,0.743
+a4d796ea-7498-46ac-b79a-ffa862d599aa,Exit Survey,2,Detractor,1,Minimum deposit too high,None,-0.508
+5e622941-93a9-408e-a865-47e9ba6f74b6,CSAT Survey,2,Detractor,1,Documents kept getting rejected,Time,-0.59
+329e1237-8588-4cb6-b14d-525ab94fb85d,NPS Survey,7,Passive,3,,Competitor comparison,-0.077
+f2a31e31-9f48-46cb-b704-9c71d0138393,In-app Feedback,9,Promoter,5,Did not trust the platform yet,None,1.0
+0aa1d24f-fedd-47ce-9751-f20a6e127459,App Store Review,5,Detractor,3,Could not link my bank account,None,0.168
+3192935d-949d-4126-9f0e-4431fcfe2b15,App Store Review,9,Promoter,5,Did not trust the platform yet,None,0.588
+aa3c04ec-e0cb-4f48-8309-c3e088b1b9f0,App Store Review,9,Promoter,5,Documents kept getting rejected,Funding method,0.81
+a21b71ba-7e8f-4320-bec3-ef9daa3766a9,NPS Survey,10,Promoter,5,Unclear fee structure,KYC friction,0.77
+8437121c-39ed-4b10-9dfe-570f8fa8d4f4,CSAT Survey,7,Passive,5,Verification took too long,None,0.418
+f675571a-4ca6-4cbd-8d12-79a468297783,In-app Feedback,3,Detractor,1,,KYC friction,-0.444
+6d33cab8-235a-4aa8-90b0-9884e346b510,CSAT Survey,4,Detractor,1,Could not link my bank account,Fees,-0.652
+35ddec1c-962b-4672-8bfb-cb7597b21901,App Store Review,4,Detractor,2,Wanted to compare with competitors first,Usability,-0.574
+99c8da87-085c-4622-bb1e-48eb9424e365,CSAT Survey,5,Detractor,3,Unclear fee structure,None,-0.497
+d7ea779a-b35d-4b86-9583-2887f1e83c5f,Exit Survey,4,Detractor,2,Did not trust the platform yet,Usability,-0.153
+6fea9b31-9df9-4727-ab23-a02adf3a42e2,App Store Review,10,Promoter,4,Did not trust the platform yet,None,1.0
+a89431a1-34a5-4926-b7e5-10f26f7c5285,NPS Survey,6,Detractor,4,,Fees,0.211
+cbcf2e5f-dbba-408f-abc4-12843dacc8e1,In-app Feedback,8,Passive,4,Unclear fee structure,Competitor comparison,0.701
+f4a9ea6a-bc0b-490a-8799-9c2b5718c817,App Store Review,10,Promoter,4,Unclear fee structure,Usability,1.0
+46a7fff2-a4a0-4f6c-9403-87e105418878,CSAT Survey,7,Passive,3,Verification took too long,KYC friction,0.27
+86135ae8-f8ec-4a4f-874b-e02ed8caac05,App Store Review,2,Detractor,2,App was confusing to navigate,KYC friction,-0.693
+2fd90913-d688-4c04-8e47-e973b92faf00,NPS Survey,9,Promoter,5,Did not trust the platform yet,None,0.793
+7cba443e-54fc-4e19-806a-f624ac16d4ec,Exit Survey,4,Detractor,2,App was confusing to navigate,None,-0.464
+a45dd857-df08-43d7-b9b7-dea39e4778b4,NPS Survey,9,Promoter,5,Wanted to compare with competitors first,KYC friction,0.747
+60ab60b9-bdc9-421b-a4a0-4c2cc5a124f3,Exit Survey,6,Detractor,3,App was confusing to navigate,None,0.064
+270aec09-7362-4da5-b1e8-3688272ed5f8,NPS Survey,5,Detractor,3,Did not trust the platform yet,Funding method,0.146
+1c2a94b2-ae77-412d-ad87-d3d2bb591434,App Store Review,10,Promoter,5,Unclear fee structure,Competitor comparison,0.924
+79549553-839f-4fa6-a4c3-b2d58d025039,In-app Feedback,7,Passive,2,Wanted to compare with competitors first,None,0.237
+34d1d47c-e940-411d-872e-f97f5720ffc2,NPS Survey,6,Detractor,3,Unclear fee structure,KYC friction,0.184
+34295b24-0f8d-4e53-b9c5-b589950519e7,CSAT Survey,5,Detractor,3,Documents kept getting rejected,Usability,-0.144
+3acf3854-77cb-4dc6-a371-822c7c5a0d5a,Exit Survey,6,Detractor,4,Verification took too long,KYC friction,-0.017
+16d51a04-1a28-4bf4-ac4b-26e5fe052cee,Exit Survey,7,Passive,5,Could not link my bank account,None,0.402
+3210cc71-51b4-487d-92a0-15e53d7d4ce7,Exit Survey,10,Promoter,4,No time to finish signing up,None,0.881
+9fadc55a-2f4c-4210-9208-f8da5383dcd5,App Store Review,7,Passive,2,Could not link my bank account,Competitor comparison,0.176
+f5ac0fa6-6616-498e-8d97-16bd0217ef74,CSAT Survey,8,Passive,5,Support took too long to respond,Fees,0.654
+2395cf96-1dbf-4c07-afdc-ef68d1fc0ff0,NPS Survey,10,Promoter,5,,Usability,0.861
+88a2e350-ac6f-497a-8bd3-04889a1b1aa6,Exit Survey,7,Passive,4,,Time,0.389
+0fb87a39-fa00-4d22-a93d-782befd4c5d8,NPS Survey,9,Promoter,5,No time to finish signing up,Trust,0.121
+c859c38c-2153-4b11-96f7-413285b7b4c6,Exit Survey,1,Detractor,1,Minimum deposit too high,Trust,-0.669
+7a36c33d-b56a-407b-bd64-3c142f2072eb,In-app Feedback,3,Detractor,3,Wanted to compare with competitors first,Funding method,-0.365
+a37198ba-201a-4156-a7f0-0d9f94208d6b,App Store Review,6,Detractor,2,Support took too long to respond,None,0.001
+ba5bcd67-296a-43d0-be7c-a984e39fa371,In-app Feedback,3,Detractor,2,Could not link my bank account,Trust,-0.587
+3b55e5a7-799c-4a72-9b5a-42bfcce6913e,CSAT Survey,8,Passive,5,Verification took too long,KYC friction,0.346
+3831e1fb-3a48-4d55-8358-7c48cf47ffad,In-app Feedback,5,Detractor,2,Could not link my bank account,Fees,0.186
+3a58d11f-fb92-42ff-800c-9dc8252eaabc,App Store Review,10,Promoter,5,Minimum deposit too high,None,1.0
+16c0e8c3-46c4-4cbb-b1b5-f9be5aecaf37,CSAT Survey,8,Passive,5,Verification took too long,Trust,0.732
+4510fac1-d329-4329-ab22-7216f8ba93b8,In-app Feedback,6,Detractor,3,Unclear fee structure,Funding method,0.062
+b915b504-b53b-4977-8bf0-e4fb19537d16,In-app Feedback,9,Promoter,5,Could not link my bank account,Fees,0.751
+9bd6fd6e-e6a2-4f2d-b11e-cc1980a4da37,In-app Feedback,9,Promoter,3,Support took too long to respond,None,0.237
+bfc55f13-d36b-4d13-bc77-7333c1d1446a,In-app Feedback,10,Promoter,4,App was confusing to navigate,KYC friction,1.0
+92fb06ba-7622-4cd9-8976-e67e48ffa332,Exit Survey,4,Detractor,2,Support took too long to respond,None,-0.561
+5026315b-6d0e-4b36-9e17-4d00e417d1de,App Store Review,8,Passive,4,No time to finish signing up,KYC friction,0.089
+edea2e33-1cff-4349-a77f-76826846c1e6,CSAT Survey,9,Promoter,5,App was confusing to navigate,KYC friction,0.56
+6c08c69f-23d4-48dc-b133-49e624e86b03,CSAT Survey,7,Passive,5,Did not trust the platform yet,None,0.628
+dcb6e7ad-44d3-416c-86ef-0b9d30339ac0,Exit Survey,4,Detractor,2,No time to finish signing up,Time,-0.638
+7f898c75-04be-4526-93c0-77a39e87ea25,In-app Feedback,5,Detractor,2,Unclear fee structure,KYC friction,-0.196
+0c2b95f1-c8d6-49bb-8f76-a4e07d07a43b,In-app Feedback,4,Detractor,2,,None,-0.16
+00ce4602-768e-4737-ab37-5043d20e0e52,App Store Review,9,Promoter,5,Wanted to compare with competitors first,Trust,1.0
+3f8aa0a4-c706-415d-981a-42bf165074fa,NPS Survey,4,Detractor,3,No time to finish signing up,None,-0.216
+dc0efb87-f441-4fd1-bbb8-bd07ddc72257,Exit Survey,8,Passive,5,Could not link my bank account,Funding method,0.714
+3dc6b6cc-7731-4196-b03d-8a8b5cdc1796,CSAT Survey,8,Passive,4,Verification took too long,None,0.552
+8d599c20-ef46-46a2-a963-446fa4edf6e5,In-app Feedback,9,Promoter,4,Support took too long to respond,None,0.873
+7cb56f86-5fde-46b8-8ece-2a82f9e9f145,App Store Review,6,Detractor,3,Wanted to compare with competitors first,KYC friction,0.167
+d9addd99-9102-4d08-af34-944571162684,NPS Survey,9,Promoter,4,Minimum deposit too high,Funding method,0.477
+4137453f-343d-4526-bbeb-7bf99d1d32ff,In-app Feedback,10,Promoter,5,Did not trust the platform yet,Competitor comparison,1.0
+7f86e3eb-9d51-489b-9877-2e46b7f00390,App Store Review,10,Promoter,5,Minimum deposit too high,None,0.318
+79fcd51b-8967-48e8-98a0-e7f08885bb1a,App Store Review,9,Promoter,5,Support took too long to respond,Funding method,0.387
+ab0573c4-e583-4c06-9731-fb048dff25e8,NPS Survey,10,Promoter,4,Support took too long to respond,None,1.0
+2426552e-081c-4d24-a298-c308ff86e680,App Store Review,6,Detractor,3,Wanted to compare with competitors first,Trust,-0.214
+56596e29-95d9-404f-b941-e10678dc995f,In-app Feedback,8,Passive,4,Could not link my bank account,None,0.316
+99a6f960-ca7d-4c79-804f-76e2a297d367,Exit Survey,10,Promoter,5,App was confusing to navigate,None,1.0
+eeef59c2-512d-456e-8239-1cdd4f700dbd,CSAT Survey,10,Promoter,5,,Time,0.552
+46f1fe14-d444-42c7-968d-ffae3c6b368a,Exit Survey,8,Passive,4,,Time,0.497
+51462758-2084-44b0-9b5d-3e51b3636e8d,App Store Review,7,Passive,4,,Time,0.866
+c894d926-061a-4a42-bc48-bc4215f55b51,NPS Survey,9,Promoter,4,Unclear fee structure,Fees,1.0
+397176ab-2423-4e75-b5b9-d0cfbf143395,App Store Review,7,Passive,4,Wanted to compare with competitors first,Usability,-0.048
+87290888-6e1d-48a1-bc93-78e7ea187e64,In-app Feedback,9,Promoter,5,,None,0.895
+646c7fd3-a56d-4f91-9eed-ae979ce6424b,Exit Survey,6,Detractor,3,Did not trust the platform yet,None,-0.045
+272ac44e-5e34-4a16-b3d0-648d979278e9,Exit Survey,5,Detractor,2,,KYC friction,0.26
+f35a381e-d70f-427d-a650-d19d27a6f707,App Store Review,4,Detractor,4,Could not link my bank account,KYC friction,-0.05
+c9de8e1f-e358-4f33-8976-ba33c5356441,NPS Survey,10,Promoter,5,Minimum deposit too high,None,0.688
+e6eaaccd-6ed6-459f-b40f-c1a6dd8a10d0,NPS Survey,6,Detractor,2,Did not trust the platform yet,Fees,0.007
+9e0bd7a0-3807-46c4-812d-d53eb0bf9d3c,CSAT Survey,9,Promoter,5,Minimum deposit too high,None,0.683
+d3e12164-b71c-470f-a064-64b911a1781f,App Store Review,9,Promoter,3,,Funding method,0.414
+af7e25a4-bdc2-4e89-b433-3e6ebc517b1b,NPS Survey,5,Detractor,2,Could not link my bank account,None,0.333
+04ce8b7f-6882-482e-a2a6-ce6379cd2662,App Store Review,7,Passive,4,Did not trust the platform yet,Usability,0.195
+6dbb3cf7-b9b3-4152-b943-54252460de60,CSAT Survey,3,Detractor,1,No time to finish signing up,Usability,-0.287
+9fc394c4-3976-4e57-b807-334202366e55,NPS Survey,5,Detractor,2,Verification took too long,Usability,0.24
+751dc190-dcdb-448e-8aee-6dbf9e010fb8,Exit Survey,8,Passive,3,Unclear fee structure,Funding method,0.802
+63cc5f72-234b-43fc-8fa5-0dba9067cb09,CSAT Survey,10,Promoter,5,Support took too long to respond,None,0.987
+764602a6-d968-49fe-8c74-de72b8440b90,CSAT Survey,10,Promoter,5,No time to finish signing up,None,1.0
+5cd41ef4-f762-4918-b427-9af6a8498770,In-app Feedback,5,Detractor,4,Verification took too long,None,-0.296
+f7e008bb-e36a-4efe-97dc-5a8eac8223e4,NPS Survey,7,Passive,3,No time to finish signing up,None,0.797
+3190f11f-3142-4eae-8932-9165824c25e3,CSAT Survey,1,Detractor,1,Unclear fee structure,KYC friction,-0.781
+3eb7f797-89a1-422a-b947-e52da33372b1,CSAT Survey,4,Detractor,2,Minimum deposit too high,KYC friction,-0.089
+4b0da163-b643-42cb-8dc8-cfa04d07f65b,CSAT Survey,10,Promoter,5,,KYC friction,0.182
+8d06702d-4a35-45f5-8107-c0ad44b04e7b,NPS Survey,2,Detractor,1,Wanted to compare with competitors first,Funding method,-0.699
+d1c75e44-3c9d-4692-957f-338ef28963d6,App Store Review,4,Detractor,1,Unclear fee structure,Time,0.266
+13b92764-3268-4494-9d8a-2d0a68c0dce4,Exit Survey,8,Passive,3,Minimum deposit too high,Trust,0.804
+f6fb8aa6-67dc-4dff-bc06-7f04a9993390,In-app Feedback,10,Promoter,5,Unclear fee structure,None,0.968
+c496fa50-95b3-47cc-abac-8753dfe46ea4,NPS Survey,3,Detractor,2,No time to finish signing up,KYC friction,-0.294
+da5cf0a9-aef0-45fe-a816-145ebb4bdfc0,CSAT Survey,9,Promoter,5,Unclear fee structure,Usability,0.541
+d28bbb75-c81f-4ce4-a28a-f63b98df1413,NPS Survey,3,Detractor,2,App was confusing to navigate,KYC friction,-0.214
+25b0bbf6-c959-4499-8212-9ebd012ae018,NPS Survey,6,Detractor,3,,Time,0.324
+aa79ae44-f224-4236-822b-96c7a48bcf6a,App Store Review,4,Detractor,2,Verification took too long,Time,-0.135
+cf467897-0ebb-40f3-8fdc-ffe85dc67b62,In-app Feedback,5,Detractor,3,Documents kept getting rejected,Usability,-0.123
+1bef5b93-5e6c-41f2-aeba-08ff589fe979,In-app Feedback,8,Passive,4,Could not link my bank account,KYC friction,1.0
+b1bee5eb-2337-4bf3-bf33-dd9a44dd86c1,In-app Feedback,6,Detractor,3,Documents kept getting rejected,None,-0.539
+d33e1b1e-00ac-44c7-bb3a-8a8e18bb3171,App Store Review,4,Detractor,3,App was confusing to navigate,None,0.036
+6d8d7aca-56e8-41f2-8082-d6e35ed374ae,Exit Survey,9,Promoter,5,Minimum deposit too high,None,0.974
+426d9fb6-125c-40da-bd88-994f031d6821,App Store Review,7,Passive,4,Could not link my bank account,KYC friction,0.421
+07a7af21-27e2-444e-9435-416fc1550a66,Exit Survey,10,Promoter,5,Wanted to compare with competitors first,None,1.0
+5d5bda99-4571-4f64-b985-cca405a5554f,CSAT Survey,10,Promoter,5,Minimum deposit too high,Funding method,0.858
+e15718af-85e6-4aa1-bb1b-796fab639fc9,CSAT Survey,10,Promoter,5,,None,0.858
+8b8d6ba8-6bf5-4380-9fc3-0155b60256c3,In-app Feedback,7,Passive,2,Did not trust the platform yet,None,0.358
+01d3fd01-33c0-4ef4-9e03-05ee2310268e,App Store Review,6,Detractor,3,Verification took too long,None,0.127
+fc107d7c-a4cb-4cad-b792-d79f8103c5d1,NPS Survey,3,Detractor,2,Minimum deposit too high,Trust,-0.458
+a52f499a-884d-43b4-990c-4ad650997d10,CSAT Survey,6,Detractor,4,Unclear fee structure,None,0.518
+930046ed-c7fb-4449-8f5a-2be365fd1b9a,App Store Review,9,Promoter,5,App was confusing to navigate,Trust,0.456
+ac6ff455-b73e-4d2f-920c-c0378f00f844,Exit Survey,10,Promoter,4,Wanted to compare with competitors first,None,0.877
+db3d39a0-2e9e-4ab0-839a-e25cfb93f271,Exit Survey,6,Detractor,4,Could not link my bank account,None,0.83
+365c8557-c194-4d3b-b462-e4f0216512fc,Exit Survey,10,Promoter,5,Unclear fee structure,Funding method,0.708
+d6daa50b-5bfe-449e-b4a6-125708984b2b,NPS Survey,4,Detractor,2,Verification took too long,KYC friction,-0.045
+02811b3a-cef3-4f93-8536-cad49a9810d1,In-app Feedback,3,Detractor,2,Did not trust the platform yet,Trust,-0.546
+9b8b90d6-83e6-46ae-b4a4-76594a3789d8,In-app Feedback,3,Detractor,2,Unclear fee structure,Usability,-0.682
+419c1d10-e856-40d3-aec8-21e1e2bddc16,NPS Survey,8,Passive,4,Wanted to compare with competitors first,None,0.562
+5c37dfd6-0fcd-4c92-a3f4-5bff7ec4cf16,Exit Survey,0,Detractor,1,No time to finish signing up,KYC friction,-0.506
+c36cf171-5f5b-4e87-89b9-73ebf854b688,Exit Survey,5,Detractor,1,Support took too long to respond,Usability,-0.286
+76a1793e-001e-4429-82dd-63063fc48595,Exit Survey,7,Passive,1,Unclear fee structure,KYC friction,0.507
+b40d2a1c-28e0-4748-9e30-9756e144d1f2,CSAT Survey,3,Detractor,1,,Fees,-0.658
+24d7d988-f5ff-44fe-9655-7d8552363e78,App Store Review,3,Detractor,2,App was confusing to navigate,None,-0.403
+ae774218-a853-456a-8456-16290571b4d1,NPS Survey,10,Promoter,5,Could not link my bank account,None,0.666
+ed50b693-9cfc-47ff-b8eb-4c93243bcd31,App Store Review,10,Promoter,5,App was confusing to navigate,Time,0.705
+2d7ed71f-b4cb-4d4f-97ac-dfe733c5874f,In-app Feedback,6,Detractor,4,Documents kept getting rejected,KYC friction,0.013
+c0856364-cd3c-4b0f-9a2b-08d36692000f,App Store Review,4,Detractor,3,No time to finish signing up,Competitor comparison,-0.239
+c71f1e4f-9421-4151-afec-1d7aa2f2c92f,App Store Review,10,Promoter,5,Unclear fee structure,Trust,0.663
+7e5746c7-d4e9-43ce-834c-1a8558c3ccb3,CSAT Survey,10,Promoter,5,No time to finish signing up,None,0.631
+682f626c-cc3d-41cd-ace3-6cbad153da69,In-app Feedback,9,Promoter,5,,KYC friction,0.794
+b37f8e77-cfda-4ced-8e7c-b427c8d5da35,NPS Survey,7,Passive,4,Wanted to compare with competitors first,None,0.676
+4fcaedf8-8500-49f6-84e3-b9c13515bfe6,App Store Review,7,Passive,3,App was confusing to navigate,None,0.779
+be5e565d-9a53-4ff5-bea0-79c416d30b4d,NPS Survey,2,Detractor,2,Verification took too long,None,-0.433
+96699f7c-5664-496a-8789-7ff5c67390ab,Exit Survey,4,Detractor,2,,KYC friction,-0.179
+0fbbc5cf-bc03-42a5-bfae-c71f64c12b91,In-app Feedback,7,Passive,4,No time to finish signing up,KYC friction,0.344
+56b14a78-68fd-488e-9291-066ef8c984b5,In-app Feedback,10,Promoter,5,Verification took too long,None,1.0
+4f9d33dc-9f81-45be-8a8e-1933bf677cff,App Store Review,9,Promoter,4,Could not link my bank account,Funding method,0.494
+77b8cc99-7e23-4f0b-808a-adf27114866d,NPS Survey,2,Detractor,1,Wanted to compare with competitors first,Competitor comparison,-0.728
+e1b97d08-5895-4085-af16-8f5d6abe0acb,CSAT Survey,5,Detractor,1,Unclear fee structure,None,-0.549
+3675d3dd-a616-49b9-8ae4-a46b0e008163,NPS Survey,4,Detractor,2,Unclear fee structure,KYC friction,-0.605
+49459720-7f63-42c4-872e-896d6a11fc56,App Store Review,3,Detractor,2,,KYC friction,-0.156
+87f81c13-957a-436f-977a-822102213fd4,App Store Review,5,Detractor,1,Minimum deposit too high,None,0.326
+35ed029c-9426-4c48-9c0d-5d14e030edb6,NPS Survey,10,Promoter,5,Unclear fee structure,Usability,0.68
+ad711377-18c8-4fb3-af5f-4a363035ee14,Exit Survey,9,Promoter,3,Unclear fee structure,KYC friction,0.808
+f929ded7-30c8-4bf5-b1d0-38408300f210,In-app Feedback,4,Detractor,2,Wanted to compare with competitors first,Funding method,-0.286
+f172c902-f362-483a-a31a-3ec2443c39f0,Exit Survey,7,Passive,4,Documents kept getting rejected,None,-0.12
+b072d6e8-42bf-46c5-a0b9-4f0dbbc8ba14,Exit Survey,8,Passive,3,Support took too long to respond,None,0.022
+ea640648-d6f0-46bd-a316-d0d87a43a45b,In-app Feedback,7,Passive,3,Documents kept getting rejected,Fees,0.485
+29cc0277-4f7f-46e4-bf9c-af2527ef20b2,App Store Review,10,Promoter,5,Did not trust the platform yet,None,0.686
+29fed318-efe9-4b45-87a1-b376033742b9,CSAT Survey,3,Detractor,1,Unclear fee structure,Trust,-0.204
+8b734a8c-e50d-4d56-b299-a6026cd0df12,Exit Survey,5,Detractor,4,,Usability,-0.188
+03ce9328-67c1-4988-b459-67ddf05d8bee,CSAT Survey,10,Promoter,5,Could not link my bank account,Time,0.638
+d6817203-4256-4094-a42a-061c7c2fe454,App Store Review,5,Detractor,3,Unclear fee structure,Usability,-0.303
+af08a418-1bb4-48b4-b9ee-1e83f8c52d70,In-app Feedback,5,Detractor,4,Did not trust the platform yet,Trust,-0.148
+075402d9-ad48-41a0-8f6c-323f2d52ab5c,App Store Review,9,Promoter,5,Verification took too long,None,0.554
+b14421e1-36eb-43e3-82d6-ac745057e044,App Store Review,7,Passive,3,No time to finish signing up,Fees,0.166
+e07377dc-5495-4dc7-a23e-bc0b9126c7a9,In-app Feedback,6,Detractor,2,,None,0.043
+e23e829e-af31-4d09-adb4-b036bdd4f012,App Store Review,7,Passive,4,,Usability,0.555
+601ffd45-2dca-41b3-930d-eee3b2006972,App Store Review,8,Passive,3,Unclear fee structure,None,-0.067
+51fef987-6ec7-4cf2-990d-b8aa24e3a085,CSAT Survey,5,Detractor,2,Did not trust the platform yet,Usability,0.059
+83c75207-6267-4928-8e3a-24612e29ba64,Exit Survey,5,Detractor,2,Verification took too long,None,-0.379
+5f4fae3b-91b2-442c-a87a-3f9a24103cc2,Exit Survey,6,Detractor,3,Documents kept getting rejected,Time,0.898
+83cc58cb-b194-4448-b4cf-a927b1e2eea6,App Store Review,3,Detractor,1,Wanted to compare with competitors first,None,0.167
+f550a369-cebf-4437-95da-e2fd14439a4f,App Store Review,2,Detractor,1,,Trust,-0.27
+4bb6f544-78ea-4e96-9e61-f0882f9f3fd9,NPS Survey,2,Detractor,2,No time to finish signing up,Time,-0.946
+ae475cc6-d2f7-468d-b839-2f5f29549cfe,Exit Survey,0,Detractor,1,Support took too long to respond,Time,-0.435
+61477e6a-c05c-4ed2-ac4d-eabcd380fff8,NPS Survey,5,Detractor,1,Did not trust the platform yet,KYC friction,-0.074
+4554ccac-4368-44ea-b505-323551d9c7c3,NPS Survey,9,Promoter,5,Verification took too long,None,0.832
+65b4c140-6046-46bf-8ac5-727a88cef528,Exit Survey,6,Detractor,4,Unclear fee structure,Usability,-0.24
+9ea55190-e691-455b-be10-98368300a106,NPS Survey,2,Detractor,1,Unclear fee structure,Funding method,-0.912
+8b65a6e8-89de-413b-a6f6-5bc75a82efaf,In-app Feedback,2,Detractor,1,Documents kept getting rejected,None,-0.665
+26bd21ea-951f-4928-b4d0-b9df11baecbc,CSAT Survey,7,Passive,4,Did not trust the platform yet,None,0.81
+02a9f486-cb29-4e25-8ad3-e453087bdcc9,CSAT Survey,5,Detractor,2,Unclear fee structure,KYC friction,0.211
+3f3a5b8c-6302-47de-b696-d72cf9662b46,App Store Review,7,Passive,4,Minimum deposit too high,None,0.55
+1021055c-3149-438d-81a5-3e9099c0b062,App Store Review,6,Detractor,3,Minimum deposit too high,Fees,0.124
+66f7497b-f2db-439e-80d6-add699975e4c,Exit Survey,4,Detractor,2,Unclear fee structure,Funding method,-0.23
+9bfe9d91-0e13-4676-84f5-8d398fa68c74,NPS Survey,5,Detractor,3,Did not trust the platform yet,Funding method,0.235
+2dda0635-fc11-43b2-bd40-5a8358a52803,Exit Survey,10,Promoter,5,App was confusing to navigate,KYC friction,1.0
+cb198807-e35d-4b56-a0dc-aeb09a281e5f,In-app Feedback,10,Promoter,5,No time to finish signing up,None,0.903
+7c324277-1399-4076-981d-b0bd6d2b799b,Exit Survey,8,Passive,5,Unclear fee structure,None,0.997
+d1e86906-4c7b-45d0-93af-2c6e62e4364c,CSAT Survey,9,Promoter,5,Could not link my bank account,None,0.979
+931aecac-f183-412b-89ad-679474a6bb47,NPS Survey,9,Promoter,5,Wanted to compare with competitors first,None,0.956
+6a781450-784b-45e7-9712-7388a7b7a0f7,App Store Review,2,Detractor,1,,KYC friction,-0.151
+70067d46-94e2-45df-b917-21631a62014b,Exit Survey,6,Detractor,3,App was confusing to navigate,Fees,0.534
+eb9f5b79-3ab0-474a-aa3c-7a06e918897e,App Store Review,5,Detractor,3,Minimum deposit too high,KYC friction,0.291
+a70e8526-a6fa-47bf-bcae-b799c2286b57,Exit Survey,6,Detractor,3,Minimum deposit too high,KYC friction,0.092
+213fc69e-5ece-40cd-b083-ac7f345a3677,NPS Survey,7,Passive,3,Support took too long to respond,KYC friction,0.176
+f6ab500c-8633-4993-97d6-8aa7563a6321,Exit Survey,3,Detractor,1,Did not trust the platform yet,Trust,-0.349
+eea67b12-9528-433c-b3ab-66072145a0e4,App Store Review,9,Promoter,3,Unclear fee structure,None,0.327
+add552a8-89ff-4404-955b-39f34c0d6859,NPS Survey,7,Passive,4,Verification took too long,None,0.579
+0036a9f7-dbc0-4706-82a3-2f89931a55d9,CSAT Survey,8,Passive,5,,None,0.531
+ccaa10b8-3c20-475d-9614-520a2a2ae351,In-app Feedback,3,Detractor,2,App was confusing to navigate,Usability,-0.476
+66d846a1-1398-4dcf-a920-a86dfc56b911,NPS Survey,5,Detractor,4,Minimum deposit too high,Funding method,-0.428
+a8d97beb-937a-4e3f-827b-7033fc502723,App Store Review,5,Detractor,3,Verification took too long,Time,-0.335
+974f4605-511e-4b65-8b88-e25e3ce1a5cd,Exit Survey,3,Detractor,1,Minimum deposit too high,KYC friction,-0.573
+09e10f61-abad-4cf8-97e8-fcd4e272c875,NPS Survey,10,Promoter,5,Support took too long to respond,Fees,1.0
+8ab4e580-b297-43b1-b6f4-aec7243e20d5,App Store Review,9,Promoter,4,Did not trust the platform yet,None,0.713
+50f2d834-3858-4386-918c-13633f0d1ecd,CSAT Survey,5,Detractor,2,Support took too long to respond,Competitor comparison,-0.013
+47053966-468e-44a6-bd81-fd09a428cfad,App Store Review,10,Promoter,4,Wanted to compare with competitors first,None,0.695
+54214b10-5bbd-46f8-ab52-bf23c240a6a3,In-app Feedback,9,Promoter,5,,KYC friction,0.771
+335c2ae1-542f-4da2-845a-9330046f2c04,In-app Feedback,8,Passive,4,Could not link my bank account,None,0.515
+39e11975-f8f0-4e92-b606-51c5d21ec319,App Store Review,8,Passive,4,No time to finish signing up,Fees,0.263
+7c5d02b7-cb0f-4279-b43e-bbc868a572b2,NPS Survey,5,Detractor,3,Verification took too long,Time,-0.134
+43facf3a-f555-4217-b476-6da530705a61,CSAT Survey,10,Promoter,5,Wanted to compare with competitors first,None,0.775
+e8d548ae-ca57-4b43-aa97-f35bad5d64c2,NPS Survey,10,Promoter,5,,None,0.96
+8f9fa575-4b98-41ed-aaea-1ce030596ab7,Exit Survey,6,Detractor,3,Wanted to compare with competitors first,Funding method,0.583
+c7e60e31-881b-432a-b698-70fab037702c,In-app Feedback,8,Passive,4,,None,0.371
+30e84fc6-fa11-4ffd-b0c2-d445eef731a3,Exit Survey,8,Passive,4,Documents kept getting rejected,Usability,0.526
+0244cb99-e5e4-48da-8775-807f3f7cacdf,In-app Feedback,9,Promoter,4,Wanted to compare with competitors first,None,0.52
+ec33a261-16dd-465e-9f25-59af5383d66f,In-app Feedback,6,Detractor,2,App was confusing to navigate,Time,0.344
+8b9d6e1c-77a5-49dd-858f-71c03a34c45d,In-app Feedback,6,Detractor,2,App was confusing to navigate,None,0.018
+d9b8680a-7fdd-4a40-a161-c5b7e7522247,In-app Feedback,6,Detractor,3,,KYC friction,0.713
+343d3c0f-f3b2-4dcd-bbaa-d81b7bd554e5,In-app Feedback,10,Promoter,4,Minimum deposit too high,None,0.382
+3fc784b4-9535-4618-8f26-a42c6a28ccef,Exit Survey,10,Promoter,5,App was confusing to navigate,None,1.0
+9a0f0fde-b123-49d9-9dc4-c2a4b16289e1,In-app Feedback,4,Detractor,1,Verification took too long,Usability,-0.337
+962bbac9-b6c4-49ae-bb66-8e93ca4b6398,CSAT Survey,8,Passive,4,No time to finish signing up,Usability,0.313
+5f9db8f1-29e1-4d77-9e22-a80f7fba3067,In-app Feedback,10,Promoter,5,,None,0.497
+6bc9dc35-bcc7-40c8-98de-f39563962b61,NPS Survey,10,Promoter,3,Did not trust the platform yet,Competitor comparison,0.751
+90a54ba2-74b2-4b44-a2c0-f64b5409f98a,CSAT Survey,3,Detractor,2,Wanted to compare with competitors first,Funding method,-0.125
+826c4515-c507-4dd5-ac98-4f7f98df86db,Exit Survey,10,Promoter,5,Did not trust the platform yet,None,1.0
+8bca308b-9292-4b77-a236-05ac39cfc204,In-app Feedback,7,Passive,4,Support took too long to respond,None,0.446
+05c06b54-bec7-4b66-8822-93696042fa2e,CSAT Survey,10,Promoter,4,Unclear fee structure,None,1.0
+bc2ad41b-f35b-4a7f-97fc-8a65a0b9dd30,Exit Survey,6,Detractor,1,Did not trust the platform yet,None,0.184
+442b1d14-084f-4f0c-9441-4f54966956a1,CSAT Survey,9,Promoter,4,Minimum deposit too high,Trust,0.965
+fccccd5d-771f-4ea0-b28b-d8e47bfb7e35,In-app Feedback,6,Detractor,2,App was confusing to navigate,KYC friction,0.468
+09583bff-dfe4-4549-bbe5-cbe2757d91b2,Exit Survey,10,Promoter,5,App was confusing to navigate,None,1.0
+cf447d48-d0cc-4d2f-b07a-e37caa32b7cb,NPS Survey,5,Detractor,3,Verification took too long,Competitor comparison,0.044
+d1b42130-5339-414e-b57f-2ec618ed161f,In-app Feedback,7,Passive,4,Support took too long to respond,KYC friction,0.348
+00e741d8-8487-4eb3-85c3-bf946ce63645,Exit Survey,2,Detractor,1,No time to finish signing up,Funding method,-0.761
+3563e7e9-d8c6-486a-9fbf-b952caa0727b,CSAT Survey,10,Promoter,4,App was confusing to navigate,Trust,0.884
+0a2efbd2-12fb-4bb5-90a2-39ec4dabe512,CSAT Survey,5,Detractor,1,Documents kept getting rejected,KYC friction,-0.053
+b85272fd-5e41-4847-810f-3ef86fa60950,App Store Review,6,Detractor,3,Did not trust the platform yet,KYC friction,0.226
+1529c82c-7337-479f-8de7-9f9d42a488ab,CSAT Survey,2,Detractor,1,Wanted to compare with competitors first,Trust,-0.468
+c89a9b94-f440-4a0b-8f9a-ce9031a309c9,Exit Survey,10,Promoter,5,Support took too long to respond,None,1.0
+9f225823-8f0d-4c52-a0e6-768a7247f14c,App Store Review,7,Passive,5,Support took too long to respond,None,0.498
+ec5de18a-d339-4f8a-ac2f-2aa6fa794789,NPS Survey,4,Detractor,3,Documents kept getting rejected,None,-0.242
+20dadb9f-661e-4f0d-a9cb-e76ae64920d6,CSAT Survey,9,Promoter,4,Unclear fee structure,None,1.0
+c4feed10-df57-40cd-9372-379f3eb86315,NPS Survey,5,Detractor,3,Did not trust the platform yet,None,-0.421
+a9673f25-9a59-4f47-9933-65a3cfaaef41,NPS Survey,7,Passive,3,Could not link my bank account,None,-0.226
+e050bb8c-f038-40cf-af90-c188cf6dec45,Exit Survey,9,Promoter,5,No time to finish signing up,None,-0.056
+e707825b-5588-437a-9b25-6188856b15a2,CSAT Survey,10,Promoter,5,Verification took too long,None,0.867
+f6e31351-35f0-4b25-9848-2d68c6266f0c,NPS Survey,10,Promoter,5,Could not link my bank account,None,1.0
+7b9c0d66-07b7-4a0c-a0a2-e4fec1aee99c,Exit Survey,8,Passive,4,Did not trust the platform yet,Trust,0.751
+c77b8fb4-8d9f-4655-a314-53a9b08c1ae8,App Store Review,4,Detractor,2,Support took too long to respond,Fees,0.031
+1f3f9ab2-7846-4676-bf96-f0c14e18f133,Exit Survey,7,Passive,2,Support took too long to respond,Trust,-0.048
+c3259182-19b9-4709-a5c7-6b0d68f354f9,CSAT Survey,9,Promoter,5,Could not link my bank account,None,0.548
+34354ce5-c59e-48ad-b5d5-733417339d1c,CSAT Survey,5,Detractor,3,Documents kept getting rejected,Funding method,0.016
+936eeb70-4e76-42b6-a209-1d5da2120cea,In-app Feedback,5,Detractor,1,Unclear fee structure,KYC friction,-0.578
+fe47c24e-35ef-4663-ad14-505a67e273ea,NPS Survey,10,Promoter,5,Wanted to compare with competitors first,None,0.729
+a1d66086-1ac3-4cf9-9590-06b54de6a17e,Exit Survey,8,Passive,5,Wanted to compare with competitors first,Usability,0.659
+70e91a20-9edc-43c7-85ae-52be55961c86,App Store Review,4,Detractor,1,Documents kept getting rejected,Usability,0.54
+0bc876ed-d642-4287-ae5c-e3296d58f3d2,Exit Survey,9,Promoter,4,Could not link my bank account,None,0.85
+8c8d0621-cffc-429e-b15e-4b2ce7b97b4e,CSAT Survey,5,Detractor,3,Wanted to compare with competitors first,None,-0.106
+81241738-f5e3-4f8b-a948-1dbc5f04a95d,CSAT Survey,5,Detractor,3,Wanted to compare with competitors first,Time,0.194
+4ce2f952-349c-48c3-a27f-c3364891f6f4,Exit Survey,4,Detractor,3,Did not trust the platform yet,None,0.61
+84da88c5-47d1-4b3a-ab16-4b4bcc56e543,App Store Review,9,Promoter,4,Could not link my bank account,Trust,0.357
+c447150d-b916-443d-a367-8fa104d37f59,CSAT Survey,10,Promoter,5,Unclear fee structure,None,0.745
+39676836-4167-4491-9fd0-4b1222fe8490,In-app Feedback,7,Passive,3,Unclear fee structure,None,0.225
+5e5a324f-0607-4527-981b-92a1b51006e3,Exit Survey,7,Passive,4,Verification took too long,KYC friction,0.582
+7f8b2c24-514c-41ae-ae7f-1effe2209ea1,CSAT Survey,7,Passive,3,,Usability,0.017
+b74c9ff8-38a9-429d-b863-88772f721572,NPS Survey,2,Detractor,2,App was confusing to navigate,KYC friction,-0.886
+36cec6c0-c1a5-4a98-b794-de7167ab5848,In-app Feedback,0,Detractor,1,Minimum deposit too high,Fees,-0.387
+e6edaa38-5a3c-42b8-a129-38672d5916bc,App Store Review,3,Detractor,2,Minimum deposit too high,KYC friction,-0.21
+07bc0a6f-4dc8-4377-abe6-3146d70cbefc,App Store Review,6,Detractor,3,Support took too long to respond,None,0.101
+dca53eaf-556f-476b-8d25-65ee6f04f66d,CSAT Survey,10,Promoter,4,Support took too long to respond,Fees,0.729
+2d3a73a9-0f55-40db-a9ea-9d35524b74a6,App Store Review,7,Passive,3,Support took too long to respond,KYC friction,-0.312
+b9dfc276-f7bc-4d1b-8e06-9adb5b329880,Exit Survey,5,Detractor,3,Minimum deposit too high,KYC friction,0.362
+a59b53e1-21f0-480e-808d-5dd33a80dbd2,NPS Survey,6,Detractor,3,Minimum deposit too high,KYC friction,-0.073
+e7952c64-b42c-4437-af96-2e395b28a4fb,Exit Survey,10,Promoter,5,Documents kept getting rejected,KYC friction,0.798
+77719e9e-a37c-4610-a20c-cafd4ed4a711,CSAT Survey,7,Passive,4,No time to finish signing up,None,0.581
+5e0e78dc-b072-4ae0-bb7f-47901f73729a,NPS Survey,10,Promoter,5,Verification took too long,KYC friction,0.69
+0b2ac6f7-c4fe-4812-a9cb-daf126dd1ae2,App Store Review,5,Detractor,2,App was confusing to navigate,None,-0.204
+229123ac-aa3f-43f7-81f1-9c5d1d96b2ce,Exit Survey,1,Detractor,1,Verification took too long,Usability,-0.21
+40065c23-54b4-43b6-953c-08ac3f08dcb2,App Store Review,6,Detractor,3,Unclear fee structure,None,0.731
+42bc488b-e9c4-420e-b96e-f147bc189d20,Exit Survey,10,Promoter,5,Unclear fee structure,None,0.93
+076b2d52-949c-4e33-91ad-6564e8caa0b1,NPS Survey,7,Passive,2,Did not trust the platform yet,None,0.837
+8f96b207-d71b-4083-967f-39c8c5ae6b88,In-app Feedback,10,Promoter,4,Did not trust the platform yet,None,1.0
+9268910c-2228-45f0-92f6-548522ca9a28,In-app Feedback,10,Promoter,4,No time to finish signing up,None,0.454
+0114a880-d3d8-45ab-abaa-845461288e93,In-app Feedback,9,Promoter,4,App was confusing to navigate,None,1.0
+4f3a32c9-2254-477f-8d6a-c8ff02bf63c0,In-app Feedback,5,Detractor,3,Did not trust the platform yet,Trust,0.19
+166e5caa-9751-444a-8200-d0cd175ed2fa,CSAT Survey,7,Passive,4,Minimum deposit too high,None,0.947
+616530ce-d34e-490f-b2e6-d70d2a79e20f,In-app Feedback,8,Passive,5,Did not trust the platform yet,None,0.401
+2eba4078-4897-48d2-97be-7f226e15b8d9,Exit Survey,10,Promoter,5,Could not link my bank account,Fees,0.945
+7040f6a0-537d-4393-90bb-56b3fdb100d7,In-app Feedback,9,Promoter,5,Support took too long to respond,None,0.313
+5dfc6736-de2b-4129-ae4d-439b604c1de1,Exit Survey,10,Promoter,5,Documents kept getting rejected,None,0.44
+ba2c189d-a092-4e83-957d-804d7b149a15,Exit Survey,10,Promoter,4,Support took too long to respond,None,1.0
+0fc1cb3e-e984-4e43-934b-507b65cc5040,In-app Feedback,10,Promoter,5,App was confusing to navigate,None,0.674
+d9777df9-17e6-4fd1-91d5-08676808f818,CSAT Survey,9,Promoter,5,,None,0.577
+7640a908-bc2e-4d8c-a1e2-dd057ef877ea,CSAT Survey,10,Promoter,5,Unclear fee structure,None,0.828
+9ae53bd0-382c-418c-a0e7-eae24f38b2e9,Exit Survey,7,Passive,3,Unclear fee structure,KYC friction,0.46
+1172428d-3c2e-428a-a166-54b5bacda897,NPS Survey,10,Promoter,5,Documents kept getting rejected,None,0.846
+5ec574f8-715c-4bc8-bf22-bbba7467a8fb,NPS Survey,10,Promoter,4,Could not link my bank account,None,0.727
+25e10352-a631-49e2-b32c-6c23b574cbd2,NPS Survey,2,Detractor,1,Support took too long to respond,KYC friction,-0.61
+020562a5-5538-48ac-9304-63aa3477e66f,App Store Review,8,Passive,3,Could not link my bank account,KYC friction,0.776
+da168ba7-8616-4061-ad49-217a73d7b30e,App Store Review,5,Detractor,3,No time to finish signing up,Trust,-0.081
+e85711a3-729e-4541-97b2-3c1b10a191f3,NPS Survey,10,Promoter,4,Wanted to compare with competitors first,Usability,0.741
+8f010c97-5f60-4e6f-8575-db8150edd3b1,NPS Survey,6,Detractor,3,Verification took too long,Trust,0.829
+72876be3-f978-43aa-b0d3-20d39a7bd7b4,In-app Feedback,10,Promoter,5,,None,0.967
+71d9fd35-b9b7-4c46-a87f-ab2d7da0ea0a,App Store Review,4,Detractor,3,No time to finish signing up,None,-0.106
+a97f32bc-0cb0-478d-add1-31edfd52073d,CSAT Survey,6,Detractor,3,,Trust,-0.021
+50fd51df-b822-4407-aa9d-6b1839addfa1,App Store Review,5,Detractor,2,Minimum deposit too high,Fees,-0.189
+7c928e71-94e3-4363-ae32-bbec51949afc,In-app Feedback,10,Promoter,5,Documents kept getting rejected,None,1.0
+9e939436-e02a-4e6f-9c81-38bd75ce074f,In-app Feedback,4,Detractor,3,Wanted to compare with competitors first,KYC friction,0.383
+0fdf79b1-b396-42d9-b63c-519d38009cd1,App Store Review,10,Promoter,5,,Funding method,0.575
+79e2637a-9950-4dc5-9ddb-d42eb6061f10,In-app Feedback,7,Passive,2,No time to finish signing up,Funding method,0.162
+d2c1e283-fd50-43a8-a3f0-1e1205c8fbdf,App Store Review,7,Passive,2,Documents kept getting rejected,Usability,0.125
+d9c3c8f6-d86d-4527-9a7e-47c94607a81e,Exit Survey,10,Promoter,4,Did not trust the platform yet,Time,0.405
+617b8a67-fd34-4d9c-ae22-ec938b0f9423,Exit Survey,5,Detractor,2,,Trust,-0.51
+157ccdb9-b88b-47b3-a5ef-4cf64aab3361,NPS Survey,8,Passive,5,No time to finish signing up,Trust,0.471
+be426929-12f1-407a-966f-010ce01f9315,NPS Survey,6,Detractor,3,Wanted to compare with competitors first,KYC friction,0.198
+36954777-e5fa-4cf5-bc6a-8df902dd4106,App Store Review,8,Passive,4,Wanted to compare with competitors first,None,0.461
+e13d45e3-62d5-4855-bfcc-908a6fdaf26e,In-app Feedback,8,Passive,3,Documents kept getting rejected,Trust,0.722
+f7d3a6c2-2b9a-4842-8466-160798384437,App Store Review,10,Promoter,5,App was confusing to navigate,Trust,0.337
+771ed537-b69b-4cc2-b836-3effa1b92354,Exit Survey,4,Detractor,1,Wanted to compare with competitors first,Fees,0.124
+01e826e7-2140-4ef7-949f-72d0e84221cd,App Store Review,7,Passive,4,No time to finish signing up,None,0.728
+e373d39e-f1a1-4702-8b41-36e7f9ca9d53,CSAT Survey,7,Passive,5,Did not trust the platform yet,None,0.512
+148a4a05-5786-43fc-aa7a-c292a3019cf8,App Store Review,10,Promoter,5,App was confusing to navigate,None,1.0
+adb082e6-096c-4ce6-802b-151515f616b4,In-app Feedback,10,Promoter,5,,None,0.718
+71e5dbc0-eb14-48cf-8291-6bcf7e451a64,NPS Survey,9,Promoter,5,No time to finish signing up,Usability,0.617
+97d4bb0a-a0ba-48bf-ac02-3b921c18b566,CSAT Survey,7,Passive,4,Verification took too long,Trust,0.301
+77683f15-83d8-4be4-9a91-eea34dfbb122,Exit Survey,10,Promoter,5,Minimum deposit too high,None,0.697
+a7babdda-e5e1-459e-8cfc-52ccedc456ec,NPS Survey,9,Promoter,4,Did not trust the platform yet,KYC friction,0.625
+6d726f43-6d4c-463f-9102-f7e1a2500d31,Exit Survey,5,Detractor,1,Unclear fee structure,KYC friction,-0.365
+bbd3d31d-4196-4096-b035-40506a55a522,App Store Review,10,Promoter,5,Documents kept getting rejected,None,1.0
+575f4877-82c1-4f85-b97c-d381b2511c7f,App Store Review,7,Passive,5,Could not link my bank account,Competitor comparison,0.022
+9dd7bbf2-9391-46ea-873d-13ae268fd4a8,App Store Review,10,Promoter,5,App was confusing to navigate,None,0.555
+3875fa05-3749-4087-9ede-9c1fd570162d,Exit Survey,10,Promoter,4,Verification took too long,None,0.839
+39e0c17c-f294-412f-a0cc-65ca412453fa,Exit Survey,10,Promoter,5,Unclear fee structure,KYC friction,0.746
+d4645c30-983c-42fd-bb81-2e9834a06e34,NPS Survey,6,Detractor,3,App was confusing to navigate,Usability,-0.098
+d1a4ee38-5d33-4439-ad00-d569d95f93e0,CSAT Survey,6,Detractor,3,,None,0.291
+aede520d-9e44-4d79-84b3-e36b8d3ddd4a,App Store Review,7,Passive,3,Verification took too long,None,0.44
+b1b5d7ef-0d20-451a-9b7b-a954fa7cb2a0,CSAT Survey,10,Promoter,5,Verification took too long,None,0.503
+841522eb-5ccb-46a2-8330-79b6aa727ad9,CSAT Survey,4,Detractor,2,Documents kept getting rejected,Usability,-0.227
+ea2dadff-42d9-47aa-8885-5a575f282765,CSAT Survey,3,Detractor,1,Wanted to compare with competitors first,Competitor comparison,-1.0
+acd968fa-a89f-42a0-9fb0-5b23076dbb9f,NPS Survey,8,Passive,4,Minimum deposit too high,Fees,0.721
+320fb4f8-f89b-4482-b61a-f4cd9d154ac9,CSAT Survey,6,Detractor,2,App was confusing to navigate,KYC friction,0.272
+79d1c56f-a1c3-472e-b02d-c8c89b809b62,CSAT Survey,6,Detractor,3,Minimum deposit too high,KYC friction,0.338
+831eceb0-2478-4801-9de2-9fe1e2614512,NPS Survey,1,Detractor,1,Verification took too long,KYC friction,-0.824
+c71b2032-6365-487d-8233-46200e01e570,Exit Survey,10,Promoter,5,Wanted to compare with competitors first,None,0.836
+17fcff23-98f4-4625-9a32-73af2c027a60,CSAT Survey,7,Passive,4,Did not trust the platform yet,Time,0.406
+97776ff0-f623-4fb5-a06b-dafef2056b22,NPS Survey,8,Passive,4,No time to finish signing up,Trust,0.501
+07b320fe-05a5-41d2-905f-582e3c8f1bc2,In-app Feedback,7,Passive,3,Unclear fee structure,None,-0.387
+5b0711ee-08d5-453e-9625-ac652271e2d7,Exit Survey,7,Passive,4,Could not link my bank account,Trust,0.253
+3bb32c88-ca54-4c56-95e7-5ad667c44692,Exit Survey,7,Passive,5,,Competitor comparison,0.234
+441bfd77-f448-4b2b-88f4-56267b3b31a0,NPS Survey,6,Detractor,3,App was confusing to navigate,KYC friction,0.212
+197634ac-4f23-416d-a02f-8aba9c27be18,NPS Survey,6,Detractor,3,App was confusing to navigate,None,0.253
+eafe201b-8891-4024-89db-3541c5b2165d,App Store Review,5,Detractor,3,Unclear fee structure,None,-0.205
+d65aa961-6b99-4dba-aa8f-10c14b49fa98,App Store Review,8,Passive,5,Verification took too long,Time,-0.055
+f923e76e-83b2-4f90-bb43-b1ac578b36f3,CSAT Survey,8,Passive,4,,None,0.08
+335c0607-2e5e-483f-8102-a36c3e563dcd,CSAT Survey,6,Detractor,3,App was confusing to navigate,None,0.375
+6d28e51a-8985-4b37-b552-6fec41ba2691,Exit Survey,8,Passive,4,Minimum deposit too high,Trust,0.495
+5efd70e6-5930-409d-9024-e4e81eb36d6d,App Store Review,6,Detractor,3,Support took too long to respond,KYC friction,0.26
+b1767450-16a3-4cf1-ab89-b038d393eeed,Exit Survey,10,Promoter,3,Could not link my bank account,None,0.576
+58362e87-1a51-40fe-8ec1-c5bcba05e77c,In-app Feedback,10,Promoter,5,Verification took too long,None,0.957
+2e045551-8202-47dd-94df-7562085f9d40,In-app Feedback,8,Passive,5,Did not trust the platform yet,None,0.498
+3543d078-3bd9-4e0b-ba72-9789ed9dc2b9,App Store Review,6,Detractor,2,Documents kept getting rejected,KYC friction,0.356
+0e3d7b07-7203-41c7-9d2a-764bbe867819,CSAT Survey,6,Detractor,3,Wanted to compare with competitors first,Fees,0.459
+a954f4c7-64ea-4596-9e5c-0b4b779dbd80,App Store Review,10,Promoter,5,Wanted to compare with competitors first,None,0.932
+661bef75-c354-406d-b692-4752ecd0287a,NPS Survey,4,Detractor,1,Documents kept getting rejected,Trust,-0.265
+567d2249-e866-4204-8343-1a5a8407e5ff,App Store Review,10,Promoter,4,Wanted to compare with competitors first,None,0.755
+7570c72f-b9b0-4eb5-92e9-05007d1f0cb1,App Store Review,8,Passive,5,Documents kept getting rejected,Funding method,0.524
+4156a670-a89b-435d-bb3c-bc9ab13db2e5,In-app Feedback,0,Detractor,1,Could not link my bank account,KYC friction,-1.0
+bf331925-961f-4760-abba-925969ca0c60,App Store Review,4,Detractor,4,Unclear fee structure,Trust,-0.157
+ff2cec23-0d79-4525-a324-ac6bb7958d53,CSAT Survey,10,Promoter,5,Documents kept getting rejected,KYC friction,1.0
+63744a96-088f-4264-ad03-32041b0917e7,CSAT Survey,1,Detractor,1,Wanted to compare with competitors first,Usability,-0.629
+936876b5-04e2-4a7d-887b-1c17a5f2cf9a,In-app Feedback,7,Passive,4,App was confusing to navigate,Usability,0.331
+a37dc7f5-c173-4fd4-ac5a-b490b01e3485,App Store Review,5,Detractor,3,Unclear fee structure,KYC friction,0.272
+7661c613-0737-4afe-ae06-d022dc0b65ea,NPS Survey,9,Promoter,5,Minimum deposit too high,None,0.847
+e8004011-9d9c-43eb-a707-8e8791dce65a,NPS Survey,0,Detractor,1,No time to finish signing up,None,-0.842
+fdd9c81c-7fb9-4776-92d9-956235205882,App Store Review,5,Detractor,3,Documents kept getting rejected,Trust,0.08
+fd23c17a-687c-4a3c-8281-ef981aeb3829,CSAT Survey,9,Promoter,4,Minimum deposit too high,None,0.777
+e179a245-f5a0-4055-a7ea-c53de4487295,App Store Review,3,Detractor,1,Wanted to compare with competitors first,KYC friction,-0.289
+a328015a-99aa-4013-990f-e0a25f6de92b,NPS Survey,10,Promoter,5,Verification took too long,None,0.375
+e55a3876-9af6-4348-92ec-9421e38a6b2b,NPS Survey,10,Promoter,5,Could not link my bank account,None,0.807
+4a46cb8d-473a-4f39-b9f3-fda896c2b217,Exit Survey,3,Detractor,1,Documents kept getting rejected,None,0.163
+ce2539e9-17b8-4a0b-ac11-9bec86af42b3,CSAT Survey,2,Detractor,1,,Funding method,-0.364
+c09330f4-77c2-4510-9009-8bdef98d77bb,App Store Review,7,Passive,4,Could not link my bank account,None,0.296
+698b431a-b5f6-41e3-940c-bc0e0c2f6632,CSAT Survey,9,Promoter,4,Minimum deposit too high,Competitor comparison,0.529
+379cd0c0-3645-45c0-9a5a-fd2ce60004d6,App Store Review,9,Promoter,4,No time to finish signing up,None,0.722
+e93b60a7-8e56-43c3-bc96-5fb9f3fb5bf6,Exit Survey,8,Passive,4,Support took too long to respond,KYC friction,0.159
+8de824a7-8614-42ee-953a-54cd3f845b72,In-app Feedback,10,Promoter,5,Could not link my bank account,None,0.912
+70d000e1-2d2c-4531-b4b4-a10cbec31b56,App Store Review,2,Detractor,1,Minimum deposit too high,Trust,-0.653
+b8ab0367-b461-4d12-b8b9-f6d9274858b7,CSAT Survey,10,Promoter,5,Verification took too long,None,0.558
+1ff66844-e2c9-475d-986e-75d3b2144f6f,App Store Review,3,Detractor,1,Support took too long to respond,Funding method,-0.171
+a84b941e-3dca-4757-a598-c71e8768fb72,In-app Feedback,9,Promoter,5,Minimum deposit too high,None,1.0
+27ea2ea8-931a-4866-b64b-381b7d673134,CSAT Survey,9,Promoter,4,App was confusing to navigate,None,0.625
+d4b558bd-1d9a-4c42-a1e3-31202cdc7b4d,NPS Survey,9,Promoter,5,Did not trust the platform yet,None,0.78
+cf51df84-87ce-4ac8-8758-71928812e84e,NPS Survey,4,Detractor,1,App was confusing to navigate,KYC friction,-0.508
+cfba41dd-a30c-4a6c-85d5-3b8230c82697,App Store Review,10,Promoter,4,Unclear fee structure,None,1.0
+e1777f13-c2c9-4521-99a9-e9c851d56a1f,Exit Survey,1,Detractor,1,Could not link my bank account,Competitor comparison,-0.504
+0bebd54b-874f-45f0-b92e-56dc644aa886,In-app Feedback,10,Promoter,5,Wanted to compare with competitors first,KYC friction,1.0
+81f0e72d-a584-40d7-964e-f6ef1a544064,CSAT Survey,6,Detractor,3,Unclear fee structure,None,0.589
+65596aa3-c97d-4c47-bcd8-b535ede69b44,App Store Review,10,Promoter,5,Wanted to compare with competitors first,None,1.0
+b6ad0915-230e-4b49-b120-4978036e7ee6,App Store Review,10,Promoter,5,No time to finish signing up,None,1.0
+e2ea3a7e-950a-460a-bf0a-3cfb2a21cb6f,In-app Feedback,10,Promoter,5,Did not trust the platform yet,None,1.0
+c3f5f6ea-8418-4251-8c4b-301cd2e9ab59,Exit Survey,5,Detractor,1,Documents kept getting rejected,None,0.126
+6b60f84b-5081-4e15-9577-ee7b72d77fcd,CSAT Survey,9,Promoter,4,Support took too long to respond,None,0.766
+7f021c7b-2b3f-4966-bd8d-d2f6d30b8ee9,CSAT Survey,10,Promoter,5,Did not trust the platform yet,None,0.844
+4dfec441-9314-40cc-9feb-57908d11fde2,CSAT Survey,8,Passive,4,App was confusing to navigate,Fees,0.266
+4b7074f0-3d35-4e23-a0e1-eeeb2179324f,Exit Survey,2,Detractor,1,Unclear fee structure,KYC friction,-0.852
+c61ba273-62f8-4c19-b7e1-fc993d009550,App Store Review,7,Passive,4,Documents kept getting rejected,Usability,-0.414
+c67be3dc-54ad-43e2-9bb3-1b50899077ce,Exit Survey,10,Promoter,5,No time to finish signing up,None,0.908
+f7150a64-6d42-44f5-8008-3e754345fa5a,App Store Review,7,Passive,2,Unclear fee structure,Trust,0.767
+5610bb9f-8d11-4e85-9311-84d640ea4eff,NPS Survey,3,Detractor,1,,None,0.209
+bd840747-8151-4037-93dd-77ffc355d2d7,NPS Survey,8,Passive,4,Wanted to compare with competitors first,Trust,0.039
+de18d9ac-4f50-4ace-a9bf-27abbb059343,Exit Survey,10,Promoter,5,Verification took too long,None,0.474
+489d7401-6b3f-4ac4-a96d-f88c689b286e,In-app Feedback,10,Promoter,5,,None,1.0
+8287369c-fd0d-473b-adc0-523017fd7242,App Store Review,7,Passive,4,Wanted to compare with competitors first,Trust,0.016
+70b7b1bd-769a-460f-9dfa-022b5da1189c,CSAT Survey,10,Promoter,5,No time to finish signing up,None,1.0
+2656a151-1a77-46cf-bef6-fad4d95172ad,CSAT Survey,7,Passive,5,Verification took too long,KYC friction,0.239
+6a576462-02ec-4421-ab9e-43558d6affdd,CSAT Survey,8,Passive,4,,Funding method,0.077
+f698e529-0f72-4fcc-9cf9-a876f69ec488,CSAT Survey,9,Promoter,4,Verification took too long,Usability,0.434
+017d76ff-bb2f-4bd7-ab64-4d764411e52d,CSAT Survey,10,Promoter,5,Minimum deposit too high,None,0.573
+03cf5692-ca57-4e94-816c-8e5bfe7b64a3,In-app Feedback,10,Promoter,5,Could not link my bank account,KYC friction,0.748
+107e9f07-583b-45b4-ad95-25cae3655988,App Store Review,6,Detractor,4,Support took too long to respond,Funding method,0.467
+e30a4d36-8fd5-42f0-b92b-e5a2c69cc266,App Store Review,9,Promoter,5,Verification took too long,None,0.684
+c0107b6c-592f-46bb-86f4-48e4997769d7,In-app Feedback,4,Detractor,3,Documents kept getting rejected,Fees,-0.573
+7c3da39d-8b47-4472-93ff-6db910a4e136,In-app Feedback,10,Promoter,5,Did not trust the platform yet,None,0.678
+fb73e57a-5e45-45c5-94b3-c3063bbfc2cb,NPS Survey,6,Detractor,3,Did not trust the platform yet,Fees,0.485
+16243736-7f5e-4f9f-b32b-a99d2e251817,Exit Survey,7,Passive,4,Support took too long to respond,Competitor comparison,0.066
+d672d8d9-4c3d-4f7c-b95e-c6bff45ba95d,NPS Survey,10,Promoter,5,Unclear fee structure,None,0.875
+c642c8c2-8be6-4999-8498-2ea8ca01717e,In-app Feedback,10,Promoter,5,Wanted to compare with competitors first,None,1.0
+972bb6b2-8e0c-4357-8a2d-ecc62a1e175a,In-app Feedback,10,Promoter,5,Could not link my bank account,Time,1.0
+d1e1e0da-fd22-48b0-9cde-7750aa5262c9,Exit Survey,8,Passive,4,Verification took too long,Trust,0.152
+4c044980-2e5b-4075-89c5-39961a0a52d9,In-app Feedback,3,Detractor,1,Did not trust the platform yet,None,-0.037
+f501d9d0-2970-42e9-8efe-03545aa64b76,App Store Review,5,Detractor,3,Minimum deposit too high,Usability,0.304
+752f88dc-0e60-4420-ae68-ec1518ef4b3d,Exit Survey,9,Promoter,5,No time to finish signing up,None,0.562
+a98ea378-f702-4dce-807b-6a0896c79dc6,NPS Survey,10,Promoter,5,Wanted to compare with competitors first,None,0.732
+73fb209e-be18-4c2d-b610-99257c2497f1,App Store Review,6,Detractor,4,Wanted to compare with competitors first,KYC friction,0.594
+05b904e4-ef2b-4e81-ae9f-a487a419ec72,Exit Survey,10,Promoter,5,No time to finish signing up,None,1.0
+1bdb9c80-f37f-4e93-bc27-86ca5ba8349a,Exit Survey,5,Detractor,4,Wanted to compare with competitors first,Usability,-0.072
+0430d3d0-925b-4855-8812-b4e88a740f45,App Store Review,4,Detractor,2,App was confusing to navigate,KYC friction,-0.362
+88770474-665c-4176-af91-28f869a47ccc,Exit Survey,9,Promoter,4,App was confusing to navigate,None,0.603
+74fc7a18-6cbb-4424-8667-12ec8caa0ba3,In-app Feedback,2,Detractor,2,Wanted to compare with competitors first,Fees,-0.847
+cbb9021c-ce6f-4f2d-8687-e45f64b08321,App Store Review,10,Promoter,5,No time to finish signing up,KYC friction,0.787
+218b3a6a-aac6-4cc2-9426-8288136a0b98,In-app Feedback,9,Promoter,4,Did not trust the platform yet,None,0.497
+c8130056-78d0-4611-81a9-8c2711ea73ea,App Store Review,10,Promoter,5,Minimum deposit too high,None,1.0
+7bef7eae-d6e5-4e90-b84a-14059b2e7d69,Exit Survey,3,Detractor,2,No time to finish signing up,Funding method,0.333
+365da874-c714-47a1-b3db-6eda19d8d617,CSAT Survey,10,Promoter,5,Did not trust the platform yet,None,0.951
+766fdd1e-d921-42ac-8769-8fa215948ece,App Store Review,8,Passive,5,App was confusing to navigate,None,0.682
+2f94576a-4fd5-49d1-bfb3-2fc61b51a6c7,App Store Review,8,Passive,3,Verification took too long,None,1.0
+3ce0439d-5be1-4e61-b0f6-916da46ff4ab,App Store Review,0,Detractor,1,Support took too long to respond,Time,-1.0
+883a798a-60cb-4da6-bb89-950cd047fb09,App Store Review,8,Passive,4,Verification took too long,None,0.378
+3bec2ea5-773c-4f5c-99ec-3581b4b46415,In-app Feedback,6,Detractor,3,,Usability,0.397
+6065d0a2-2155-4233-9f4b-8759ccbc1dd0,Exit Survey,8,Passive,5,Wanted to compare with competitors first,None,0.788
+ace024b0-0740-477f-b7cf-6f3cff8d6497,In-app Feedback,8,Passive,5,No time to finish signing up,KYC friction,0.676
+72813d7d-56a7-4a70-8455-c1884fcdc2b7,NPS Survey,4,Detractor,3,App was confusing to navigate,None,0.242
+a596783c-a5df-4972-be4f-27be232761fb,Exit Survey,3,Detractor,1,Documents kept getting rejected,Funding method,0.214
+cc6fb02b-8410-44bc-8781-2fa5260e4b1e,App Store Review,4,Detractor,2,Unclear fee structure,Fees,0.04
+bba0149e-820a-44d8-b4a2-10249eb29f70,Exit Survey,9,Promoter,5,Unclear fee structure,Usability,1.0
+65ea963f-3ae4-4167-b36e-12c3379d5a9e,CSAT Survey,6,Detractor,2,Documents kept getting rejected,Time,0.339
+8544bf09-5b23-4c7d-b6fd-b6746450a946,CSAT Survey,10,Promoter,4,Unclear fee structure,Usability,1.0
+88bfc8a4-1ce0-4488-8796-feda3e125dcf,Exit Survey,1,Detractor,1,Minimum deposit too high,KYC friction,-0.838
+bb9aa629-4311-4a96-905f-5fe7af4cf78f,In-app Feedback,3,Detractor,2,Support took too long to respond,Fees,0.363
+3d15a8b1-196e-4ed5-b92b-896ce5b80c1c,In-app Feedback,10,Promoter,4,Wanted to compare with competitors first,None,0.565
+8b005781-3cde-4ba1-9027-4f961c257f03,NPS Survey,4,Detractor,3,Documents kept getting rejected,Time,0.299
+b9262824-1ada-4abc-bc2a-4976ed23d109,Exit Survey,10,Promoter,5,App was confusing to navigate,None,0.717
+cb1e8cfa-bb1f-4093-a0f8-05289aa026e7,CSAT Survey,10,Promoter,4,No time to finish signing up,None,0.725
+2a256f6b-1309-4366-add7-4bcb70621916,NPS Survey,0,Detractor,1,Documents kept getting rejected,Funding method,-0.71
+21f8dce3-6734-4fa0-a157-590143b12a0f,NPS Survey,7,Passive,4,Unclear fee structure,None,0.478
+e4b2a009-1a53-4595-a7e2-294b358a9ff3,App Store Review,7,Passive,3,Verification took too long,Fees,0.307
+8b7a794f-f246-45ec-9b9a-5764895ecc3d,NPS Survey,10,Promoter,5,Minimum deposit too high,None,0.917
+083a42af-dd72-46e3-8cb5-52c37f495a99,App Store Review,4,Detractor,3,App was confusing to navigate,KYC friction,-0.034
+c8bd445a-95a2-4b12-b216-c1fa4c42024b,In-app Feedback,9,Promoter,4,App was confusing to navigate,None,1.0
+8fb56a23-0df1-4a72-8b16-be72a565d69c,Exit Survey,10,Promoter,5,App was confusing to navigate,None,1.0
+8b14697c-2d8a-49a4-ab56-a011e4a6b90c,App Store Review,5,Detractor,3,App was confusing to navigate,None,0.233
+520b3e5b-0313-44bb-8fb6-01bd6d922710,In-app Feedback,10,Promoter,5,,Trust,0.262
+1b772fd5-41a2-42c8-90b9-6e71288bbb66,NPS Survey,5,Detractor,3,Unclear fee structure,Time,-0.265
+eb63f794-fd07-4d54-9181-500ffda97fb4,CSAT Survey,5,Detractor,3,Wanted to compare with competitors first,None,-0.246
+6a9f825d-c916-4aa9-b610-ed3f47530232,In-app Feedback,10,Promoter,5,Could not link my bank account,None,0.671
+989e20c3-a952-494e-9c14-55d5214198f8,In-app Feedback,6,Detractor,2,App was confusing to navigate,Fees,0.233
+7ff86629-4312-4a37-99ed-24b7191e597a,Exit Survey,4,Detractor,1,Wanted to compare with competitors first,Trust,0.371
+cb1b3fc3-b507-46cd-a31e-7abad73a6856,NPS Survey,10,Promoter,5,App was confusing to navigate,None,0.519
+f1da0239-1d44-4b88-ba17-b5edcea36f4d,NPS Survey,0,Detractor,1,,Time,-1.0
+afd3ddd2-7765-4d7b-9e06-648f1a6d9751,In-app Feedback,8,Passive,5,Did not trust the platform yet,None,0.708
+38e81a4b-da5c-4c27-9d39-fb1ff9d96ed8,NPS Survey,8,Passive,5,No time to finish signing up,Funding method,0.351
+0243bb81-d06b-45e0-a454-81f9d535550b,In-app Feedback,7,Passive,3,Verification took too long,Competitor comparison,0.582
+b4c52557-a6d3-4026-b824-d81b14278112,App Store Review,0,Detractor,1,Minimum deposit too high,KYC friction,-0.643
+b72b52d9-b790-409b-bce4-a5876c721866,In-app Feedback,10,Promoter,5,Unclear fee structure,Funding method,0.591
+5ce2870a-3aa6-4793-838d-e6be2390f8e1,App Store Review,10,Promoter,4,Minimum deposit too high,Trust,0.445
+9d53e180-3e63-44fb-8170-97ed1cde6e37,CSAT Survey,4,Detractor,3,Wanted to compare with competitors first,None,-0.423
+48fd73ff-1463-4d94-9aaa-e7d9e3613185,Exit Survey,5,Detractor,2,Support took too long to respond,None,-0.244
+e72de6db-01e7-4680-a726-4efaf0f80f2a,Exit Survey,3,Detractor,2,App was confusing to navigate,KYC friction,-0.649
+b8b2999b-bd95-42f0-9fa0-fe7fa14ced1e,Exit Survey,8,Passive,5,App was confusing to navigate,KYC friction,0.571
+dbcc2623-30d7-4508-a665-7d75dc285b91,CSAT Survey,10,Promoter,3,App was confusing to navigate,Usability,0.134
+cb0a0338-9129-4f8f-8fef-55f71f689da5,NPS Survey,9,Promoter,5,Support took too long to respond,Time,0.24
+633afedf-00cd-4889-aede-4f29eb98eae6,CSAT Survey,6,Detractor,4,Unclear fee structure,Competitor comparison,-0.249
+f48345e8-5559-4ec8-a191-d739e6c9d439,In-app Feedback,3,Detractor,2,Minimum deposit too high,KYC friction,-0.051
+07de9dec-ea08-4ff2-b64c-98df4f09484e,In-app Feedback,5,Detractor,2,No time to finish signing up,Trust,0.146
+22be8a95-482a-4548-a136-e0b4cbb92c91,App Store Review,10,Promoter,5,Wanted to compare with competitors first,None,0.794
+ab1e351f-1dc1-4221-b373-1d8933bf9af2,Exit Survey,10,Promoter,4,Could not link my bank account,Time,0.408
+af0a4089-d453-4d07-9bd5-7d4e7f017c8e,NPS Survey,8,Passive,3,Could not link my bank account,Fees,0.573
+b21386cb-fb1c-4875-b5d3-0d66c3b8a457,App Store Review,9,Promoter,5,Unclear fee structure,Funding method,1.0
+97e0e79a-fa9f-48a6-9833-19936363be9c,NPS Survey,10,Promoter,5,App was confusing to navigate,None,0.722
+d1ad122a-1d35-43c8-99f5-50d6ba4c8e19,NPS Survey,6,Detractor,3,Documents kept getting rejected,None,-0.031
+321f5d9f-99f3-417f-b67c-257b314640a6,CSAT Survey,2,Detractor,1,Documents kept getting rejected,Funding method,-0.639
+319cf35a-a75e-4f40-9c82-47f26574db7f,NPS Survey,9,Promoter,5,Unclear fee structure,Trust,1.0
+6b6b9351-6711-4052-93a0-8d2df11679a6,In-app Feedback,5,Detractor,2,,KYC friction,0.308
+ff19026a-597b-4e44-b085-542a3eb068eb,In-app Feedback,6,Detractor,3,No time to finish signing up,None,0.265
+5bd2ac18-83d5-4d71-b1f6-e8a792b34024,App Store Review,10,Promoter,5,Could not link my bank account,None,0.894
+7fdcd19d-8c57-4e00-b298-3608862f69d1,NPS Survey,9,Promoter,5,No time to finish signing up,None,0.999
+144f5acc-63ef-48f3-860c-006eb7029dd2,App Store Review,3,Detractor,2,,Usability,-0.65
+5689c974-ea39-43d2-aa99-a00c8a725370,In-app Feedback,7,Passive,3,App was confusing to navigate,Competitor comparison,0.619
+2492f10b-124b-43d8-a173-f54462192abe,Exit Survey,2,Detractor,1,Documents kept getting rejected,None,-0.418
+a6b7efe3-b245-40e1-ac16-38ef3f5e631f,CSAT Survey,10,Promoter,5,Did not trust the platform yet,Funding method,0.589
+59f2d760-2ed4-45c2-a3e9-c4db927f997f,CSAT Survey,2,Detractor,1,Did not trust the platform yet,None,-0.74
+12394253-bd05-4439-8f9d-08140479cf49,CSAT Survey,4,Detractor,2,Minimum deposit too high,None,-0.432
+5cd5ae3d-9a03-4509-845b-eaa1de3c1660,Exit Survey,9,Promoter,5,,None,0.269
+2d96ed9b-bd8f-4339-b49d-2d4c7895af38,In-app Feedback,9,Promoter,4,Did not trust the platform yet,Trust,0.578
+07e7d0ee-7ffd-48cd-a0b2-68cffcc23d40,In-app Feedback,7,Passive,2,Support took too long to respond,None,-0.016
+32d71dd1-1160-4709-8cca-8ecc4070a8f6,CSAT Survey,6,Detractor,3,Minimum deposit too high,KYC friction,0.554
+84123490-2b52-473f-add2-8cacd9a3c5fa,Exit Survey,7,Passive,3,Could not link my bank account,KYC friction,0.164
+c777a9aa-0cb7-46ef-ac6d-36d87a9fae79,In-app Feedback,3,Detractor,1,Verification took too long,Trust,0.206
+83f0cb82-f2eb-4c3c-a75a-865d2738f4a2,CSAT Survey,10,Promoter,4,No time to finish signing up,None,0.845
+6c60a2ba-c221-4865-9f02-1ebad96c4f0c,CSAT Survey,8,Passive,3,Did not trust the platform yet,None,0.171
+fb7d2657-dbe4-482a-86d4-90e1f288cb56,Exit Survey,5,Detractor,2,Support took too long to respond,None,0.203
+f3a0a5d1-abdb-4d5c-b320-5bc3a16f83cf,In-app Feedback,10,Promoter,5,Verification took too long,Funding method,1.0
+16fb15e5-b6b1-4eb0-8041-452431a7f658,NPS Survey,10,Promoter,5,Could not link my bank account,None,0.458
+d0992f9b-8cb0-4d7f-861b-635a6ecb8f38,NPS Survey,5,Detractor,2,Could not link my bank account,None,-0.093
+2c8f5ea4-68c7-429e-99d1-22b23f640476,Exit Survey,0,Detractor,1,Minimum deposit too high,Funding method,-0.928
+1b8982ff-12ea-4e61-adbe-7bbea8618827,CSAT Survey,5,Detractor,3,Documents kept getting rejected,Usability,0.83
+c5b0f45a-1054-426d-b537-82bc8ca7e5bc,App Store Review,3,Detractor,2,Verification took too long,None,0.164
+d291a412-74ec-4626-9f02-cc1ff9e94b28,Exit Survey,1,Detractor,1,,Time,-0.722
+14db7546-0361-41ad-80ee-cdaccc7add34,In-app Feedback,6,Detractor,3,,KYC friction,0.396
+101cf266-d71d-464e-9e35-a4bf8b1dae8b,Exit Survey,8,Passive,4,Could not link my bank account,Trust,0.565
+adf043ea-996d-4829-989d-d4b6672350b7,In-app Feedback,7,Passive,4,App was confusing to navigate,KYC friction,0.36
+5249f290-af54-4ef1-88d5-0fc6e4d10575,App Store Review,7,Passive,3,Did not trust the platform yet,Usability,0.384
+e979357c-1fee-4716-977b-18b2da3518c6,App Store Review,6,Detractor,4,Could not link my bank account,None,0.363
+95f2b6f2-5bff-47a6-87a1-7490001cc2ab,CSAT Survey,10,Promoter,5,Minimum deposit too high,None,0.572
+7cc2515b-378f-461e-8db8-7cc7ddb3821f,Exit Survey,1,Detractor,1,Verification took too long,Usability,-0.75
+f295f72e-8329-4085-a885-a563f2e7f32f,CSAT Survey,6,Detractor,3,Did not trust the platform yet,Usability,-0.046
+2d0509f1-9d83-45e3-bddc-c92f173d2aa8,NPS Survey,9,Promoter,4,,None,0.381
+70fbe9ce-302e-48ec-bffc-7f1b38fadb78,In-app Feedback,3,Detractor,1,Minimum deposit too high,Funding method,-0.771
+f8025ef0-1422-4cf5-9ee2-0115934303b6,NPS Survey,8,Passive,3,Could not link my bank account,KYC friction,0.83
+3c8758ac-831d-475a-9782-d03c0e1b1a59,CSAT Survey,9,Promoter,3,Unclear fee structure,Competitor comparison,0.896
+42a862a4-a456-4d73-9177-f5fb03007943,App Store Review,3,Detractor,1,No time to finish signing up,None,-0.397
+2d7b7740-771f-4c6b-971b-e643025e64cb,CSAT Survey,8,Passive,4,Did not trust the platform yet,None,0.726
+98c02b84-6679-443e-8352-e514d80f24df,In-app Feedback,8,Passive,4,Support took too long to respond,Fees,0.372
+d0c79b21-7dd1-4df0-951d-e580d4aea7a7,Exit Survey,4,Detractor,2,Wanted to compare with competitors first,KYC friction,-0.103
+332dcf0c-77ed-449d-af70-8ea34298af81,App Store Review,10,Promoter,5,Did not trust the platform yet,Funding method,0.531
+528c3f78-1bac-4d87-a795-a19b8406ff81,App Store Review,7,Passive,3,Wanted to compare with competitors first,Funding method,0.552
+cfd9f34f-6f2a-44b6-a5e8-8114b65c881e,CSAT Survey,5,Detractor,3,Could not link my bank account,None,-0.252
+236644df-b35d-4fb6-afde-f061534a6b78,App Store Review,6,Detractor,2,Verification took too long,None,0.227
+617205c1-10b5-49f2-902d-4416ef8b6f77,Exit Survey,8,Passive,4,Minimum deposit too high,None,0.812
+73c05d4b-3b30-46e1-860b-7c7c7e8b1af0,CSAT Survey,5,Detractor,3,No time to finish signing up,Usability,0.186
+65a92085-229b-4667-9c5f-971d92db2e4a,In-app Feedback,10,Promoter,5,Support took too long to respond,None,0.853
+e6a2d238-9a41-427c-b545-4aeda14d4720,Exit Survey,7,Passive,3,Did not trust the platform yet,Competitor comparison,0.37
+f4602dea-63d4-481d-a50a-7c6d8253964b,NPS Survey,8,Passive,5,App was confusing to navigate,None,0.319
+a049df2d-f3f7-456b-a4db-c23fff7b7489,NPS Survey,10,Promoter,5,Wanted to compare with competitors first,None,0.854
+76fe980a-75c2-4c2b-bfd7-c2d5a8eaae99,CSAT Survey,10,Promoter,4,,None,1.0
+8fc53143-858c-4f2d-8380-47785f4e5f26,App Store Review,7,Passive,4,Unclear fee structure,Trust,0.568
+87b57b40-10cf-4858-9536-ff389d40c9a9,In-app Feedback,4,Detractor,1,Support took too long to respond,Usability,-0.096
+13c6d931-015d-4956-8a39-422aad7a45d5,NPS Survey,9,Promoter,5,Could not link my bank account,None,0.656
+5bca73f9-5714-4893-b5ee-b001ee2ede2c,In-app Feedback,4,Detractor,1,Wanted to compare with competitors first,Fees,-0.443
+a20bf906-32fa-4052-8a6d-99dca1ae9ea7,Exit Survey,3,Detractor,1,Verification took too long,Trust,-0.248
+77bc5be0-05be-4dfd-a212-8f52db8c6c5b,App Store Review,2,Detractor,1,Could not link my bank account,Usability,-0.812
+cf5c5421-6f2a-45d9-8598-4f0cb0bd7020,Exit Survey,10,Promoter,5,Verification took too long,Trust,0.705
+221575e0-341b-4772-9a36-1354aa1297ad,NPS Survey,6,Detractor,4,Support took too long to respond,Trust,-0.025
+6eb5da7f-ddcf-4f42-97b8-08290de8e3b5,NPS Survey,7,Passive,4,Minimum deposit too high,None,0.464
+3207a1e6-f91d-49ca-a1f8-386bfc67c7f7,CSAT Survey,8,Passive,5,No time to finish signing up,KYC friction,0.64
+2160ed69-7489-4d84-a395-7d5dd26725bc,Exit Survey,10,Promoter,5,Could not link my bank account,Trust,1.0
+6c3ba219-ba5d-4a26-8930-35b8b659e700,Exit Survey,4,Detractor,1,,KYC friction,0.127
+5a08daa7-5cd5-4941-b83e-253d7c52b6ea,CSAT Survey,10,Promoter,4,,None,0.273
+730c1ff6-fb6a-43b2-9703-f5557f7682cb,App Store Review,10,Promoter,5,No time to finish signing up,None,0.572
+d04b0184-2b19-4412-a845-b011bab57083,NPS Survey,10,Promoter,4,,Competitor comparison,0.797
+38398bc3-97d6-409f-b0f4-0e34e682077d,In-app Feedback,7,Passive,5,App was confusing to navigate,Competitor comparison,0.085
+bb19249e-54ea-43b0-a19e-d0ab9a011db5,Exit Survey,7,Passive,3,App was confusing to navigate,None,0.706
+6c00d339-5190-4751-9dac-e6466739e8dc,Exit Survey,7,Passive,2,Support took too long to respond,None,0.575
+e5d00990-045b-42c2-b1cd-44cf0873c5fa,CSAT Survey,10,Promoter,5,Could not link my bank account,None,0.912
+61064611-0e85-43ce-ba98-2d3537bf86f1,Exit Survey,7,Passive,4,Verification took too long,None,0.455
+4a5262e7-f1ff-4261-b121-04b35c536241,CSAT Survey,9,Promoter,4,Did not trust the platform yet,Competitor comparison,0.955
+6ffbc8f8-b959-4829-956d-aae84b2e251d,NPS Survey,7,Passive,3,Wanted to compare with competitors first,None,-0.071
+fbca3bfd-7062-429a-88c8-e67e2b4c91c4,CSAT Survey,1,Detractor,1,Documents kept getting rejected,Funding method,-0.649
+73d3af8f-b43c-4cda-ac7f-f650e63f80e8,App Store Review,5,Detractor,4,App was confusing to navigate,None,-0.351
+bceef151-351e-4ba7-a92a-6b8ece6a9222,Exit Survey,10,Promoter,4,,None,1.0
+9068b918-7faa-4298-b70e-b6cae71d8e1b,NPS Survey,5,Detractor,2,Verification took too long,KYC friction,-0.488
+62b45b6a-b691-4ad8-bb49-a423b0c57550,App Store Review,9,Promoter,5,Wanted to compare with competitors first,Fees,1.0
+6948589e-57f1-4b80-b547-c7cdcbbada6c,Exit Survey,10,Promoter,5,Wanted to compare with competitors first,Usability,0.868
+fb4f1b98-5694-49f3-a7c4-72ad1ed6aac7,NPS Survey,6,Detractor,2,App was confusing to navigate,KYC friction,0.405
+c68ed073-157c-443c-84d7-4570e4cd8ecd,Exit Survey,10,Promoter,5,Minimum deposit too high,KYC friction,1.0
+78cb496e-d9a2-4e47-b33c-046888c4b92e,NPS Survey,8,Passive,3,Minimum deposit too high,Fees,0.482
+d0279e74-b220-4ba2-bb0a-feae72a89393,NPS Survey,2,Detractor,1,Support took too long to respond,Fees,-0.319
+b07f8c24-29b8-4d75-9653-0f0851f96f8a,CSAT Survey,5,Detractor,3,Verification took too long,Competitor comparison,0.003
+38f09f64-21c8-4a62-b2af-0ec12a5ccf49,In-app Feedback,10,Promoter,5,Minimum deposit too high,None,0.932
+618a3b94-e3f4-433e-99af-8c2f59b13837,NPS Survey,7,Passive,2,Support took too long to respond,None,0.316
+8bcfe500-3d3f-4f06-b811-f9fb8edfd2d7,NPS Survey,1,Detractor,1,Documents kept getting rejected,None,-0.459
+6575cde7-37d0-4e30-b142-36741e5213e1,App Store Review,7,Passive,4,No time to finish signing up,Usability,0.142
+f912ac1b-0814-45bb-b8f5-ff4ce9f41cdb,NPS Survey,8,Passive,5,Wanted to compare with competitors first,None,-0.119
+4a983cae-618f-4dbd-a0be-fe8a03a486c7,Exit Survey,0,Detractor,1,Wanted to compare with competitors first,None,-1.0
+4b326392-6a31-44f4-a66c-6afc793f31ec,In-app Feedback,8,Passive,3,Verification took too long,None,0.542
+042a0ff3-2f33-457f-89e9-c308c7c5728a,App Store Review,2,Detractor,2,,Usability,0.145
+bfe0c1d7-bb5a-44d7-a72c-4b45911dedf3,Exit Survey,5,Detractor,3,Wanted to compare with competitors first,Usability,0.523
+5d03a38a-3d7f-4d5a-8c55-da30fc786ade,App Store Review,0,Detractor,1,Documents kept getting rejected,Usability,-1.0
+80c4d4da-604b-4344-9064-8dd9eb775b64,In-app Feedback,4,Detractor,1,Support took too long to respond,None,-0.201
+c39ddd84-283a-4022-8c0b-d714953d1530,App Store Review,5,Detractor,3,Documents kept getting rejected,None,0.196
+0682c492-4557-4f6b-9414-580478a6c3e9,Exit Survey,4,Detractor,2,Support took too long to respond,Fees,-0.097
+6f3601ce-e965-4124-8656-82b194543d49,CSAT Survey,5,Detractor,1,Verification took too long,Competitor comparison,-0.175
+980783fd-ca43-45ab-82a1-dd12dfade200,App Store Review,3,Detractor,2,Could not link my bank account,None,0.145
+1c213914-0af9-4ad1-90e3-3ea32b80f4cb,CSAT Survey,10,Promoter,5,App was confusing to navigate,None,0.798
+15a77121-e315-44a6-95d3-1a03430cf37e,Exit Survey,7,Passive,3,Minimum deposit too high,Time,0.959
+1bdb80ee-906f-438b-bd5f-5cc5abdfd282,NPS Survey,0,Detractor,1,Wanted to compare with competitors first,KYC friction,-0.566
+d4a3d489-bace-4733-a974-ce33108cd07d,In-app Feedback,5,Detractor,4,,None,0.478
+d785a500-45c7-4504-8c0d-16931b91a21d,NPS Survey,10,Promoter,5,App was confusing to navigate,None,0.858
+e572607a-af8f-41e8-bf29-5a31d81bf635,Exit Survey,10,Promoter,4,Did not trust the platform yet,None,0.886
+0554e1f7-7d8a-49e6-90a2-9d49c5959445,App Store Review,9,Promoter,5,Support took too long to respond,KYC friction,0.747
+8a7fbc31-5b8f-4075-9220-f4a80dee6b8c,NPS Survey,7,Passive,3,Unclear fee structure,None,0.592
+643ca91f-3569-436e-9794-7670ec7e7473,In-app Feedback,10,Promoter,5,Did not trust the platform yet,None,1.0
+3ee2a124-fe20-4587-aaf4-f2ca8afdfd24,CSAT Survey,9,Promoter,3,Wanted to compare with competitors first,None,0.768
+c1355e05-5330-418f-a898-bbc4cf966c4b,In-app Feedback,5,Detractor,2,Verification took too long,Usability,-0.169
+d4db576a-72da-48c6-aae2-42e5d0098b86,In-app Feedback,10,Promoter,5,Support took too long to respond,None,1.0
+132a48c4-de18-4cb0-9586-0c15394821db,App Store Review,9,Promoter,4,,KYC friction,0.568
+edd0f195-624f-42bc-bfa9-27ff6f561714,App Store Review,10,Promoter,5,Could not link my bank account,None,0.845
+9a889762-1720-4efc-9dc1-ef6008b39cfc,App Store Review,10,Promoter,5,Documents kept getting rejected,None,0.743
+0ecc1ecc-9cc0-4d27-8fd8-9e61490d5084,App Store Review,7,Passive,3,,Fees,0.282
+eeb6d6a1-511e-4965-aebc-101ab9e70454,NPS Survey,7,Passive,3,Documents kept getting rejected,None,-0.009
+061b6a97-59dc-4d08-8299-cda748cff84c,App Store Review,10,Promoter,5,Unclear fee structure,None,0.463
+077b54fe-707b-436c-bca7-56e6395fad0d,App Store Review,8,Passive,5,Wanted to compare with competitors first,None,0.924
+42539bad-6913-40a3-8463-f1f69e704ca3,NPS Survey,7,Passive,5,Support took too long to respond,None,0.209
+9ff9857a-1e42-47fd-9dfc-75ba8e53ffe4,NPS Survey,5,Detractor,4,Verification took too long,Time,0.447
+219fbdaf-f007-4d7d-93bd-c5294ebf3219,CSAT Survey,10,Promoter,5,No time to finish signing up,Fees,0.61
+ab985442-5baf-42b2-b8e6-0b8cf83e8cb5,In-app Feedback,8,Passive,3,,Time,0.591
+c083bae1-cde4-40bc-a93e-46ad6b5d8a53,Exit Survey,6,Detractor,3,Unclear fee structure,Competitor comparison,0.271
+c3aba145-1b3a-4a44-87bd-3976357838a6,App Store Review,8,Passive,3,No time to finish signing up,Competitor comparison,0.319
+85b6cfee-a2b3-4103-9d22-8bd49af08e7f,Exit Survey,3,Detractor,1,No time to finish signing up,None,-0.653
+384557a0-3666-4fa1-a7c6-732361fb4d74,Exit Survey,9,Promoter,5,Support took too long to respond,Usability,0.208
+26daa953-d567-42de-8f81-d6ae4298c1ae,Exit Survey,5,Detractor,3,Did not trust the platform yet,Funding method,-0.149
+ff72c8d2-a47b-425a-95f8-51b43d7fdca6,In-app Feedback,5,Detractor,4,Verification took too long,None,0.337
+c938cfca-2b8f-4465-b4e7-d278ebb90d8c,NPS Survey,10,Promoter,5,No time to finish signing up,None,0.861
+757206c0-6278-44ce-bc04-12a013ea3c5e,In-app Feedback,7,Passive,3,Unclear fee structure,Trust,0.058
+fd350d62-8a03-4321-9541-de77925a3b0d,NPS Survey,6,Detractor,2,Documents kept getting rejected,KYC friction,0.226
+d7983777-5eb8-43ca-b5ec-d35d9f171807,CSAT Survey,6,Detractor,2,Verification took too long,Fees,-0.188
+dc6130ea-ffc2-404d-97ec-69115dba80ff,Exit Survey,5,Detractor,2,No time to finish signing up,Usability,-0.484
+521e89b2-9d14-42f1-a0e1-f3da69864e49,App Store Review,3,Detractor,1,Verification took too long,Usability,-0.227
+69c2c01e-c9e4-4bd6-87b1-33045de524f2,In-app Feedback,4,Detractor,3,Documents kept getting rejected,None,0.095
+d1651f89-e80f-436a-9afe-27b2d53afe5f,CSAT Survey,10,Promoter,5,Verification took too long,KYC friction,0.342
+06561ea8-d31e-40da-84df-6e8879bfb247,App Store Review,9,Promoter,4,Documents kept getting rejected,None,0.698
+8a3ac189-d35a-4fc4-9f66-4c534b2ae97e,App Store Review,1,Detractor,2,Support took too long to respond,Time,-0.294
+f61c2a60-e466-4513-852e-77c680e5ebb9,In-app Feedback,7,Passive,4,Verification took too long,Time,0.149
+dc969a92-33db-4f39-93bd-7183786b1ce4,CSAT Survey,8,Passive,5,Documents kept getting rejected,KYC friction,0.593
+4ee5b659-557b-418b-8ff8-6c25aa1a71d4,In-app Feedback,4,Detractor,2,Documents kept getting rejected,KYC friction,-0.057
+984983f7-27b0-4f34-bfb0-53a39bee2852,CSAT Survey,7,Passive,3,Could not link my bank account,None,-0.019
+6638ca92-11d4-495f-aeb2-9c4cd80736ab,NPS Survey,5,Detractor,3,,None,0.269
+c01d462d-2878-4e76-940c-2e56fdb31d63,CSAT Survey,5,Detractor,2,Support took too long to respond,None,0.109
+bea3af3f-3a12-42de-b546-29b75653e7a2,Exit Survey,10,Promoter,5,Could not link my bank account,Competitor comparison,1.0
+f06c07ff-7c20-45b4-94e0-c91aaf60efc1,CSAT Survey,3,Detractor,1,App was confusing to navigate,Competitor comparison,-0.705
+5f5e2a40-a172-4fdc-9f37-ec545630ce24,App Store Review,10,Promoter,4,Support took too long to respond,None,1.0
+97b709ef-d016-405d-b69d-fe285731250a,NPS Survey,5,Detractor,2,Minimum deposit too high,Time,0.389
+4b84422d-a220-4fb0-ab4f-d5f42d16c596,App Store Review,6,Detractor,4,Could not link my bank account,None,0.553
+359602dc-7b6c-4aba-82be-54fd97fe2179,CSAT Survey,10,Promoter,5,Did not trust the platform yet,None,0.652
+c0d443c9-9434-4491-ba15-d4e5aea3d087,In-app Feedback,3,Detractor,1,Could not link my bank account,None,-0.348
+472174bc-6f0a-493a-90c3-cf275e9d25a1,App Store Review,4,Detractor,2,Wanted to compare with competitors first,Trust,-0.138
+843f23fb-9e10-481d-90ed-be12cb605e1d,Exit Survey,10,Promoter,4,,None,0.994
+e9b60657-6048-4f0e-ba97-6a9a5da7e2fe,App Store Review,5,Detractor,2,No time to finish signing up,Trust,0.373
+eb64e835-bbb5-4830-8be2-0e289d182b20,NPS Survey,6,Detractor,1,Did not trust the platform yet,None,0.58
+3b5ba6be-cf16-4fb0-8db1-5b8ff16fa9c8,NPS Survey,5,Detractor,3,,Competitor comparison,0.019
+59fad6ad-e80b-4edf-84a5-22d10098632c,Exit Survey,10,Promoter,5,Did not trust the platform yet,Funding method,0.63
+86f674fc-85bc-44d5-a63c-29a574b64253,App Store Review,10,Promoter,5,Documents kept getting rejected,None,1.0
+ec49f702-a58a-4430-aab2-8668f9bbe258,NPS Survey,10,Promoter,5,App was confusing to navigate,Usability,0.637
+6449b1e6-478b-4706-86cb-65558b3134af,In-app Feedback,5,Detractor,3,Could not link my bank account,Trust,-0.166
+798789a1-e67a-498b-b550-657ab007c223,Exit Survey,4,Detractor,2,Could not link my bank account,Funding method,-0.337
+93209b54-767d-43b1-be18-311b4a650809,App Store Review,10,Promoter,5,Verification took too long,None,1.0
+bcef3661-1946-4812-a1bc-3034f4aca78d,NPS Survey,6,Detractor,3,Documents kept getting rejected,KYC friction,0.026
+92ecd2cf-c77a-4c03-8643-4bd2797b8262,CSAT Survey,10,Promoter,4,Did not trust the platform yet,None,0.413
+d52c665c-b892-4ff6-b364-af591f3f6e56,NPS Survey,10,Promoter,5,Minimum deposit too high,Time,0.826
+019bbe0f-1005-44ff-99f9-798c44b158a1,CSAT Survey,6,Detractor,3,No time to finish signing up,Usability,0.326
+08feea1c-fbf2-455f-b596-6729776fc8f1,CSAT Survey,10,Promoter,5,Minimum deposit too high,None,0.56
+00f46cd0-ff97-420b-a000-6e84ee865013,CSAT Survey,10,Promoter,5,Verification took too long,Usability,1.0
+f2e93246-b696-4c2b-ad77-c260f9a44cc2,In-app Feedback,10,Promoter,5,App was confusing to navigate,None,0.637
+d0ce8827-7d1c-406c-9a37-fdebddc8ab70,NPS Survey,6,Detractor,3,Minimum deposit too high,Fees,0.503
+7909ed55-e31e-460b-968e-a5018439ce07,NPS Survey,10,Promoter,5,Minimum deposit too high,Usability,1.0
+e80fa358-04ff-4563-a6aa-4439a9bda66a,CSAT Survey,8,Passive,5,Documents kept getting rejected,None,0.295
+360c56cf-205e-48dc-adc6-0d8a010ef574,NPS Survey,10,Promoter,5,Support took too long to respond,Fees,0.503
+503d82aa-3998-4242-8f95-ffde62c6b4b9,Exit Survey,9,Promoter,5,Minimum deposit too high,KYC friction,0.623
+30911d25-e57e-4856-be02-92693eda1def,CSAT Survey,6,Detractor,3,App was confusing to navigate,KYC friction,0.456
+70c41cba-abd2-4784-944a-5145c5953fdf,Exit Survey,9,Promoter,3,Did not trust the platform yet,None,0.278
+4534f7ce-7fad-4662-aa47-7821457f7547,CSAT Survey,10,Promoter,5,,KYC friction,0.927
+6b3ab8c1-68b3-405c-b4b3-7b68b89f7554,Exit Survey,7,Passive,4,Documents kept getting rejected,Funding method,0.427
+88d21751-24f4-4c36-aa50-14821b17f05b,Exit Survey,10,Promoter,5,Wanted to compare with competitors first,None,0.875
+180c66fb-15ce-455a-8434-149b4a138486,Exit Survey,5,Detractor,2,Support took too long to respond,Trust,0.189
+470ff6f1-3de4-4a17-be79-7b182f34557d,CSAT Survey,2,Detractor,1,Documents kept getting rejected,KYC friction,-0.266
+a7f73c00-61ce-49d8-83cc-129436553147,CSAT Survey,10,Promoter,5,Wanted to compare with competitors first,None,0.462
+465e37d9-ee02-45e4-b8a3-45fab395251c,NPS Survey,4,Detractor,2,,KYC friction,-0.152
+c8a17b6f-b4cf-4338-b3bb-803ab56901c6,CSAT Survey,6,Detractor,4,,None,0.316
+e37ee7ab-51ca-4a16-acb7-67514799021a,App Store Review,7,Passive,4,Wanted to compare with competitors first,None,0.225
+369591b1-a2cc-454d-b89d-a4df4bf50355,NPS Survey,3,Detractor,1,Could not link my bank account,KYC friction,-0.608
+17476ce8-8df4-4400-b4b0-1d9332625174,Exit Survey,5,Detractor,2,Minimum deposit too high,Fees,0.267
+42723e40-803e-46fc-b95d-7d689de4f514,CSAT Survey,4,Detractor,3,Unclear fee structure,Competitor comparison,-0.364
+f1121547-2090-4ffd-aa1c-27bb1b39d92f,Exit Survey,4,Detractor,2,Unclear fee structure,KYC friction,0.07
+e58c957c-3e56-4d67-a008-522d81598e82,Exit Survey,6,Detractor,3,Support took too long to respond,KYC friction,0.218
+2b013365-e3ca-4e88-b8f9-46ddcf8b14ac,NPS Survey,4,Detractor,1,Documents kept getting rejected,None,-0.392
+690c2ca8-3d11-4f93-a357-84754eb705e0,App Store Review,7,Passive,3,No time to finish signing up,None,0.458
+ffd1b7d2-1414-41ef-bc13-45dcbc03e695,Exit Survey,8,Passive,4,Unclear fee structure,None,0.597
+e7b5be50-229a-46d7-a2f3-32ee0d1d1d08,In-app Feedback,10,Promoter,5,,None,1.0
+38425e09-1b4a-4b15-9531-ee9c3544bc3b,App Store Review,8,Passive,5,Verification took too long,None,0.051
+a663d57f-830f-44f1-9c28-09bb4b855526,CSAT Survey,8,Passive,4,Unclear fee structure,Usability,0.093
+77853d93-5e8b-4273-ab74-3ff070a437c3,CSAT Survey,6,Detractor,3,Minimum deposit too high,Usability,-0.078
+27b12ded-0418-4506-a91d-01299e3a5191,In-app Feedback,6,Detractor,4,Did not trust the platform yet,Funding method,0.414
+9b250fc8-3d8f-4c2c-9b94-77599fc45820,In-app Feedback,10,Promoter,5,Did not trust the platform yet,None,0.922
+8bc9c76c-9325-48d7-be9e-7fc8e1146cbe,In-app Feedback,4,Detractor,2,App was confusing to navigate,None,-0.713
+265c7cda-7e6e-400c-8719-f6982afbaf32,NPS Survey,10,Promoter,5,Support took too long to respond,None,0.974
+15ac9e60-a3cb-4761-b7c6-849d5221bdda,In-app Feedback,9,Promoter,4,App was confusing to navigate,None,0.721
+9d187ecd-fd5b-4772-854b-5f768841b722,CSAT Survey,1,Detractor,1,Support took too long to respond,KYC friction,-0.656
+02187eb9-4c19-4642-b1b1-930efd4f78cd,Exit Survey,8,Passive,4,Support took too long to respond,None,0.553
+61db8704-e800-4598-a8eb-6b13e8bf83dd,NPS Survey,7,Passive,3,Support took too long to respond,Usability,0.021
+b86b4f0e-3102-4bb4-aad6-76690e75b8e3,NPS Survey,5,Detractor,3,No time to finish signing up,Trust,0.179
+b3d09579-83ba-4222-a451-6706147556f8,Exit Survey,1,Detractor,1,No time to finish signing up,Trust,-0.552
+1f3ae2b0-6e6c-4319-ab34-496ebfd0b5cc,In-app Feedback,7,Passive,4,Did not trust the platform yet,None,0.25
+82ca7e6a-58d5-411b-a2e1-6a1c7606c7cc,Exit Survey,10,Promoter,5,,None,1.0
+40d5c59f-5f18-49c4-974f-99a1b17ed45b,App Store Review,6,Detractor,2,Minimum deposit too high,Fees,-0.377
+41df9886-e08c-409f-8582-129ebf6c0bea,CSAT Survey,9,Promoter,5,Verification took too long,None,0.797
+ea7ef9eb-5f39-485b-8443-8a66a16321fb,Exit Survey,4,Detractor,2,Documents kept getting rejected,Trust,-0.546
+7009bc64-30d8-4eef-8df6-7c7219fc412a,CSAT Survey,7,Passive,4,App was confusing to navigate,KYC friction,0.025
+48db3f69-3976-4dab-b6b8-1a1a8f712640,Exit Survey,10,Promoter,5,No time to finish signing up,None,0.691
+9288e9d2-9db0-4ccb-b2a4-cf16ff0d8513,NPS Survey,9,Promoter,4,App was confusing to navigate,None,0.549
+fdfeb1cf-540a-4077-b95e-92e437acb7d9,In-app Feedback,6,Detractor,3,Minimum deposit too high,Competitor comparison,0.053
+ad338b31-cc31-4854-a2a0-9ee659fa1dd4,App Store Review,8,Passive,3,Unclear fee structure,Usability,0.858
+aa610cea-fc0c-40be-98e3-8c0ff56399be,App Store Review,3,Detractor,1,Documents kept getting rejected,Funding method,0.083
+bd0a069a-7ff2-4aec-9e24-bfba79222a31,Exit Survey,8,Passive,3,App was confusing to navigate,None,0.151
+485b6e06-afe0-4755-9809-cd7121b088f6,NPS Survey,6,Detractor,3,Could not link my bank account,None,-0.187
+f51d52dd-f1b4-4b02-8e23-69b19ec7ec09,NPS Survey,6,Detractor,4,Could not link my bank account,None,0.25
+efe4b064-7f29-412a-a730-e9d9c0efa360,CSAT Survey,7,Passive,4,,None,0.562
+c4b142b2-790e-4399-9419-c22b8209992a,NPS Survey,8,Passive,4,Unclear fee structure,Trust,0.628
+b8058bf2-2ed3-4267-91f8-4e1910feb81d,NPS Survey,6,Detractor,3,Wanted to compare with competitors first,KYC friction,0.717
+5970c793-0639-4b14-82ef-002bfbd1188e,In-app Feedback,10,Promoter,5,App was confusing to navigate,None,1.0
+b77c9808-37f2-48c7-9630-76cc6d0ccb76,Exit Survey,5,Detractor,3,Support took too long to respond,KYC friction,0.296
+8a9cdd9a-d8f1-4b69-9620-a8f3964cbf77,In-app Feedback,8,Passive,4,Verification took too long,None,0.161
+133cf0cf-1cf7-4a18-a1ba-458840b2d5bb,Exit Survey,5,Detractor,3,Minimum deposit too high,Competitor comparison,0.292
+562ccc2d-de0e-49eb-94f2-26b39cf8d80b,NPS Survey,7,Passive,4,Unclear fee structure,Usability,0.473
+1f11270f-6b40-4f21-82ba-e1c7d202723e,App Store Review,8,Passive,4,Did not trust the platform yet,Competitor comparison,0.991
+057de0ce-09fc-4a8c-9f2f-d0da97d49daa,In-app Feedback,4,Detractor,2,Documents kept getting rejected,KYC friction,-0.218
+8da78030-1342-419f-80b4-8a6c2ed82f1f,App Store Review,8,Passive,4,Wanted to compare with competitors first,None,0.807
+e9246625-9258-4978-b78b-ba2af9b314ca,NPS Survey,6,Detractor,4,Unclear fee structure,None,0.395
+c631306a-4495-4ba0-8ce0-015e1c8cb573,App Store Review,4,Detractor,3,Could not link my bank account,KYC friction,-0.182
+0999a246-8208-4acf-baba-c7264036d92e,Exit Survey,7,Passive,4,Did not trust the platform yet,Funding method,0.305
+53cb36e5-f64d-4cdc-9252-56acc6ed74b9,In-app Feedback,9,Promoter,4,Minimum deposit too high,None,0.344
+0825a96f-2983-4bd0-999b-226d4a5ce208,Exit Survey,10,Promoter,5,Could not link my bank account,KYC friction,0.48
+1a16961f-d4f1-40a3-a8e1-1eab1b660c4e,NPS Survey,4,Detractor,2,Documents kept getting rejected,None,-0.126
+280fc9d6-844d-41fe-8ed4-6d4f6c77bf49,NPS Survey,10,Promoter,5,Wanted to compare with competitors first,None,0.531
+05c3426d-3064-41c7-94d4-48bb13d44c7f,Exit Survey,5,Detractor,1,Unclear fee structure,KYC friction,-0.054
+c7364253-ad7d-4dcb-96d0-ad29575532c8,Exit Survey,5,Detractor,4,Wanted to compare with competitors first,None,0.077
+fb11ae00-4261-4fce-a0df-d0ad87fa4b65,App Store Review,0,Detractor,1,No time to finish signing up,KYC friction,-1.0
+1c322e48-d132-4f2f-8ed4-3d9c04a27481,CSAT Survey,10,Promoter,5,Could not link my bank account,None,0.592
+a14807ff-c771-4ebf-a19b-af3fde351088,NPS Survey,10,Promoter,5,Minimum deposit too high,None,0.909
+5e7ab534-db44-45d2-8180-4fda38bc8cf7,CSAT Survey,10,Promoter,4,Could not link my bank account,Competitor comparison,0.998
+2a187a1b-8505-4feb-8862-a49a285f42e0,Exit Survey,10,Promoter,5,Could not link my bank account,None,1.0
+d756e135-82b6-4ec1-8b4b-1422df5b3e51,CSAT Survey,4,Detractor,2,,None,0.366
+3a9568bc-f5de-4a54-9a3f-56877ef90047,App Store Review,3,Detractor,2,Did not trust the platform yet,Trust,0.058
+1715e562-da35-411f-bcb6-d068f588f4cc,In-app Feedback,7,Passive,2,Did not trust the platform yet,Time,0.854
+be69d542-4365-48dc-810b-500824d20a42,NPS Survey,7,Passive,3,Wanted to compare with competitors first,None,0.25
+dd5e4bed-2a84-42dd-9571-8432777156ef,CSAT Survey,10,Promoter,5,,Funding method,0.874
+5762b785-199c-4adb-af89-95d33d973ece,App Store Review,7,Passive,4,Wanted to compare with competitors first,None,-0.286
+8575b648-94de-44c5-aeae-cb3fa3cbf396,CSAT Survey,5,Detractor,2,Wanted to compare with competitors first,Usability,-0.163
+6eff641c-55ac-4116-b689-87d4450ea339,App Store Review,5,Detractor,3,App was confusing to navigate,Funding method,-0.651
+c4c450d6-baa5-4506-9b51-d0e96874084e,CSAT Survey,10,Promoter,5,Unclear fee structure,None,0.785
+c5a9ea34-b310-495c-ad74-f45aeb2a4e79,CSAT Survey,4,Detractor,2,Could not link my bank account,KYC friction,-0.316
+8789ca45-df4c-4490-8fbe-57765dce6ed7,NPS Survey,7,Passive,2,App was confusing to navigate,None,0.181
+e28c1313-6ff2-40ec-8403-69636bfc60d9,NPS Survey,8,Passive,5,,KYC friction,0.583
+87d910c8-5d80-4865-ac99-1ff742fa5440,In-app Feedback,9,Promoter,5,Unclear fee structure,None,0.149
+7c2c1268-26b4-4ae7-b8eb-686b888057b0,NPS Survey,10,Promoter,5,Minimum deposit too high,KYC friction,1.0
+5bf4e7fe-bbb3-4b78-a614-70d7a2895786,NPS Survey,4,Detractor,2,Minimum deposit too high,Fees,-0.049
+a806bf35-0e96-404b-b741-2182984c2e20,In-app Feedback,10,Promoter,4,App was confusing to navigate,None,0.334
+19c3aaf0-c379-4453-af53-2ca1276d6626,Exit Survey,6,Detractor,3,App was confusing to navigate,Fees,0.028
+4f9fe9a4-5186-4556-a7e8-ed34d88ae44e,App Store Review,9,Promoter,4,Did not trust the platform yet,KYC friction,0.538
+37edb1b1-1a04-42d1-b4dc-ca8df3f5ef23,CSAT Survey,7,Passive,5,Verification took too long,None,0.481
+96c6a83d-012d-4a76-9c19-c8e82f7c96f7,In-app Feedback,7,Passive,3,Documents kept getting rejected,None,-0.147
+96a2be44-ebe8-4ab4-8e88-68a70574d3ce,Exit Survey,10,Promoter,5,Support took too long to respond,None,0.82
+c8161872-8158-47c7-bc05-d2271ae2de90,NPS Survey,10,Promoter,4,Support took too long to respond,None,0.811
+e0bba7fa-b6c8-4f69-b065-55d57e066d18,NPS Survey,5,Detractor,3,Support took too long to respond,Fees,-0.341
+42b351ae-b453-472a-a407-cfe66c8b3b9b,NPS Survey,2,Detractor,1,Could not link my bank account,Funding method,-0.199
+1b05f40b-9b13-4d90-84e7-eeab9a5df22f,NPS Survey,8,Passive,2,No time to finish signing up,KYC friction,0.321
+1fce956f-1ddb-434f-9828-aaed0b751f1b,Exit Survey,5,Detractor,2,Minimum deposit too high,None,0.308
+7d5f0d65-efcc-4d50-954f-6c0dee1f70ef,In-app Feedback,10,Promoter,5,Wanted to compare with competitors first,None,0.925
+0eacaa0a-6f0f-46d7-acfc-97167701b9ce,In-app Feedback,7,Passive,3,No time to finish signing up,None,-0.069
+36af78a4-f825-422a-9f81-b13a39209251,NPS Survey,3,Detractor,1,No time to finish signing up,Usability,-0.308
+72e21ee7-012b-477f-9568-e27245da8602,Exit Survey,9,Promoter,4,No time to finish signing up,Fees,0.439
+33757a0a-57d8-46a2-ab55-4ecda034aa10,In-app Feedback,7,Passive,3,Did not trust the platform yet,Usability,-0.127
+7b7730ae-e649-49df-aff0-742e357820a4,NPS Survey,4,Detractor,2,Documents kept getting rejected,Trust,-0.005
+f67a3649-1e7f-4719-9bf9-496fb0bf9f24,Exit Survey,7,Passive,3,Verification took too long,None,0.147
+27ff337b-7df1-4871-b5c7-40d96298d630,Exit Survey,9,Promoter,4,Verification took too long,KYC friction,0.701
+a5a0b2f2-c959-40a3-bea3-b29e5657d761,In-app Feedback,0,Detractor,1,Verification took too long,Time,-0.681
+61442bb7-3dba-411c-ae5b-2282c4fff96a,NPS Survey,3,Detractor,1,Minimum deposit too high,None,-0.802
+4673ff1c-573a-49ce-a5ee-6f54d3e074c8,CSAT Survey,10,Promoter,5,Verification took too long,Fees,0.716
+40f37106-e7e8-4d56-96a0-e843e3247a41,App Store Review,10,Promoter,5,App was confusing to navigate,KYC friction,0.934
+90790716-a7bd-437b-911d-6ca8e958b159,App Store Review,4,Detractor,2,No time to finish signing up,None,-0.327
+e9b0509a-adac-457e-87f5-ac455b739016,Exit Survey,7,Passive,3,Wanted to compare with competitors first,None,0.21
+62900abe-d478-4ea7-bd9b-39783e71350b,NPS Survey,4,Detractor,3,Unclear fee structure,Time,0.329
+7d8e82f5-0999-4a8c-a6c0-a83b554a5e56,CSAT Survey,3,Detractor,1,,KYC friction,-0.442
+505d7e67-9d57-4559-af28-615fd94fc926,Exit Survey,2,Detractor,1,App was confusing to navigate,KYC friction,-0.644
+1c08f954-5ab9-44fb-add9-7e210c018f2a,NPS Survey,4,Detractor,2,Minimum deposit too high,Trust,-0.743
+b896560b-0a49-4d7e-bc50-4d203eb1de23,CSAT Survey,9,Promoter,4,App was confusing to navigate,Trust,0.586
+56594d53-0501-462e-a579-1f6610582a0d,In-app Feedback,4,Detractor,2,No time to finish signing up,KYC friction,-0.351
+60a5929b-0398-4738-a5fe-f2eea4ff7894,Exit Survey,4,Detractor,2,Wanted to compare with competitors first,Usability,-0.01
+7973d166-ad06-475f-9a74-dcdb04566d74,App Store Review,8,Passive,5,App was confusing to navigate,Usability,0.167
+ebeceb50-a971-4726-9694-c255ecc3a494,In-app Feedback,4,Detractor,2,Minimum deposit too high,Time,0.035
+0ef2d44b-ca63-466d-b988-9cc1850b768d,Exit Survey,8,Passive,4,,None,0.621
+aee3afd5-e3ea-477e-96bc-c5cc756122f4,App Store Review,10,Promoter,5,,None,0.476
+281c4769-e5aa-48ed-9754-8c4423ea63ff,App Store Review,3,Detractor,1,No time to finish signing up,Fees,-0.563
+339213dc-e2ec-4662-afd9-96ff8150c8db,Exit Survey,7,Passive,3,Wanted to compare with competitors first,KYC friction,0.613
+3cf60aa4-0b1c-4978-b850-d39849229dd2,App Store Review,6,Detractor,3,Could not link my bank account,Trust,0.457
+5560e8a4-d2c7-443c-963f-e3fe063aa292,App Store Review,8,Passive,4,Minimum deposit too high,KYC friction,0.334
+1f903ffa-ecf3-4782-926d-002f38a32dd6,In-app Feedback,5,Detractor,4,Support took too long to respond,None,-0.239
+2bc5fe32-cc1c-4ec8-aa4b-ef5c75bc4d25,Exit Survey,4,Detractor,2,Unclear fee structure,Fees,-0.099
+49c6f9d8-3f13-45bd-b9a2-79fde9ef1b16,NPS Survey,10,Promoter,5,No time to finish signing up,None,1.0
+5c204680-a26b-460d-8422-9cbdf05326d5,CSAT Survey,10,Promoter,5,Could not link my bank account,None,0.733
+9caa2419-c764-4d40-b047-12b93ccd58c0,App Store Review,7,Passive,5,No time to finish signing up,None,-0.056
+f9673d51-0f35-4ddb-a5f5-0344a4f39e07,In-app Feedback,7,Passive,4,Documents kept getting rejected,None,0.24
+fe7f11b0-f3ab-4715-b924-307d3084240e,NPS Survey,8,Passive,4,Did not trust the platform yet,Usability,0.724
+6baaa596-b508-4c60-8b9b-347f6c6ce919,App Store Review,8,Passive,3,Did not trust the platform yet,None,0.667
+aa1242a7-a333-4b40-87f2-9a9f520321b7,CSAT Survey,9,Promoter,4,App was confusing to navigate,Funding method,0.628
+8a8efce4-4b15-4228-8492-77a394170d65,NPS Survey,4,Detractor,3,Verification took too long,None,0.116
+87c32c5e-e545-48aa-a6c7-63ff85524782,App Store Review,3,Detractor,2,No time to finish signing up,Usability,0.358
+a58f8eac-52fb-451b-bac5-7e316005cf40,CSAT Survey,5,Detractor,3,Could not link my bank account,Funding method,-0.489
+5c59f02a-7ba3-426c-aab2-c0d1e31d83ed,App Store Review,10,Promoter,5,Minimum deposit too high,Funding method,1.0
+21baa450-fd76-48dc-9e55-87c523246702,CSAT Survey,4,Detractor,2,Support took too long to respond,Usability,-0.905
+867f5bf9-67df-49b2-bb81-0e1eb9e5afde,Exit Survey,8,Passive,3,Support took too long to respond,KYC friction,0.124
+c2693dd2-446e-491a-83c4-9a2c7e3737c9,App Store Review,6,Detractor,2,App was confusing to navigate,KYC friction,0.092
+11e50c40-ae44-4fc8-a30d-a5f6a55fcd2e,NPS Survey,7,Passive,4,Unclear fee structure,Usability,0.348
+3fdb8f7d-e896-44c3-b2b1-3aa56896ac98,CSAT Survey,7,Passive,4,Verification took too long,Funding method,0.482
+acfcc5d2-3712-4cb9-b4bc-82e0ce867ea4,App Store Review,3,Detractor,2,No time to finish signing up,Usability,-0.263
+77f87366-7f54-49b4-908b-99113f013415,Exit Survey,6,Detractor,3,Unclear fee structure,None,-0.235
+146db838-1deb-451b-a9bc-12c279c640ef,NPS Survey,2,Detractor,1,Did not trust the platform yet,KYC friction,-0.209
+afeb0312-fccb-44b5-b1ac-d948b8e3e57d,In-app Feedback,8,Passive,4,Verification took too long,Usability,0.779
+67d012c8-fef8-4edd-b45a-e89054207b46,CSAT Survey,10,Promoter,5,,None,0.222
+478caf5f-9ee4-4f77-98d9-7790dbf2e6d1,Exit Survey,10,Promoter,5,Documents kept getting rejected,None,0.811
+9d5fd90f-4c35-4222-bbae-f98d14893c29,App Store Review,9,Promoter,5,Did not trust the platform yet,None,0.818
+90eef43a-0cb5-4163-aea4-35e0d219fbfe,CSAT Survey,10,Promoter,5,Unclear fee structure,None,1.0
+cee9904e-9637-4f63-bd49-3f3f46806d58,Exit Survey,6,Detractor,3,Wanted to compare with competitors first,Fees,0.125
+ac711177-23e4-4fd1-829f-c1306281e53a,In-app Feedback,9,Promoter,5,Verification took too long,None,0.29
+4d8cfa68-96d1-46a2-9bda-6fc1d9c90214,App Store Review,10,Promoter,5,Did not trust the platform yet,KYC friction,0.63
+362043eb-8c5f-49d2-9e43-709c5eb85df8,App Store Review,6,Detractor,4,Did not trust the platform yet,KYC friction,0.248
+33d9b8a3-ef16-42f6-9109-38352bf977c8,In-app Feedback,9,Promoter,3,Minimum deposit too high,None,0.513
+0550f604-a341-435a-921d-1b64511d86f3,NPS Survey,8,Passive,4,Wanted to compare with competitors first,Funding method,0.762
+0113ec68-f651-4c93-94c8-1c574fc2b382,App Store Review,2,Detractor,1,No time to finish signing up,Time,-0.148
+91b844e4-f11b-4cd5-885e-0b43bef58bce,Exit Survey,10,Promoter,5,Minimum deposit too high,Funding method,0.711
+2fb60e0b-c7d5-4d0d-b356-e8d0b6da3978,CSAT Survey,9,Promoter,4,App was confusing to navigate,None,0.802
+c0e18940-87e1-4daf-b60a-c4cdb946686f,In-app Feedback,9,Promoter,4,Documents kept getting rejected,None,0.56
+aabfac33-dd96-417f-92d4-5f0aac6ca7d8,In-app Feedback,10,Promoter,5,Support took too long to respond,None,0.696
+5354130a-a380-4a52-b0db-f14f1349556d,CSAT Survey,9,Promoter,5,Verification took too long,Usability,0.217
+3a66d28f-4187-4915-a2a7-d67321ddaf3b,CSAT Survey,6,Detractor,4,Support took too long to respond,None,0.227
+6ed13b79-156e-428a-a20d-02bac9d93ae3,In-app Feedback,7,Passive,2,Could not link my bank account,Trust,0.375
+c6666455-f4a6-48d2-a8c0-754040789eee,CSAT Survey,7,Passive,3,Could not link my bank account,None,0.286
+0dc96144-66c3-48b6-91c6-8ac41c9f938c,NPS Survey,4,Detractor,3,Documents kept getting rejected,None,-0.182
+cd68f1f1-98ce-4539-a285-717a9af29cd0,App Store Review,6,Detractor,2,,Funding method,-0.079
+a4594a83-d2ee-4fb6-a3a0-b68dadb8c49b,CSAT Survey,10,Promoter,5,Unclear fee structure,KYC friction,0.857
+7a81c9a6-cd87-4b00-9cd1-e041fac7b700,App Store Review,0,Detractor,1,,Funding method,-0.894
+f4d17d5b-5ba3-45fd-9b7b-82865ca265e6,In-app Feedback,7,Passive,3,Did not trust the platform yet,Usability,-0.169
+3c27ca11-1a0d-44a5-84fb-c3e9f50c5150,NPS Survey,5,Detractor,2,Wanted to compare with competitors first,None,0.206
+d13ec318-614b-4054-af04-081692d43433,In-app Feedback,6,Detractor,2,Verification took too long,None,0.193
+e5844704-8ffe-420d-ad55-e263fce34d7e,NPS Survey,5,Detractor,3,Minimum deposit too high,None,0.376
+8f485918-0791-4917-a057-75e68d848a44,App Store Review,2,Detractor,2,Could not link my bank account,KYC friction,-0.574
+56df3b95-b457-4443-a3c0-c9d58212f9ae,App Store Review,4,Detractor,2,App was confusing to navigate,None,-0.066
+eac9c6a3-4f93-473c-a038-0354fc685092,In-app Feedback,4,Detractor,3,Minimum deposit too high,Usability,-0.575
+172d3b7a-6106-4fde-8ed2-777dd852ea4d,Exit Survey,5,Detractor,3,No time to finish signing up,Usability,0.035
+8b92113c-98da-4afe-b8b4-1b73e3d19411,App Store Review,8,Passive,5,Wanted to compare with competitors first,None,0.459
+fb3ddfd1-dc16-4528-8ac3-ae17be49ce97,NPS Survey,6,Detractor,3,Did not trust the platform yet,Time,0.201
+2cac0218-ca75-40a3-b87a-cba39e679b21,App Store Review,10,Promoter,5,Could not link my bank account,KYC friction,1.0
+619f8dcb-bbaa-44d9-addd-af60189c5e23,Exit Survey,7,Passive,3,No time to finish signing up,None,0.057
+b2ae7f0c-2db4-4f2d-969d-49cff9209b50,App Store Review,9,Promoter,5,No time to finish signing up,None,0.879
+7f06ee21-0e41-4c66-b471-380fb8a17a59,In-app Feedback,1,Detractor,1,Did not trust the platform yet,Usability,-0.567
+37c45f31-5573-4cb3-9505-0b806d02d7a3,In-app Feedback,6,Detractor,2,Wanted to compare with competitors first,KYC friction,0.285
+bdc13025-3546-414e-bd66-6597627c6025,NPS Survey,4,Detractor,2,Could not link my bank account,None,0.054
+0bc36284-32e9-4d24-aca6-7c01038d488e,NPS Survey,2,Detractor,2,Documents kept getting rejected,Fees,-0.285
+aea23fbc-8ffb-473d-9951-64ca0f6799ec,Exit Survey,10,Promoter,5,Documents kept getting rejected,None,0.585
+e506dc18-0465-42ee-bff8-173d885e4df3,In-app Feedback,8,Passive,4,Documents kept getting rejected,Usability,0.811
+8bb2b0a4-9bd2-42b4-8221-2850270bebd8,Exit Survey,5,Detractor,2,Support took too long to respond,KYC friction,0.326
+58c3497a-8ead-4a80-b979-d1be77a7ff81,CSAT Survey,3,Detractor,2,Support took too long to respond,KYC friction,-0.085
+1d4e5ad3-85aa-4809-ba09-12b7ce237fc0,NPS Survey,6,Detractor,3,Unclear fee structure,None,0.394
+57850177-cffc-4806-94ea-5cc1e08592b9,NPS Survey,9,Promoter,5,Verification took too long,None,0.651
+39f1c1aa-ddaa-4365-b246-2dfc51ac7241,Exit Survey,8,Passive,4,Wanted to compare with competitors first,KYC friction,0.71
+cc754f23-7f81-456d-8181-ec7b06c06533,NPS Survey,5,Detractor,2,Support took too long to respond,KYC friction,-0.017
+bd663828-1538-453a-a9ea-5dd2dbce190e,NPS Survey,9,Promoter,4,Wanted to compare with competitors first,None,0.985
+fe1ff5a7-2abf-4025-a8ff-3cdc69bce33d,NPS Survey,5,Detractor,3,Documents kept getting rejected,Usability,-0.071
+77be1192-f239-405c-85ab-1d8f7c0ed23e,In-app Feedback,2,Detractor,1,Could not link my bank account,None,-0.387
+2b21fef7-f9e8-4091-8057-f8e71c34f2de,Exit Survey,5,Detractor,3,App was confusing to navigate,Trust,0.21
+b535f2b9-81a0-4b4b-8ed8-75d70ff767ad,NPS Survey,7,Passive,3,App was confusing to navigate,None,-0.334
+2aaa5980-4e94-462e-a264-00fb75645184,Exit Survey,8,Passive,4,No time to finish signing up,Usability,0.512
+b8384837-f18f-4b13-bef9-0d1219cd9662,In-app Feedback,8,Passive,5,Wanted to compare with competitors first,Usability,0.403
+736bd6e8-9e50-456c-bc52-b48558f69a08,CSAT Survey,10,Promoter,5,Could not link my bank account,None,0.316
+e6d1b1c9-1f28-4f79-a456-2c4d35e7d638,In-app Feedback,10,Promoter,5,Minimum deposit too high,None,0.532
+9ee83f1c-4b2b-48b9-8a4a-f1e7f9670b8e,App Store Review,10,Promoter,5,No time to finish signing up,None,0.595
+becf2628-2d13-4545-9312-4ed312b2a2d4,Exit Survey,9,Promoter,5,Documents kept getting rejected,None,0.627
+13f85923-0c15-464f-8141-fb7f0c638d4c,NPS Survey,10,Promoter,5,,KYC friction,0.828
+6c7a6169-73b9-4afc-b816-110b8269350f,In-app Feedback,6,Detractor,2,,KYC friction,0.187
+e19f7928-e4dc-4847-8e0c-9c2b5d997e73,App Store Review,10,Promoter,5,Verification took too long,None,0.55
+b5fe9463-cbff-4054-92b3-2f1828b02cd4,In-app Feedback,10,Promoter,5,Did not trust the platform yet,None,0.482
+8e0eb901-584e-4daf-9a24-8eea68a2a606,NPS Survey,10,Promoter,5,Support took too long to respond,None,0.035
+b6508b81-baef-4d0a-b512-7e3bdded9b84,CSAT Survey,2,Detractor,1,Minimum deposit too high,KYC friction,-0.711
+fd62b670-9b75-474b-bbc4-45c6e85b4bc4,App Store Review,10,Promoter,5,Support took too long to respond,None,0.868
+832f19e2-d9cd-44ad-aa9b-d6500c846265,NPS Survey,5,Detractor,2,App was confusing to navigate,Time,0.282
+4b9fec97-c67f-4118-aa39-9a89329854f2,Exit Survey,10,Promoter,4,Could not link my bank account,None,0.695
+b5850328-da46-43d9-baab-1336c6b0f444,App Store Review,4,Detractor,3,Support took too long to respond,None,0.17
+e30daf68-837c-4f63-91d5-5d7aa118b518,In-app Feedback,10,Promoter,5,App was confusing to navigate,Funding method,1.0
+157dc813-8290-45d0-810e-0c157582c291,App Store Review,10,Promoter,5,Wanted to compare with competitors first,None,0.788
+55270cf6-ff60-4dac-9b33-d7b4b9a59b36,App Store Review,2,Detractor,1,Wanted to compare with competitors first,None,-0.472
+8e4c2802-568c-4be3-9846-3e9b1805833b,App Store Review,9,Promoter,4,Documents kept getting rejected,None,0.691
+15b54962-9d5f-4a3d-9cb6-f454648990c1,CSAT Survey,6,Detractor,3,Unclear fee structure,Fees,0.263
+153b0bfb-e59b-48f7-9856-b8b67a3293c2,Exit Survey,10,Promoter,4,Documents kept getting rejected,None,0.691
+32293855-f53a-479d-ae14-09027ea8c82b,In-app Feedback,10,Promoter,5,Support took too long to respond,None,0.609
+f1787d03-e430-4dbd-b25f-ed315831e9a8,In-app Feedback,7,Passive,2,Verification took too long,Usability,-0.299
+c6e1694b-1700-4716-bc3a-c40ae259104f,In-app Feedback,8,Passive,4,,Usability,0.269
+160cd031-9ad1-4678-b9e6-10002fffa298,CSAT Survey,6,Detractor,3,App was confusing to navigate,Fees,-0.046
+b3c2ba2f-6f64-43e3-a6ea-def85609e854,NPS Survey,6,Detractor,3,Wanted to compare with competitors first,Funding method,0.228
+1443dacd-5cfb-44a0-a886-c46fa159e177,CSAT Survey,2,Detractor,1,Wanted to compare with competitors first,Fees,-0.105
+cb11ef89-3583-4b2f-94ff-7175b635aecd,App Store Review,10,Promoter,5,Documents kept getting rejected,None,0.779
+2efb71f6-8750-46f8-8fa5-2a8dbe9151bd,NPS Survey,6,Detractor,4,,None,0.465
+afc7f6b7-1489-4d1b-9bb1-9de6e9cc7941,CSAT Survey,7,Passive,3,Minimum deposit too high,KYC friction,-0.026
+e170913d-52eb-4b31-b4e3-74334ccd347b,App Store Review,2,Detractor,2,Did not trust the platform yet,Competitor comparison,-0.021
+504f1fda-339a-4f71-a5b0-4999fcbb206b,NPS Survey,6,Detractor,3,Minimum deposit too high,Trust,0.143
+abde888d-63cd-4909-b919-26405885f2b2,Exit Survey,1,Detractor,1,Wanted to compare with competitors first,Usability,-0.736
+379c382c-f9bc-40fe-a5b3-b4322be65982,NPS Survey,5,Detractor,3,Did not trust the platform yet,None,0.291
+b8fdf6f0-ca37-4278-839b-9de12ff50af4,In-app Feedback,7,Passive,4,Could not link my bank account,KYC friction,0.433
+7f860e55-0ccc-40fb-92f2-c95e19de6989,NPS Survey,4,Detractor,1,Unclear fee structure,Fees,0.357
+3b782d52-7665-4825-b651-ce38632aa5d1,Exit Survey,6,Detractor,2,Documents kept getting rejected,Competitor comparison,0.07
+d1aadb9d-09e0-430f-9fcc-e1fbc0647996,CSAT Survey,10,Promoter,5,Support took too long to respond,None,0.341
+9442c3f9-2c5e-4a11-83a8-8e0b77970979,App Store Review,2,Detractor,1,App was confusing to navigate,Fees,-1.0
+41d3af73-2b30-4449-8dcf-be4becd0e97b,CSAT Survey,4,Detractor,2,Did not trust the platform yet,Trust,-0.141
+f46851f1-5a8a-474e-a986-cbe21caba845,CSAT Survey,2,Detractor,2,Documents kept getting rejected,None,-0.785
+baed44d9-72bd-41d4-9498-65a9cd4d6d7a,CSAT Survey,6,Detractor,3,Wanted to compare with competitors first,None,0.002
+faf93089-bdb7-4c84-8508-a486d85df930,In-app Feedback,7,Passive,4,Minimum deposit too high,None,0.287
+ab02b065-24bc-4382-be8b-91518cb62b10,CSAT Survey,10,Promoter,4,Unclear fee structure,None,0.525
+8d8b6e60-a48d-4a77-a988-26d3a8b64cee,App Store Review,8,Passive,5,Unclear fee structure,KYC friction,0.141
+eddf3b2f-1cd2-48e7-be19-2be1db977869,Exit Survey,7,Passive,5,,None,0.267
+7a3f813d-c89e-4b4c-be53-d9d1c1600013,In-app Feedback,5,Detractor,3,Support took too long to respond,None,0.458
+6d47500d-a42e-4f26-a3d8-78ecda0e53db,App Store Review,8,Passive,5,Could not link my bank account,None,0.013
+94df270d-3beb-43b1-b857-e784b8c60e58,Exit Survey,7,Passive,3,Support took too long to respond,None,-0.415
+768567ab-61e7-48f4-a1b0-0f03c5529ec3,NPS Survey,6,Detractor,4,Verification took too long,Fees,0.344
+f45c6535-f012-4835-9ca4-baa5d4ac5ae3,App Store Review,3,Detractor,2,No time to finish signing up,Trust,-0.319
+967d4f5e-4516-46ec-b9cb-2a5df4ef2585,App Store Review,0,Detractor,1,App was confusing to navigate,Trust,-1.0
+4ab3b094-592b-4576-8845-91074f53001c,CSAT Survey,9,Promoter,5,,None,0.955
+678ead6a-7b12-4e46-93a7-eb188d2e7fc9,In-app Feedback,8,Passive,5,Could not link my bank account,None,0.76
+adc4ff00-9df7-4201-b367-d27d378aa507,In-app Feedback,8,Passive,5,Unclear fee structure,Usability,0.776
+7ee48366-26f0-4ca9-8a27-dae23c4e4401,In-app Feedback,4,Detractor,2,App was confusing to navigate,None,-0.109
+950bc5f5-ff3c-4a96-a378-5b145ad62bc7,CSAT Survey,4,Detractor,2,App was confusing to navigate,None,0.123
+7e7a4071-a687-4ea6-b63d-df0ef3459016,App Store Review,4,Detractor,1,Support took too long to respond,Usability,-0.462
+47a7c5c4-a301-4190-bfbd-6d3486b7c3d7,CSAT Survey,10,Promoter,5,Minimum deposit too high,None,0.91
+3d7d8830-b0f8-4fad-8ce9-7c6fcd3578a6,NPS Survey,10,Promoter,5,Unclear fee structure,None,0.696
+898f878a-bf1d-435d-bcce-21e349905b0b,In-app Feedback,9,Promoter,4,Unclear fee structure,None,1.0
+a54c9a0d-6fde-4954-bf8c-c712c5c10147,App Store Review,10,Promoter,5,No time to finish signing up,None,0.984
+3e6258ac-413d-4017-a172-57403ff5093a,CSAT Survey,4,Detractor,1,Could not link my bank account,None,-0.137
+73e96ad3-63f9-408a-ba83-93582c7f17d2,NPS Survey,6,Detractor,3,,Trust,0.24
+f1f66c10-58a4-47ab-947f-19876b1e37dd,NPS Survey,7,Passive,3,App was confusing to navigate,Funding method,0.251
+2e7b76b0-cb77-4dd9-9bdd-89965a6c3d95,App Store Review,5,Detractor,2,Unclear fee structure,KYC friction,-0.078
+a41ab887-0644-4cc2-9bfe-e82432c5d23a,In-app Feedback,8,Passive,3,Did not trust the platform yet,None,0.89
+664ac196-7121-4530-9d8b-8198667944d2,App Store Review,10,Promoter,5,Verification took too long,KYC friction,0.547
+27c60453-fc08-4b49-9b9a-2fcc110ca1a6,CSAT Survey,9,Promoter,5,,Usability,0.99
+de61dfcf-e736-407c-8fa7-d946bee79a6a,NPS Survey,6,Detractor,3,Documents kept getting rejected,Time,-0.355
+2f40d337-73d0-4352-9f4f-63409ae92ad4,CSAT Survey,2,Detractor,1,Could not link my bank account,Funding method,-0.371
+ae8d2123-8fa4-490d-a718-08d12a063951,Exit Survey,8,Passive,3,Wanted to compare with competitors first,Funding method,0.766
+33329903-2864-41c6-ab65-50a8ec1dce03,NPS Survey,8,Passive,4,App was confusing to navigate,None,0.375
+12ba1b09-52f2-4400-9f79-cb1f7273821e,In-app Feedback,7,Passive,3,Could not link my bank account,None,0.253
+34af7179-bea3-430f-9c13-bc19d04c7bdf,App Store Review,10,Promoter,5,Could not link my bank account,Competitor comparison,0.726
+67ce858c-fc0d-4a8b-bcfb-579fdc0c5462,In-app Feedback,5,Detractor,1,Support took too long to respond,KYC friction,-0.253
+1b221194-3cf5-4d14-a78d-f41a33956b34,CSAT Survey,7,Passive,4,Wanted to compare with competitors first,Trust,0.176
+ee3792dc-2ca1-413c-a236-f1a232294ea3,Exit Survey,6,Detractor,4,Support took too long to respond,KYC friction,0.036
+fd617290-33ce-494f-b685-2c248959ba90,App Store Review,6,Detractor,4,Did not trust the platform yet,None,0.282
+d78378ef-a9bf-4eaf-a07a-dc081b4c8329,App Store Review,4,Detractor,2,Did not trust the platform yet,Usability,-0.328
+5251d3d6-8815-4cb4-a45f-1a2583dbd31b,CSAT Survey,8,Passive,3,Unclear fee structure,Trust,0.039
+47935d4f-40f8-465b-a17d-c54687cf0e3d,App Store Review,7,Passive,4,Did not trust the platform yet,Usability,0.115
+c7e57638-80bd-416e-a841-d90784ec6292,Exit Survey,8,Passive,4,App was confusing to navigate,KYC friction,0.592
+54ce6662-4842-493e-aab1-1b08484fb5fb,CSAT Survey,3,Detractor,2,,Fees,-0.36
+414d183a-f394-4b2b-9173-0cc9b951feee,CSAT Survey,5,Detractor,3,Could not link my bank account,None,-0.296
+de8084fa-da9f-4747-9f44-9f94f632c2ac,Exit Survey,8,Passive,3,Could not link my bank account,None,0.561
+4499949f-ea6a-41bb-b039-4adc1e0dbc99,NPS Survey,1,Detractor,1,Could not link my bank account,KYC friction,-0.572
+95bc1cc6-542c-42fc-8421-49c8453fd6a0,NPS Survey,3,Detractor,2,App was confusing to navigate,Funding method,-0.367
+50a9b944-afbe-4d67-9bf4-a7faf8d05c91,NPS Survey,7,Passive,3,Unclear fee structure,KYC friction,0.499
+5c5dce9e-39fb-485b-ae06-bb767e820fca,In-app Feedback,7,Passive,3,App was confusing to navigate,Trust,0.63
+a92456cc-417d-42ee-b59f-6bee4064672f,In-app Feedback,7,Passive,3,Unclear fee structure,Fees,-0.051
+dec149b4-afa7-4108-b0ea-b632a884a998,CSAT Survey,10,Promoter,5,Minimum deposit too high,None,0.714
+f1f4afcd-5dae-4e69-bc2f-e1a49a4b512b,CSAT Survey,7,Passive,4,Verification took too long,None,0.4
+97b357d1-df08-43a5-9e14-f5b6f0bcba9d,CSAT Survey,10,Promoter,5,,None,0.361
+835de668-ed77-4a4d-8c97-cd0caf749e6b,In-app Feedback,10,Promoter,5,Wanted to compare with competitors first,KYC friction,0.672
+bc9d8e99-1445-4639-924d-f61fbc8c05b8,In-app Feedback,3,Detractor,1,Did not trust the platform yet,Fees,-0.57
+1f6957bf-4c6f-485b-80d6-f5a5f66cdb98,CSAT Survey,8,Passive,4,App was confusing to navigate,KYC friction,0.551
+0d9b511d-15af-4309-80bb-44d091fe5b89,In-app Feedback,2,Detractor,1,Did not trust the platform yet,Trust,0.039
+948961b9-b302-44a9-8b3d-ce6f3da05401,Exit Survey,8,Passive,4,Verification took too long,None,0.221
+c772678c-83ab-4e95-a67b-b48b3c84e5ca,Exit Survey,6,Detractor,4,Verification took too long,KYC friction,-0.35
+87af66b3-ca52-45e5-8dca-8ee8f63dca7e,CSAT Survey,10,Promoter,5,Unclear fee structure,None,0.838
+bff14c3e-2586-4cb4-a401-098c5fa72693,Exit Survey,10,Promoter,5,Wanted to compare with competitors first,Usability,1.0
+0884d8c5-7dcd-4879-9fef-d10fef4c2557,App Store Review,9,Promoter,4,Verification took too long,None,0.904
+c3ab539b-a3eb-4def-9acf-fe0927dd19eb,In-app Feedback,9,Promoter,4,Verification took too long,None,1.0
+7a4bb81b-bd41-47fa-9031-ad6a170c91e2,NPS Survey,9,Promoter,4,Could not link my bank account,None,0.859
+5fa333b7-d221-4aac-9842-73b972225269,In-app Feedback,8,Passive,3,,None,0.181
+bd36b5ae-b222-42fd-add7-fd601104a45b,Exit Survey,4,Detractor,2,Support took too long to respond,KYC friction,-0.308
+cd7b154e-2dc9-45a4-b413-320c9d3e8021,In-app Feedback,8,Passive,4,Unclear fee structure,None,0.165
+1826bb91-039d-419d-aef3-3331b8055ffd,App Store Review,6,Detractor,3,,Trust,0.21
+b9dd9ac6-3e00-4ac8-886f-df4f65a37e91,In-app Feedback,10,Promoter,4,Support took too long to respond,None,0.752
+82bd24ed-c311-4974-97f5-7d852758438f,App Store Review,6,Detractor,3,Wanted to compare with competitors first,None,-0.371
+5794f337-3b64-4bb4-b28f-49868ecf60d2,App Store Review,8,Passive,4,No time to finish signing up,None,0.223
+9952b2d7-d79c-4882-8463-9a2e9ba797d7,In-app Feedback,10,Promoter,5,Support took too long to respond,Competitor comparison,0.79
+062f8c0b-f0cd-4f50-9bb9-4b2fc9c335b5,CSAT Survey,7,Passive,3,Wanted to compare with competitors first,Funding method,0.964
+eb31f2fb-79d0-4f10-a062-c05719ea5c41,App Store Review,2,Detractor,1,Minimum deposit too high,Fees,-0.505
+a493d0a5-b7e0-44d9-bdb3-d25ce4a38a6e,In-app Feedback,3,Detractor,1,No time to finish signing up,Time,-0.452
+acc926fb-a753-4dfe-bcdb-d9c19840d740,App Store Review,3,Detractor,2,Minimum deposit too high,Trust,-0.454
+d3f51170-8027-4c91-9fe3-857057fcee8e,App Store Review,6,Detractor,4,Documents kept getting rejected,Time,0.322
+fad2f5b7-8586-44bd-854a-50166aef6516,App Store Review,9,Promoter,3,No time to finish signing up,None,0.556
+2cf839f8-8a79-4574-b36e-545c8decd225,CSAT Survey,7,Passive,4,Wanted to compare with competitors first,None,0.584
+6b20d84f-9f78-47af-8aa3-c41f51f40ac5,In-app Feedback,4,Detractor,3,Did not trust the platform yet,None,-0.319
+b936fc1e-7023-45a0-852a-c0b421aebfcc,App Store Review,9,Promoter,5,Could not link my bank account,KYC friction,0.791
+5406fcac-22a7-4a72-9450-68f0cd26b2e1,NPS Survey,4,Detractor,2,Documents kept getting rejected,Usability,-0.288
+42605e49-12fd-4ea9-b5ac-276ca2c73052,Exit Survey,3,Detractor,3,Documents kept getting rejected,None,-0.225
+3bb0f1e6-5898-41ab-bcff-13bb4422470e,Exit Survey,8,Passive,4,Minimum deposit too high,Competitor comparison,0.83
+0230958c-6971-4ccb-a332-192e3d01e1be,Exit Survey,6,Detractor,3,Wanted to compare with competitors first,KYC friction,0.126
+aed84115-e1fd-4f11-b959-df5d93e0cdd2,In-app Feedback,10,Promoter,5,Unclear fee structure,None,0.791
+4f233e01-e790-427f-baa7-04af656b634f,In-app Feedback,8,Passive,5,Documents kept getting rejected,KYC friction,0.484
+35232270-b401-4d30-b432-2c941ba9cca2,In-app Feedback,5,Detractor,3,Unclear fee structure,Fees,0.05
+04951720-5ee6-48d3-a345-b2d3ae61a624,App Store Review,7,Passive,4,,Trust,0.237
+93aff753-03b1-4add-ad5a-0bea465296d5,In-app Feedback,10,Promoter,5,No time to finish signing up,Fees,0.786
+a486bbac-b55b-4f26-a6a8-b5c1b467ba30,CSAT Survey,9,Promoter,4,Documents kept getting rejected,None,0.576
+8a8fea8a-e7b5-4c02-8790-c008df215746,In-app Feedback,6,Detractor,2,Wanted to compare with competitors first,Fees,0.08
+b873c176-f36a-4ba1-9b4b-f1dc857bac0b,Exit Survey,10,Promoter,5,App was confusing to navigate,Fees,0.834
+29cd74d1-a1ef-4b47-b873-cf6970c1d1a3,Exit Survey,6,Detractor,2,App was confusing to navigate,Fees,0.621
+fd7fe62d-182c-4610-a7e1-9987fecfd349,In-app Feedback,9,Promoter,5,Support took too long to respond,None,-0.006
+7f650c42-6072-4a94-a8f0-751df582d290,NPS Survey,3,Detractor,2,,Time,-0.499
+0aa1629b-548a-4944-8902-51029f03a334,In-app Feedback,6,Detractor,2,Could not link my bank account,Fees,0.267
+d380a0fc-5e97-49e9-8598-e8e1ed675b2c,App Store Review,7,Passive,4,App was confusing to navigate,Usability,-0.136
+6e6c4b2a-c399-4aed-82ee-a8be78816e02,In-app Feedback,0,Detractor,1,Unclear fee structure,Time,-0.487
+5b3d88ac-7946-452f-b408-8aa03c165589,CSAT Survey,4,Detractor,2,App was confusing to navigate,Trust,-0.153
+0853f451-599b-42aa-ad3a-acc178560f57,App Store Review,5,Detractor,2,Documents kept getting rejected,KYC friction,0.044
+eb1b4b6a-f93f-432a-9a28-78235c536808,In-app Feedback,10,Promoter,5,App was confusing to navigate,None,0.874
+af7023b8-5dc6-46b0-b9c2-fbe1dbe79e6b,App Store Review,6,Detractor,4,Wanted to compare with competitors first,KYC friction,-0.195
+bab9622a-5866-4901-8e3c-fb750192a334,App Store Review,10,Promoter,5,Wanted to compare with competitors first,None,0.583
+06f8572b-e860-42f1-a01c-27fe2b949646,Exit Survey,2,Detractor,1,Support took too long to respond,KYC friction,-0.794
+8785e2c2-1158-4394-9f6e-0c22a21a022d,App Store Review,4,Detractor,3,Minimum deposit too high,Fees,-0.179
+e5c89e78-8b4f-47b4-98af-67ed4efde4f9,Exit Survey,7,Passive,4,Minimum deposit too high,Competitor comparison,0.288
+024f674e-7eae-4105-b24a-2a2a20f91240,Exit Survey,8,Passive,4,Could not link my bank account,None,0.3
+2ed4ad8a-3a06-4699-b39a-06b33d30760e,NPS Survey,10,Promoter,5,,Trust,0.827
+7ca6bdb6-4783-4a0d-b381-c68553694b83,NPS Survey,7,Passive,4,Wanted to compare with competitors first,None,0.479
+48df0842-80ca-40c9-8722-7ec6dc6de379,NPS Survey,7,Passive,3,Wanted to compare with competitors first,None,0.087
+f2df4a85-545e-4fe9-9070-3ef85c0d1e61,App Store Review,3,Detractor,1,Wanted to compare with competitors first,None,-0.45
+c0898017-3d4b-4234-958e-acb2d009b045,Exit Survey,10,Promoter,5,Could not link my bank account,None,0.656
+9ef6cfdb-8189-42e9-90de-cc04f400a7a2,In-app Feedback,10,Promoter,5,Wanted to compare with competitors first,None,0.86
+91629711-7bd2-4309-858c-3f7e31fccfba,Exit Survey,9,Promoter,5,Could not link my bank account,None,0.656
+7b963475-ef4e-4566-b2fd-ab29a1829b4c,App Store Review,7,Passive,4,App was confusing to navigate,Usability,0.503
+4400fc08-5184-427e-8c4f-edabf0aebc22,NPS Survey,4,Detractor,2,Could not link my bank account,Competitor comparison,-0.499
+bd29fa59-e41c-40a3-bcb4-820e64766c1f,Exit Survey,6,Detractor,3,Did not trust the platform yet,Usability,0.244
+3dd40334-129a-459c-bced-06e342957e45,CSAT Survey,4,Detractor,3,App was confusing to navigate,None,0.365
+be1f81e7-43ff-46fd-ab97-8e54534267ee,NPS Survey,4,Detractor,1,Did not trust the platform yet,Fees,-0.601
+575196c8-209e-459b-a694-98e29a80c65c,In-app Feedback,4,Detractor,2,Documents kept getting rejected,Time,-0.334
+5f002a17-012e-4d5d-9cba-954142ee3978,In-app Feedback,10,Promoter,5,App was confusing to navigate,None,1.0
+e8425518-a883-4535-9a87-4f7b83e8f84f,Exit Survey,10,Promoter,5,Support took too long to respond,Time,1.0
+86d1026c-c2d6-4c2f-a729-2de406348ae8,In-app Feedback,9,Promoter,4,,Fees,0.691
+7ec4808a-cfa0-475c-8154-81c0438ead06,NPS Survey,1,Detractor,1,Unclear fee structure,Usability,-0.569
+c8854951-d70d-4412-bf2d-9dbc66d3b9ed,Exit Survey,7,Passive,3,,Competitor comparison,0.681
+21128fe0-7c5c-4df8-825e-ec179f4dba2d,Exit Survey,8,Passive,3,Verification took too long,None,0.61
+7f5570e6-8f6b-465e-8499-5c029c839b0b,CSAT Survey,9,Promoter,5,Documents kept getting rejected,None,0.68
+d0d9ea33-4e68-452c-8c8a-b25a69234b09,Exit Survey,7,Passive,3,App was confusing to navigate,Trust,0.277
+98688074-8904-4402-b625-2492b47b239b,In-app Feedback,8,Passive,4,,None,0.544
+7a15d8f1-27ee-487a-9c0d-bf9ae19d2603,CSAT Survey,7,Passive,5,,None,0.053
+dfec6ed8-d809-4aa9-a70b-6b2efc75623c,Exit Survey,9,Promoter,5,,None,0.788
+2c5593fa-02bc-4404-9eb4-d171ac2d3e02,App Store Review,1,Detractor,1,Verification took too long,KYC friction,-0.427
+9e1d923a-410a-41c4-b0b9-e41b8b1483f5,App Store Review,9,Promoter,4,Support took too long to respond,None,0.414
+602124b4-1eae-47da-aa9e-b061f27d42df,CSAT Survey,7,Passive,3,App was confusing to navigate,None,-0.002
+ffa533ee-9dad-4c3d-83e2-4171d8b299b4,In-app Feedback,9,Promoter,3,App was confusing to navigate,None,0.238
+db900401-51dc-4e7e-86ca-c745d5090b3f,App Store Review,9,Promoter,5,Documents kept getting rejected,None,0.814
+a0a476d7-2507-41a3-9963-04fa354563de,App Store Review,7,Passive,3,Wanted to compare with competitors first,None,0.475
+3305a4cc-fd7d-4a72-b3c0-26eeb3a7610c,NPS Survey,4,Detractor,2,Verification took too long,KYC friction,-0.355
+5c1b0e49-ce82-4062-90be-c56f16019f5e,NPS Survey,8,Passive,5,Verification took too long,None,0.712
+edfedd89-064b-4159-8d22-9c2409496b96,App Store Review,5,Detractor,1,Documents kept getting rejected,KYC friction,-0.217
+4e97b45f-d770-4201-8674-1fa9fa43899e,NPS Survey,10,Promoter,5,App was confusing to navigate,None,-0.026
+93a2c95c-1b63-44c5-949b-46380e8ae1a8,CSAT Survey,9,Promoter,4,Wanted to compare with competitors first,None,0.487
+4329a0ee-ac6b-4c76-8e2f-494dc50463cd,App Store Review,5,Detractor,3,Support took too long to respond,None,0.104
+b77a4acc-4471-4466-9e91-81058de87a99,CSAT Survey,9,Promoter,5,App was confusing to navigate,None,0.637
+89549cb7-56d3-4cb5-903a-eb1a1797baa9,CSAT Survey,10,Promoter,5,Unclear fee structure,None,0.668
+a6774a51-463b-4684-b4d2-ed69bbc7f533,App Store Review,8,Passive,5,Verification took too long,None,0.726
+cf33dc99-1183-4e81-a649-d58801a356d3,App Store Review,5,Detractor,3,,Funding method,0.038
+62e7beb9-f0bc-42fb-8d85-1f2175275d58,NPS Survey,5,Detractor,2,Support took too long to respond,KYC friction,0.366
+7b52ee19-7dfe-48ce-a59d-faf74d604bf5,In-app Feedback,7,Passive,3,App was confusing to navigate,KYC friction,0.718
+517ab201-4a59-4a9d-bad0-1acec81f75d4,App Store Review,7,Passive,2,App was confusing to navigate,None,0.234
+6f6e018c-3763-4438-889c-7e58b4a75481,Exit Survey,8,Passive,4,,None,0.384
+02298b77-495f-42ce-875d-f85c67a46282,App Store Review,10,Promoter,4,Did not trust the platform yet,None,0.849
+56867d38-7f2b-41eb-89e5-9d2cf84765d3,NPS Survey,4,Detractor,1,Support took too long to respond,KYC friction,-0.179
+db190d15-93bf-42a8-8211-68d63e740a76,Exit Survey,5,Detractor,2,Documents kept getting rejected,Usability,-0.011
+085e4ea5-d888-4c08-9de6-d8bd34ebe6ce,CSAT Survey,3,Detractor,1,Did not trust the platform yet,KYC friction,-0.426
+5146aae9-ab33-4254-b8ef-508590bbb187,NPS Survey,10,Promoter,5,Verification took too long,None,0.98
+d6f8e7ee-3a6c-4924-bc8b-e97a3d29d613,In-app Feedback,7,Passive,5,,None,0.227
+00a3e1da-afe1-46dd-97db-a38af5aca91f,In-app Feedback,1,Detractor,1,Documents kept getting rejected,KYC friction,-0.727
+45ffb03a-add3-4bdd-aeb5-fb5f0d840d0a,In-app Feedback,1,Detractor,1,Verification took too long,None,-0.237
+8f4ba258-0c48-4995-9999-85dc167d8c18,NPS Survey,3,Detractor,2,Could not link my bank account,Trust,-0.841
+286dbf93-d98c-4934-a676-bdbdecee4fc9,CSAT Survey,8,Passive,4,Did not trust the platform yet,None,0.456
+b99fbc8b-32be-4f48-9fb1-fa0609abe2eb,App Store Review,5,Detractor,1,Unclear fee structure,KYC friction,0.254
+8409e896-d45f-425c-b07b-54096e3f7338,Exit Survey,10,Promoter,4,Support took too long to respond,Competitor comparison,1.0
+aa310637-e276-483f-a039-bd2d0ee167a5,In-app Feedback,10,Promoter,5,Verification took too long,None,0.579
+19f04970-048d-4e4e-beae-dcd70cbd3bf1,CSAT Survey,4,Detractor,2,Wanted to compare with competitors first,KYC friction,0.113
+740cf5eb-366b-4554-b0a0-91efdba8fae4,App Store Review,1,Detractor,1,App was confusing to navigate,KYC friction,-0.603
+566a63fe-3be1-479c-a441-8b1361f25d5b,Exit Survey,6,Detractor,3,Did not trust the platform yet,KYC friction,0.464
+8af83101-45c2-4fa7-b168-dc0d94697374,App Store Review,4,Detractor,2,No time to finish signing up,Trust,0.116
+a102cc90-cf55-411e-9781-c45b389f30e5,In-app Feedback,10,Promoter,5,Verification took too long,None,0.433
+4e9a71ba-d916-420b-98bf-df2c05244dd2,CSAT Survey,6,Detractor,3,Verification took too long,Time,-0.08
+472d91a3-3750-4acb-bb89-e25e3fe379ea,CSAT Survey,9,Promoter,4,App was confusing to navigate,None,0.743
+ca746d3a-c6f1-41de-a56b-3e807ae8a7f8,In-app Feedback,7,Passive,5,Unclear fee structure,Fees,0.536
+44641191-aaf8-4a09-adc9-3d82f84f3bc0,App Store Review,9,Promoter,4,Could not link my bank account,None,0.676
+8d016a0e-b6c5-4b6d-83b1-8702577861ed,NPS Survey,6,Detractor,3,Minimum deposit too high,Time,0.207
+284c8b4d-6af7-4264-8fde-3c88b3a0ebc3,In-app Feedback,10,Promoter,5,Did not trust the platform yet,None,1.0
+117a5d0b-bcf4-4e9f-8935-3c9df554a789,Exit Survey,8,Passive,3,,None,0.39
+874f228f-9169-4ddd-97b2-209fa61d21e9,CSAT Survey,6,Detractor,4,No time to finish signing up,KYC friction,0.22
+b5ceb505-ab6e-452f-89fd-a31a91f183ab,NPS Survey,10,Promoter,5,Support took too long to respond,Usability,0.486
+be99ff67-c543-48e3-8af3-6dc5c3b54018,NPS Survey,5,Detractor,1,Did not trust the platform yet,None,0.278
+d9c9cf30-a6ce-431a-a821-f6b1872e684a,Exit Survey,9,Promoter,5,App was confusing to navigate,None,0.61
+b66d1775-1e4b-4d34-bd43-55d76a473c98,NPS Survey,7,Passive,3,Wanted to compare with competitors first,Usability,0.324
+5da253ab-3c0f-4533-abcf-f5363e063641,Exit Survey,9,Promoter,3,Support took too long to respond,None,0.357
+14d7d452-1ed4-428f-b163-97b2a5654d3e,CSAT Survey,10,Promoter,5,No time to finish signing up,None,0.144
+df059902-4224-44ed-b6f3-8ac65f48d130,NPS Survey,10,Promoter,5,Verification took too long,None,1.0
+f9bc2468-97cb-45a4-b684-d37cf1c2b1c7,Exit Survey,9,Promoter,4,No time to finish signing up,Funding method,0.368
+391ae1cf-4579-4448-a92a-a3d052ebca46,In-app Feedback,4,Detractor,2,Did not trust the platform yet,KYC friction,0.139
+206c4b56-0003-4091-afd7-a4d361c231ef,CSAT Survey,10,Promoter,5,No time to finish signing up,None,0.947
+50746702-e0da-4ad8-8cc6-1cf601b547c3,Exit Survey,9,Promoter,4,No time to finish signing up,KYC friction,0.73
+35b7fc38-2628-4e0c-995a-cfc62599cca7,In-app Feedback,8,Passive,3,Documents kept getting rejected,None,0.294
+90a6b77c-5a66-4783-a077-fec21575793e,Exit Survey,3,Detractor,1,Support took too long to respond,Trust,-0.554
+cf944328-cc59-4a05-9a40-494d68c97f7e,NPS Survey,2,Detractor,1,,Fees,-0.611
+d8b1ae8b-7395-496b-b22f-138d764746e7,Exit Survey,6,Detractor,2,Support took too long to respond,KYC friction,0.322
+509d3fed-d3a2-4488-918c-c25a908036f7,In-app Feedback,4,Detractor,3,Unclear fee structure,None,-0.091
+386e80b4-03e7-4eab-8ddc-0a354e93c27a,NPS Survey,7,Passive,3,Documents kept getting rejected,None,0.636
+67410ceb-7561-4e99-a4a2-0b4ffd32bae0,App Store Review,6,Detractor,3,Did not trust the platform yet,Competitor comparison,0.336
+bb9391c0-c7b0-466b-b720-922f058b9e45,Exit Survey,6,Detractor,4,Verification took too long,Usability,-0.046
+9cc77457-bf4e-45da-a8fc-3a48148f281b,In-app Feedback,3,Detractor,1,Could not link my bank account,None,-0.249
+f8a33b21-700b-4784-ae6a-6fd2bbd1e145,Exit Survey,5,Detractor,4,Support took too long to respond,Usability,-0.393
+6dba4a9f-e9e1-4797-80c2-37037f189c37,CSAT Survey,7,Passive,4,Wanted to compare with competitors first,Funding method,0.48
+ff0d86ef-c2d3-4e9a-a467-d356813382ef,CSAT Survey,9,Promoter,5,,None,0.343
+8fd73cc4-3c14-4a7f-ad6b-e61aa234b87d,CSAT Survey,10,Promoter,5,Support took too long to respond,Trust,0.669
+5df1546a-9232-4cc4-8642-2c94e5fa3be6,CSAT Survey,9,Promoter,5,Documents kept getting rejected,Trust,1.0
+9cf2437c-1415-41db-b089-b996f4d418d2,In-app Feedback,9,Promoter,5,No time to finish signing up,KYC friction,0.686
+a1bab360-688a-49fa-b5e6-6fe510bea738,App Store Review,10,Promoter,5,Minimum deposit too high,None,0.877
+d97912bc-57d6-4c1e-9dea-bf145657a993,In-app Feedback,3,Detractor,2,Unclear fee structure,KYC friction,-0.683
+4bfd6bd6-0fc0-405c-b114-8caea3a495d5,Exit Survey,8,Passive,4,App was confusing to navigate,Fees,0.209
+9daa5002-7907-415b-9c09-67aef3d54537,CSAT Survey,9,Promoter,5,Support took too long to respond,None,0.761
+322bd4d2-7a7e-4e88-9436-c7debd93eafc,CSAT Survey,4,Detractor,2,Support took too long to respond,Fees,0.299
+38b89a6a-0955-406d-bb05-be49a7919dac,Exit Survey,9,Promoter,5,Verification took too long,Usability,0.329
+29cb3272-7f70-48eb-b64f-fb6520129e27,In-app Feedback,10,Promoter,5,Wanted to compare with competitors first,None,1.0
+ebfa04af-59f3-4c39-9423-d3bed3da23be,CSAT Survey,10,Promoter,4,Could not link my bank account,None,1.0
+e195009a-2b48-4a54-bd01-30652fe94572,App Store Review,7,Passive,3,No time to finish signing up,Time,0.942
+995d99c3-7379-4fad-b799-167f49f5987c,App Store Review,9,Promoter,5,No time to finish signing up,KYC friction,0.239
+3d0aec2c-5ce8-4f04-b664-0ab72b55790c,In-app Feedback,3,Detractor,1,Support took too long to respond,Funding method,-0.153
+7076e035-2459-40f9-a8cb-0265b39dc05b,In-app Feedback,9,Promoter,3,Verification took too long,None,0.698
+0208e24b-b122-4744-88fa-76cdae4fbde3,In-app Feedback,9,Promoter,4,No time to finish signing up,None,0.734
+ee689bfa-e9c8-486f-8049-d6a8c4e94234,App Store Review,10,Promoter,5,Unclear fee structure,None,0.995
+42bb6784-103a-4f7d-9f88-b87ea01b267b,Exit Survey,4,Detractor,3,Did not trust the platform yet,Usability,0.04
+da761fbc-e0ee-4ad2-b3b0-f292bc49f1d2,CSAT Survey,6,Detractor,2,,KYC friction,0.126
+6a31046b-ea6b-4c35-9af0-e6318d800f49,CSAT Survey,3,Detractor,1,Verification took too long,Fees,-0.369
+d7110ae9-a05b-4352-8adc-03396ea230cb,NPS Survey,6,Detractor,4,No time to finish signing up,Usability,0.344
+9a34f644-2219-4575-b23c-57fc6dd98227,NPS Survey,4,Detractor,3,Verification took too long,Trust,0.24
+3bc1290f-5bdc-49a4-80ab-e5c3a7257917,NPS Survey,10,Promoter,5,Could not link my bank account,None,0.655
+dfeece63-99bf-4e33-94fd-974d51859bc7,App Store Review,5,Detractor,3,Did not trust the platform yet,Fees,0.404
+dcb7579b-81d3-42a9-a0f5-fe06a05dba8b,CSAT Survey,6,Detractor,3,Did not trust the platform yet,Trust,0.235
+2f2ec9a1-8362-43d1-82ce-eb507096966b,In-app Feedback,5,Detractor,1,Wanted to compare with competitors first,KYC friction,0.021
+b414bca1-e7ce-40e4-b748-488b7bfca608,CSAT Survey,6,Detractor,3,Documents kept getting rejected,None,0.034
+931c67a4-1643-4480-89b9-233b5aaa3f5a,NPS Survey,9,Promoter,4,Wanted to compare with competitors first,KYC friction,0.166
+f4f24baa-f925-4cd1-9164-be407db8f174,CSAT Survey,4,Detractor,3,Minimum deposit too high,Time,-0.183
+3dd0248a-6486-437e-b371-6889aba31b5a,CSAT Survey,10,Promoter,5,Could not link my bank account,None,0.502
+205feb73-c71b-4879-8e83-2708d5a7f6b3,CSAT Survey,10,Promoter,4,Documents kept getting rejected,None,0.947
+47ed10d4-7c69-45f2-a76a-25ef139f1f9e,App Store Review,5,Detractor,2,Verification took too long,Usability,0.334
+325c5e27-73ec-4f6e-b227-de7cbe7db3c6,CSAT Survey,6,Detractor,2,Wanted to compare with competitors first,None,0.101
+217da97f-7b37-4a60-b2a7-a271aafbca1e,NPS Survey,10,Promoter,4,Wanted to compare with competitors first,None,0.718
+d93d0d5e-0033-4dab-9a6e-8cdb231bf81a,Exit Survey,10,Promoter,4,No time to finish signing up,None,1.0
+339cedf8-943e-4692-903a-897098869618,In-app Feedback,10,Promoter,5,App was confusing to navigate,None,0.565
+fe2be839-8335-4af1-b542-0a4b25988e1f,App Store Review,7,Passive,3,Unclear fee structure,KYC friction,0.627
+e00e168a-475f-4402-8307-0e5938b51c69,App Store Review,10,Promoter,5,Did not trust the platform yet,None,0.499
+c357922e-0d72-4fd8-807f-13a08c8b29bc,App Store Review,3,Detractor,1,Could not link my bank account,KYC friction,-0.544
+22281c97-758b-4a37-a678-ddc4142513f7,CSAT Survey,7,Passive,3,Unclear fee structure,None,0.137
+fc21207c-b832-449e-adf4-751a5aa4809a,NPS Survey,10,Promoter,4,Verification took too long,None,1.0
+70141364-b36f-47c1-9f6b-1e4d7b70d5ef,NPS Survey,3,Detractor,1,Minimum deposit too high,None,-0.157
+943496c8-6c3b-4553-8306-3d2de05993ab,NPS Survey,4,Detractor,3,No time to finish signing up,Funding method,-0.501
+e0ed37d3-345f-4bbf-b4fb-5cb7c57dd905,CSAT Survey,2,Detractor,1,Did not trust the platform yet,Fees,-0.335
+7d09722d-48f2-496c-b709-149091a08a98,CSAT Survey,6,Detractor,3,Verification took too long,Usability,0.198
+2b3e8e39-630c-4c68-b79a-e56f48c00ec3,App Store Review,7,Passive,3,No time to finish signing up,Funding method,0.231
+61428801-9f3b-448f-b877-5883870efad0,App Store Review,9,Promoter,3,Minimum deposit too high,None,0.129
+3d3782ac-f053-4bb9-90cb-9d1c46901085,NPS Survey,8,Passive,3,,None,0.164
+32e6017c-857d-4b33-a64a-0694b2d3ee54,In-app Feedback,2,Detractor,1,Verification took too long,Funding method,0.254
+ffcea96f-4de6-42f8-a2a5-c9e65a08cb4d,NPS Survey,1,Detractor,1,Verification took too long,KYC friction,-0.315
+63f3a339-430d-41e8-8c05-8978ad604427,Exit Survey,1,Detractor,1,Could not link my bank account,Competitor comparison,-0.585
+13eb0fda-5748-4466-9ce3-3c892cb4c398,App Store Review,6,Detractor,4,Verification took too long,None,0.036
+c9fa2503-d94f-49cb-a32a-8a34cff3d2b0,In-app Feedback,7,Passive,3,Could not link my bank account,None,0.588
+de4d4db0-58cd-4d51-ab47-23d4fdee65a1,In-app Feedback,9,Promoter,4,Documents kept getting rejected,None,0.702
+d145bae8-733b-481c-a2c3-bf1488b750df,App Store Review,8,Passive,4,,Time,1.0
+9d4bab21-9e5b-4d30-9ac2-ea28a8bfe69f,Exit Survey,10,Promoter,5,Documents kept getting rejected,Trust,0.44
+7ff35a3e-8456-430c-bdf3-1065573c3bce,Exit Survey,5,Detractor,2,Support took too long to respond,Competitor comparison,0.419
+299709e5-d3be-42bd-b21b-776f5de03b97,NPS Survey,4,Detractor,2,Minimum deposit too high,None,-0.088
+62e506bb-ec14-4b65-8785-acecb277fc89,CSAT Survey,10,Promoter,5,,None,0.317
+983bad04-f427-46b0-8296-2775e3f6b816,App Store Review,10,Promoter,5,Minimum deposit too high,None,1.0
+b55b0029-298f-401a-8091-0954778ce0e1,In-app Feedback,10,Promoter,5,Minimum deposit too high,None,0.647
+fee66d95-888a-406f-a8f1-da5aaf613e88,CSAT Survey,7,Passive,4,Unclear fee structure,KYC friction,0.151
+264a6a71-4efd-42c7-846c-73a93eee8519,In-app Feedback,10,Promoter,4,Did not trust the platform yet,KYC friction,0.6
+8c720eee-bed1-48c1-a62e-322d2d0b8991,App Store Review,10,Promoter,5,,None,1.0
+f71b9192-9407-403f-aad5-662a2eb411d7,NPS Survey,4,Detractor,2,Verification took too long,KYC friction,-0.663
+6ccc4c74-6f89-4728-adbd-7aaa4f0a2547,App Store Review,4,Detractor,2,No time to finish signing up,Time,-0.134
+e35b82c9-25ae-4b02-9b5f-66e806b7be34,Exit Survey,9,Promoter,3,,Funding method,0.388
+f538eb18-2241-4443-8ccc-90c57bc441e5,NPS Survey,10,Promoter,5,No time to finish signing up,None,0.299
+50fcae58-0265-4b82-898b-5d80ace3d66e,CSAT Survey,5,Detractor,2,App was confusing to navigate,Funding method,0.148
+8cac61e0-5826-44cc-b9ea-8c590429330b,Exit Survey,7,Passive,3,Minimum deposit too high,Funding method,0.39
+bcd4b8da-dd80-46cd-bda5-8e88dd1a2045,CSAT Survey,6,Detractor,4,Minimum deposit too high,KYC friction,0.404
+c6858579-2458-4cd0-8e4c-5f93280e33da,In-app Feedback,6,Detractor,2,Support took too long to respond,KYC friction,0.078
+8ee3fad7-b63f-4bfc-ab20-a5212959970b,CSAT Survey,10,Promoter,5,Could not link my bank account,None,1.0
+99de1b5a-fcbd-49bc-a096-a7ab2d3b66f2,NPS Survey,10,Promoter,5,Verification took too long,None,0.544
+b7440f74-ee83-4293-9d1d-694604c310d6,Exit Survey,10,Promoter,4,Unclear fee structure,None,0.703
+4826db9c-f8c7-405e-9415-d1ecb1808ba7,CSAT Survey,10,Promoter,5,Verification took too long,None,1.0
+57ed11f0-8b4c-48aa-9ea1-2c3d7a62434d,NPS Survey,6,Detractor,2,Unclear fee structure,None,0.368
+1bc0a633-02d7-480c-8f26-a8278dd706d2,Exit Survey,10,Promoter,5,Documents kept getting rejected,None,0.798
+dd4a98d4-12f9-403c-9269-7841f6ad72bc,In-app Feedback,9,Promoter,5,App was confusing to navigate,Usability,0.873
+9e97ef6a-b3e6-4e10-bd53-d33495a50b79,In-app Feedback,6,Detractor,4,Could not link my bank account,Usability,0.123
+96b4d94c-31e9-4ed2-9e85-f766b199fe76,Exit Survey,5,Detractor,2,Unclear fee structure,KYC friction,0.132
+95f0a10f-e681-4d86-aaff-2cd0f597c707,NPS Survey,6,Detractor,2,Could not link my bank account,None,0.019
+a43e61ca-e713-4476-aafe-aee06e273aad,Exit Survey,10,Promoter,5,App was confusing to navigate,None,0.445
+61d20e1f-e6ae-4339-b8f4-9ffcd5521fd7,NPS Survey,7,Passive,3,Documents kept getting rejected,Competitor comparison,0.552
+55f4d0c8-1e9c-499b-b076-8979612ead66,App Store Review,10,Promoter,5,Unclear fee structure,None,0.993
+d7293c7c-1836-4389-8a74-0771ffd6d7ee,CSAT Survey,5,Detractor,3,Verification took too long,Trust,-0.05
+1eaf5c4a-0924-4246-9640-c7642a874773,CSAT Survey,10,Promoter,5,,None,0.759
+51140042-243e-4a19-9cda-59f10e4d169d,App Store Review,4,Detractor,1,Unclear fee structure,Trust,-0.293
+2414c216-4eeb-42d3-8157-a1abf9b4e554,NPS Survey,6,Detractor,3,No time to finish signing up,Trust,0.571
+497a7c03-86c0-43cd-84a1-a76857e5ea4a,CSAT Survey,7,Passive,4,Wanted to compare with competitors first,None,0.099
+221b01cf-1e58-40af-9eca-b77fcd91696a,NPS Survey,6,Detractor,4,Verification took too long,Trust,0.168
+630d8e4a-346b-4d6b-aa94-c7f1d0c96c6b,Exit Survey,3,Detractor,2,Support took too long to respond,Fees,0.369
+8582c549-3f6f-4efb-9c06-5d6ab1cdf604,Exit Survey,10,Promoter,4,Support took too long to respond,None,1.0
+abe06514-6e2e-4f03-b5a6-2163d1bf220d,In-app Feedback,10,Promoter,5,Verification took too long,Trust,1.0
+d667e08d-408f-4d1e-80a5-b572fc60dca6,In-app Feedback,10,Promoter,5,App was confusing to navigate,None,1.0
+1627ef3c-a47e-4c66-b993-a03e920108d4,CSAT Survey,3,Detractor,2,Wanted to compare with competitors first,Fees,-0.359
+2dcc44ad-6e7d-453d-ada6-00ce7ac9abe3,NPS Survey,10,Promoter,4,No time to finish signing up,Trust,1.0
+7c588d71-b1f5-4c7f-bfa6-6d8f98cb48cd,CSAT Survey,2,Detractor,2,Could not link my bank account,Trust,-0.852
+d1cce380-431b-4075-b5c6-789000b1e9b1,Exit Survey,1,Detractor,1,Unclear fee structure,Time,-0.976
+89bda27e-79f9-4544-b98c-ccdb02c5e450,Exit Survey,5,Detractor,3,Verification took too long,Funding method,-0.214
+b34a8f56-25f8-4b6e-adc9-180acf90815c,CSAT Survey,8,Passive,4,App was confusing to navigate,Usability,0.498
+c8f7184b-91ea-4f35-bc67-4bb248f1328c,Exit Survey,5,Detractor,4,Unclear fee structure,Usability,0.138
+f7d29a02-eb8d-4829-b5c5-b33cdf30e7f5,App Store Review,7,Passive,3,Minimum deposit too high,KYC friction,0.073
+05b755cc-90cb-4657-9f70-28a5eac0f8b3,CSAT Survey,0,Detractor,1,Support took too long to respond,Usability,-1.0
+3e931929-ef71-48ac-8be7-7762ffdfa927,NPS Survey,6,Detractor,3,No time to finish signing up,Usability,0.427
+7f322a1d-e282-4da3-988a-638212030d31,App Store Review,7,Passive,3,,Competitor comparison,0.15
+b4f65844-b5f6-4e71-8594-2210fef4b533,NPS Survey,4,Detractor,2,Support took too long to respond,Trust,-0.463
+22e89013-0143-442f-b74a-899abf8751b9,CSAT Survey,6,Detractor,4,App was confusing to navigate,Fees,0.441
+140107fe-c2e8-4011-ab3e-4796ebeaaec7,Exit Survey,6,Detractor,2,Did not trust the platform yet,Trust,0.457
+3858df8f-37c6-49fb-aaf2-bd59b0114f99,App Store Review,6,Detractor,4,Documents kept getting rejected,Fees,0.339
+1c755b10-77b4-4940-bea1-9065baf6f353,Exit Survey,8,Passive,3,,None,0.031
+c7acf2fc-c2b4-48e7-8c3d-1bc76fcc528a,In-app Feedback,4,Detractor,2,Verification took too long,None,-0.3
+395bbb5b-d970-469d-bd26-5db869ab84d7,Exit Survey,7,Passive,2,Verification took too long,None,0.259
+85a7bd00-7e88-4b71-bda5-9db0ed4186eb,CSAT Survey,6,Detractor,4,Verification took too long,KYC friction,0.311
+7779dbc9-844a-46fd-85dd-1bb88d303806,Exit Survey,7,Passive,3,Could not link my bank account,None,0.275
+18b3cf1b-63a8-4f9f-95dd-9d8d970ae8e7,App Store Review,7,Passive,5,Minimum deposit too high,Usability,0.24
+3f80cba2-3b19-4ac2-9ad9-119289b07d1b,App Store Review,7,Passive,3,App was confusing to navigate,Funding method,0.804
+ecb934aa-5431-4e1d-96ec-a5db7678b0fd,App Store Review,7,Passive,3,Did not trust the platform yet,None,0.672
+037ba244-76f5-4b8b-9705-142a21ce5d0b,App Store Review,5,Detractor,2,Wanted to compare with competitors first,Usability,0.18
+2dab79a4-8a4a-4886-afc8-1d0e09a66a1d,In-app Feedback,5,Detractor,3,Did not trust the platform yet,None,0.387
+b32f0694-dca4-4e21-b63e-8d9e7a561ca7,NPS Survey,9,Promoter,4,No time to finish signing up,None,0.385
+3f63e338-dad5-4cb9-b0c7-f7b979a34be8,CSAT Survey,4,Detractor,2,Unclear fee structure,Usability,-0.227
+88109f96-c077-46c9-a87b-4772ce5ea03b,App Store Review,8,Passive,4,App was confusing to navigate,Time,0.99
+5670eccc-987b-4596-81c9-07da7ae1b839,App Store Review,10,Promoter,5,,None,0.754
+f53d52aa-0415-4f2d-adb1-e525c5893060,Exit Survey,10,Promoter,4,Unclear fee structure,KYC friction,1.0
+aa6a88b8-82ce-46e9-8792-803095f65534,In-app Feedback,9,Promoter,5,No time to finish signing up,Usability,1.0
+30169de0-a8c2-4760-bc0c-3e19fdddfa16,CSAT Survey,9,Promoter,4,Unclear fee structure,Trust,0.824
+5f915cb7-3d09-4792-b0f5-c708ce775784,App Store Review,4,Detractor,3,Verification took too long,None,-0.345
+09007574-ff8d-4a63-820c-0c19cacaffd1,In-app Feedback,5,Detractor,3,Minimum deposit too high,Competitor comparison,-0.232
+a2cd788f-6741-49e8-b7d3-fce8751faac4,Exit Survey,9,Promoter,4,No time to finish signing up,None,1.0
+b92f7062-0c0a-4890-a2b4-7157f630fa12,Exit Survey,10,Promoter,5,Wanted to compare with competitors first,None,0.565
+2a5cdd83-6eac-47f9-bb05-696c2e142196,In-app Feedback,10,Promoter,5,,None,1.0
+a884d024-e784-4fcc-8fab-31220cd62622,App Store Review,10,Promoter,5,Could not link my bank account,None,1.0
+b4aa8662-ba72-47a4-9fe1-a2d959185e8a,Exit Survey,2,Detractor,1,Minimum deposit too high,Trust,-0.518
+541146ea-7b37-4b8e-b304-973d82216345,In-app Feedback,9,Promoter,5,,None,0.543
+a59aaf89-cb29-4cb8-b6c6-4ac24d9251ff,App Store Review,10,Promoter,5,,Trust,0.675
+542fa9af-a120-44b4-8c0d-9b3c9f5ec4aa,In-app Feedback,5,Detractor,3,No time to finish signing up,Trust,-0.074
+61b93427-65e5-431e-a0d4-5491a43a9bb6,Exit Survey,10,Promoter,5,Did not trust the platform yet,None,1.0
+ba9c8095-7e6d-4787-b24b-98a23f829d6d,In-app Feedback,1,Detractor,1,Did not trust the platform yet,Funding method,-0.749
+f7cd31a0-6407-4105-b07a-cb38cc79d129,NPS Survey,4,Detractor,1,Did not trust the platform yet,None,-0.151
+a2a261b5-e9d3-429f-b6e8-23601e2d2bdf,In-app Feedback,6,Detractor,2,Minimum deposit too high,Fees,0.186
+4e81f792-003d-4f39-a613-a71f262c958a,Exit Survey,4,Detractor,1,Verification took too long,None,-0.068
+e45b2ae4-f727-49cf-be37-4d77b58ea681,App Store Review,6,Detractor,3,,KYC friction,-0.004
+4c7577e3-34db-4397-9ee2-ae758425449f,App Store Review,10,Promoter,5,Minimum deposit too high,None,0.51
+e1bfcbca-76f2-4465-9fc7-6104cb6d3dfb,Exit Survey,6,Detractor,4,,KYC friction,0.389
+0060ae48-95de-4954-ab5a-b552c95d8358,App Store Review,3,Detractor,1,App was confusing to navigate,Funding method,-0.01
+e9a7acdb-2057-4e57-969f-7280a2202e88,CSAT Survey,1,Detractor,1,Did not trust the platform yet,KYC friction,-0.641
+3bea46a7-5cc6-46b3-b3b3-b8ba430f65aa,CSAT Survey,10,Promoter,4,No time to finish signing up,KYC friction,0.589
+fa6e4ef8-126b-4cbd-a8ea-e7db4574bda9,App Store Review,8,Passive,3,Wanted to compare with competitors first,None,0.583
+1e7bc27c-d09c-4f81-86cf-f9e7f856bec2,App Store Review,7,Passive,2,Support took too long to respond,None,-0.173
+d1450dac-9d42-421d-a144-d76b30a5afa2,In-app Feedback,4,Detractor,1,Documents kept getting rejected,Trust,-0.33
+ac542351-afab-455c-8da5-254954538f56,NPS Survey,7,Passive,5,Minimum deposit too high,Trust,-0.115
+dfbb39f6-48a2-4dfa-9054-de9ce98f36f9,NPS Survey,8,Passive,3,Could not link my bank account,None,0.697
+7ca1f6e8-8b2d-4d54-8486-6cbe2c9d9140,NPS Survey,7,Passive,4,Documents kept getting rejected,Competitor comparison,0.147
+d4ce0b31-2a01-444b-9f17-d5c85ab3bbaa,In-app Feedback,6,Detractor,3,Documents kept getting rejected,KYC friction,0.034
+a3e8f597-8a5c-469b-8703-f79d547cecf8,Exit Survey,7,Passive,4,App was confusing to navigate,Funding method,0.277
+0c242b99-138c-4b5c-8c7b-37008bebf9f1,CSAT Survey,5,Detractor,2,Verification took too long,Time,0.084
+c83919a0-6baa-4d4d-a7a5-511c9231cd9e,Exit Survey,8,Passive,4,Support took too long to respond,KYC friction,0.612
+e30b0d4b-49f1-48f1-a051-a737d682d07f,CSAT Survey,5,Detractor,3,App was confusing to navigate,None,0.158
+c37dee5e-054c-4e2c-b509-b349b9e42be9,CSAT Survey,8,Passive,5,Did not trust the platform yet,None,0.451
+ca1d3b61-5b50-4c83-b70c-056892b19285,Exit Survey,10,Promoter,5,Documents kept getting rejected,None,0.847
+67af169e-ce74-4624-a687-519975f6acc1,Exit Survey,10,Promoter,4,No time to finish signing up,None,1.0
+edc94658-cc1c-4ecd-9884-82d5b6c4bceb,In-app Feedback,9,Promoter,5,Verification took too long,Fees,0.42
+aaf31475-d4bf-4183-b492-442dad87d7fb,NPS Survey,4,Detractor,3,Minimum deposit too high,KYC friction,-0.084
+9d59beae-4a60-4847-9f3c-63d8c4d5926c,CSAT Survey,3,Detractor,1,App was confusing to navigate,Usability,-0.196
+2d41aa59-8064-4dcc-b43f-10918347158e,CSAT Survey,8,Passive,3,Wanted to compare with competitors first,Usability,0.844
+3720955c-6b48-4827-9557-83c1ab355617,Exit Survey,3,Detractor,1,App was confusing to navigate,Funding method,-0.51
+c334aeb2-c54b-47d8-b381-8202620b2ad2,Exit Survey,9,Promoter,5,Documents kept getting rejected,Usability,0.733
+b8305670-ca6d-4596-8a28-50d862af8aac,In-app Feedback,5,Detractor,1,No time to finish signing up,KYC friction,-0.195
+04074d6f-342a-4ab8-8b17-712a6b38fea0,In-app Feedback,9,Promoter,5,App was confusing to navigate,None,0.474
+c1464f67-30f9-43d7-a1cb-4fc5fe7180ad,CSAT Survey,10,Promoter,5,App was confusing to navigate,None,0.758
+ff505ee6-981d-4818-8c77-431865691d0c,NPS Survey,7,Passive,4,Verification took too long,None,0.745
+b864ea19-6353-4991-9cbc-e5bf3d9464c8,App Store Review,6,Detractor,3,Documents kept getting rejected,KYC friction,0.643
+710ad21d-ddd1-42ef-b2f4-e288723f0a67,App Store Review,9,Promoter,3,App was confusing to navigate,Usability,0.763
+4585488e-ba98-44e4-8853-9b0ca7b4cb43,In-app Feedback,6,Detractor,3,No time to finish signing up,KYC friction,-0.207
+fb8512fc-f03a-42de-a0c9-6b6466169434,Exit Survey,10,Promoter,5,Documents kept getting rejected,None,0.998
+1467386b-c46c-4520-a853-6abd91a662ab,App Store Review,6,Detractor,2,Unclear fee structure,Trust,-0.04
+7ed8f243-149d-4f45-acaa-822bd31e3136,Exit Survey,10,Promoter,5,Did not trust the platform yet,Funding method,0.394
+a5a27f19-8705-44da-a72d-4a532d2d3dc5,In-app Feedback,8,Passive,5,Minimum deposit too high,None,0.132
+2490908c-8a89-4ad0-aeb1-05f1fa1cf194,App Store Review,9,Promoter,4,Unclear fee structure,Usability,0.279
+68591e60-3005-4fd8-ad3c-147394db54e8,CSAT Survey,5,Detractor,3,Minimum deposit too high,Funding method,0.022
+2ddf5ebc-45bf-428e-a4d6-51cd8395714b,CSAT Survey,6,Detractor,3,Wanted to compare with competitors first,None,0.482
+75b14d3d-9eb2-4eca-89de-0e38df3a64ac,CSAT Survey,5,Detractor,2,Wanted to compare with competitors first,KYC friction,-0.188
+23279b2d-d5c4-4c37-8814-9c1f8c51a892,In-app Feedback,6,Detractor,2,Did not trust the platform yet,Usability,0.642
+a5e2bb29-1382-4b93-b911-93fdc18dd7a8,Exit Survey,9,Promoter,3,App was confusing to navigate,Fees,0.932
+ad2fd9ca-b25a-44a6-998c-01aa24cecbff,NPS Survey,7,Passive,2,Verification took too long,None,0.905
+9c57f27a-1aea-43f5-969d-29a4677ff39e,CSAT Survey,6,Detractor,3,Support took too long to respond,None,0.581
+f86ade94-206f-4a6c-8dd8-8f308a068997,In-app Feedback,10,Promoter,5,Minimum deposit too high,Fees,1.0
+ec927db2-015d-4667-a97a-a5e67536af57,In-app Feedback,9,Promoter,3,Verification took too long,Fees,0.709
+2c50ac29-567b-499b-b113-7ce5c4b8e6dd,Exit Survey,7,Passive,5,Documents kept getting rejected,Trust,0.221
+f613642c-c3ed-4bb5-83bc-3c3250e5432e,NPS Survey,2,Detractor,1,App was confusing to navigate,KYC friction,-0.357
+3ce907c8-4866-4b48-a47e-e656200df2bb,NPS Survey,9,Promoter,5,Did not trust the platform yet,Usability,0.823
+1a4c3564-0bc4-479c-9428-3fbe173a7981,App Store Review,6,Detractor,3,Minimum deposit too high,None,0.294
+780822ba-da7e-4681-b340-023e4fc1d642,Exit Survey,9,Promoter,5,Minimum deposit too high,None,0.062
+29b8fd79-d920-483b-81d1-a3d18a3315b8,Exit Survey,1,Detractor,1,No time to finish signing up,KYC friction,-0.893
+79fa917e-fa0d-46c1-a650-406f30e06854,In-app Feedback,4,Detractor,2,,None,-0.341
+6b08a1de-5e24-4722-b1b2-7bcb86665f4b,In-app Feedback,7,Passive,3,Did not trust the platform yet,Time,0.145
+f673b478-a46d-4beb-b5e8-868b3a3daa21,In-app Feedback,3,Detractor,3,Could not link my bank account,Trust,-0.228
+7ff206eb-7bd3-4ed2-acf7-066174e5bf2f,App Store Review,6,Detractor,3,Support took too long to respond,KYC friction,-0.031
+8a02791e-b4fe-4c85-bc1d-a6883c15c319,App Store Review,5,Detractor,3,Wanted to compare with competitors first,None,0.086
+6bf2eefb-9a6b-4746-acb7-a70d9b4a3d3b,App Store Review,7,Passive,4,Support took too long to respond,KYC friction,0.985
+b2435d32-0534-4833-9cbf-f20ff8de0284,Exit Survey,7,Passive,2,Verification took too long,Usability,0.298
+84723282-ff79-419f-af1f-47b3aa318604,NPS Survey,8,Passive,2,Unclear fee structure,None,0.101
+34ae55a0-0d04-4199-80a9-96edcb85cd59,Exit Survey,5,Detractor,3,Documents kept getting rejected,None,-0.603
+0dd5658d-114a-4aaf-a326-07442a33e8a6,App Store Review,10,Promoter,5,App was confusing to navigate,KYC friction,1.0
+e30837aa-3ac2-438b-9fab-3417eaafe314,CSAT Survey,1,Detractor,1,Minimum deposit too high,KYC friction,-0.729
+f39a8ee2-393e-40dc-8c68-030169b685f2,App Store Review,4,Detractor,1,Did not trust the platform yet,None,-0.432
+8e3aaf19-4359-44f1-bc80-63e40bd93909,App Store Review,9,Promoter,4,Support took too long to respond,None,0.289
+8d50fd22-eed2-4dc9-b1e1-a6e3d23af80b,In-app Feedback,5,Detractor,1,Could not link my bank account,Funding method,-0.081
+6d07e961-37c0-4fe0-8887-3cfd397e3fcb,In-app Feedback,4,Detractor,2,Did not trust the platform yet,Trust,0.2
+c6421d27-f253-47e7-a808-0ce3813eab53,Exit Survey,4,Detractor,2,Could not link my bank account,None,-0.386
+6432539d-0f36-425d-8490-11dc78cd9180,CSAT Survey,5,Detractor,1,App was confusing to navigate,Usability,-0.372
+782aba1d-dfb3-4493-bb8b-cdd11c99afc9,NPS Survey,5,Detractor,3,No time to finish signing up,Fees,0.548
+abd9afae-8688-42dc-bc32-c4feccc77488,Exit Survey,8,Passive,5,,Trust,0.595
+5d95486e-4e5c-4f29-8302-2511f58a993d,In-app Feedback,5,Detractor,3,App was confusing to navigate,Trust,-0.152
+1c5ad68c-fc97-4c7e-9aa6-880354cc3459,NPS Survey,2,Detractor,1,Minimum deposit too high,KYC friction,-0.949
+34f9d3f7-f528-4041-afd1-73d27b5a24dc,NPS Survey,10,Promoter,5,,None,0.764
+fa4cb383-4927-422b-be26-28e0c8387f04,CSAT Survey,6,Detractor,3,Could not link my bank account,KYC friction,0.036
+aed7d013-6d96-4a73-aff5-407269552ed7,Exit Survey,10,Promoter,5,,Fees,0.842
+30756a4f-1626-4195-a3a3-cf1180b25fef,In-app Feedback,10,Promoter,5,App was confusing to navigate,None,0.969
+184165d4-b907-4f1d-a09f-8e8315622ac7,In-app Feedback,7,Passive,3,No time to finish signing up,Usability,0.775
+3108ec63-768f-457e-a05f-c8783268c77f,NPS Survey,10,Promoter,5,Minimum deposit too high,KYC friction,0.637
+9f58ae4a-147f-46c9-b1f9-8fbf1a50937d,CSAT Survey,2,Detractor,2,Verification took too long,KYC friction,-0.843
+059d54b9-c6a0-4cf1-be78-cd194797e605,Exit Survey,10,Promoter,5,Unclear fee structure,None,1.0
+8dc2c7bb-3694-4c94-8cb4-dabd807c75c6,Exit Survey,5,Detractor,2,Wanted to compare with competitors first,None,0.034
+2168be03-a739-4c2b-8c88-710b4a30bbf6,CSAT Survey,10,Promoter,5,Did not trust the platform yet,Trust,0.909
+a047bff1-7997-4a65-b567-6f45e015c16f,CSAT Survey,1,Detractor,1,No time to finish signing up,Time,-0.523
+a43a7583-578a-4f8e-b2ea-ab43f3bc2121,CSAT Survey,10,Promoter,5,Unclear fee structure,None,0.779
+79fe2417-ddc0-4adb-9bf1-a4b52d095d7a,Exit Survey,7,Passive,4,Wanted to compare with competitors first,None,0.556
+753ecd5e-eaeb-4aba-8c0d-118da93ac32d,In-app Feedback,6,Detractor,3,Wanted to compare with competitors first,None,0.773
+06b0e8ef-6086-407c-baa2-9e735d840baf,App Store Review,10,Promoter,5,App was confusing to navigate,None,1.0
+6dfe7c6a-0c51-4efe-80a6-5d6b3882be1e,NPS Survey,7,Passive,4,Minimum deposit too high,KYC friction,0.097
+ff676dbe-0aa3-4584-b1ce-94fb30d4276c,In-app Feedback,0,Detractor,1,Wanted to compare with competitors first,Funding method,-0.985
+56115951-b191-40d6-8e91-f80fa4f0dec6,Exit Survey,6,Detractor,3,App was confusing to navigate,None,0.718
+ee4b2dcf-dc22-49b5-8b6b-8993fca07fc6,NPS Survey,1,Detractor,1,Minimum deposit too high,None,-0.47
+1b49769e-a559-4734-8385-8a2fdc9da1b1,In-app Feedback,4,Detractor,1,Verification took too long,Trust,-0.239
+4535aa76-c7c0-4b22-8583-5c4f7f7987a7,App Store Review,2,Detractor,1,Support took too long to respond,Fees,-0.307
+349d07db-07ce-4585-8d1e-1af73cd4f94f,In-app Feedback,5,Detractor,3,Documents kept getting rejected,Usability,-0.847
+b37f45a6-d549-4f32-a288-c06d65063cf4,NPS Survey,6,Detractor,3,Did not trust the platform yet,None,0.158
+e7009e5f-1fbb-464a-a4a9-900f5ecf81cc,CSAT Survey,1,Detractor,1,Verification took too long,Trust,-0.685
+248fcafb-3fa2-4e79-9a3a-a724afbab8b5,NPS Survey,5,Detractor,3,App was confusing to navigate,Trust,0.251
+c2514630-4743-4c74-9e91-98d2614ecb75,CSAT Survey,7,Passive,3,Did not trust the platform yet,None,-0.458
+70ea0427-8495-4800-97fd-03a00d3a088f,App Store Review,10,Promoter,5,Verification took too long,None,0.926
+de47429c-fdc2-4c34-bee7-897c64efbff3,Exit Survey,10,Promoter,5,Support took too long to respond,Funding method,0.823
+94fe879d-a6d9-491b-b3d9-4fcb11ab1201,In-app Feedback,8,Passive,4,Documents kept getting rejected,None,0.838
+b4c76a28-ee73-45f9-848f-1767ced38fad,In-app Feedback,10,Promoter,4,Wanted to compare with competitors first,None,0.935
+e4392f0c-8f16-4362-a896-0169cf03b24a,NPS Survey,9,Promoter,5,App was confusing to navigate,None,0.838
+9c88c64c-956b-4758-b0e6-2835c3947e64,CSAT Survey,5,Detractor,1,,Usability,0.333
+7b61ca4c-12a5-4e0e-a008-7e13e7ef0785,CSAT Survey,9,Promoter,5,Support took too long to respond,Usability,0.551
+faa57865-4b25-4f71-ae1f-749543fcebb6,CSAT Survey,8,Passive,5,App was confusing to navigate,Competitor comparison,0.382
+4d4a2cdb-0806-45fb-a688-34ee4789757a,Exit Survey,7,Passive,4,Did not trust the platform yet,Usability,0.457
+944abced-4b08-4d09-9d40-b42025a943d2,NPS Survey,6,Detractor,3,Support took too long to respond,KYC friction,-0.363
+cf5bdb2c-5cb0-4ee1-9ae4-075b5d56fdc5,In-app Feedback,2,Detractor,1,Could not link my bank account,Usability,-0.726
+fe955204-e288-4f07-b697-58bcd15759e4,NPS Survey,10,Promoter,5,Verification took too long,KYC friction,0.544
+2f85b3b6-c805-421a-9a72-3e32425054f3,NPS Survey,8,Passive,2,Support took too long to respond,Funding method,0.663
+4d386a9f-a92e-47be-83ec-c40ffc763386,Exit Survey,10,Promoter,5,Unclear fee structure,None,1.0
+e3c6704e-6031-4cab-97c4-8f801ebee1d7,Exit Survey,10,Promoter,5,Verification took too long,Trust,0.839
+0d7118b4-4efd-4a87-9442-2750a61c090f,Exit Survey,7,Passive,3,App was confusing to navigate,None,0.236
+05bffec0-dddd-460a-85e0-72385ed8b031,Exit Survey,6,Detractor,2,,None,-0.005
+317c2cbe-53f4-4d33-8b67-f602e84fa80f,In-app Feedback,10,Promoter,4,Support took too long to respond,None,0.191
+08ba11ea-9e71-48f4-948b-188eefc724fa,App Store Review,7,Passive,4,Support took too long to respond,Usability,0.815
+1a7b046c-b469-4e26-9c38-c1805442dc87,CSAT Survey,10,Promoter,5,Verification took too long,None,0.301
+88b19fb8-2395-445a-9482-69c7d9514fb4,In-app Feedback,4,Detractor,2,Could not link my bank account,None,0.028
+cbda6438-bf6c-47da-b968-17c3e44560f8,App Store Review,3,Detractor,1,Support took too long to respond,Time,-0.079
+8bca2937-c939-4c78-8429-e594d87504ba,NPS Survey,6,Detractor,4,Minimum deposit too high,Funding method,0.046
+b2c577e3-0ab2-47c1-9d30-b447f4f864ba,Exit Survey,9,Promoter,5,App was confusing to navigate,None,1.0
+c863b0f4-46e1-4177-9b17-9307f78b30a4,In-app Feedback,9,Promoter,4,,None,1.0
+4900f5a2-b322-44f9-8dc6-7137372ad034,Exit Survey,5,Detractor,3,No time to finish signing up,Usability,0.157
+e23076e1-49ed-44fb-b69c-6cf4c8c982c0,CSAT Survey,1,Detractor,1,Verification took too long,Fees,-0.458
+522cf260-404c-4486-8fbf-192d0643e4d7,In-app Feedback,8,Passive,4,App was confusing to navigate,Usability,0.465
+e3cb5d20-110d-4816-baaf-36acc1dc6bcd,Exit Survey,3,Detractor,1,Minimum deposit too high,KYC friction,-0.157
+dc63704c-8665-477b-b7b5-584b1d50d138,Exit Survey,5,Detractor,3,Documents kept getting rejected,KYC friction,0.358
+0d04293f-6354-4f3d-a314-f5831936dfb7,Exit Survey,8,Passive,4,Verification took too long,None,0.597
+969abd7f-d080-4fa5-b3bb-eeba0ef815a5,App Store Review,6,Detractor,4,Verification took too long,KYC friction,0.214
+180b7218-08c0-48fd-8b47-e0638eb0cb72,App Store Review,10,Promoter,5,,KYC friction,0.829
+9e7c964c-03ed-4e3b-b30b-c62447cb0abe,CSAT Survey,8,Passive,4,Could not link my bank account,None,0.743
+77a4d415-29f5-47c8-bd18-5b732ad5734c,Exit Survey,10,Promoter,4,,None,0.7
+8f987bdc-a282-4d6d-b538-a8e621587038,Exit Survey,8,Passive,5,Verification took too long,KYC friction,0.953
+4ae128b1-631f-47f4-aeab-038b47d75842,Exit Survey,9,Promoter,5,No time to finish signing up,None,0.772
+60ae1057-8de4-4f26-b5c1-02940ca273d0,App Store Review,10,Promoter,5,Unclear fee structure,None,0.58
+a7c302d8-4a98-495c-964e-b77aad7be34d,App Store Review,10,Promoter,5,Unclear fee structure,Trust,0.948
