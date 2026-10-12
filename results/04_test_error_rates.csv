@@ -1,0 +1,8 @@
+,unseen test
+TN (correct non-activators),348.0
+FP (missed stallers),74.0
+FN (wasted nudges),28.0
+TP (correct activators),286.0
+"Recall, non-activators (stall capture)",0.8246445497630331
+False positive rate,0.17535545023696683
+False negative rate,0.08917197452229299

@@ -1,0 +1,7 @@
+,unseen test
+accounts flagged for outreach (lowest 30% score),221.0
+never-activated accounts in test,422.0
+never-activated accounts reached by outreach,218.0
+coverage of stalling accounts,0.5165876777251185
+precision of the outreach list (share truly stalling),0.9864253393665159
+random-targeting precision (base rate),0.5733695652173914

@@ -1,0 +1,4 @@
+subset,accounts,activated,activation_rate
+Training,3434,1465,0.4266161910308678
+Validation,736,314,0.4266304347826087
+Unseen test,736,314,0.4266304347826087

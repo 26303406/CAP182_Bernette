@@ -1,0 +1,6 @@
+format,rows
+ISO  yyyy-MM-dd HH:mm:ss,4862
+slash yyyy/MM/dd,18
+slash dd/MM/yyyy,23
+slash MM/dd/yyyy HH:mm,17
+unrecognised,0

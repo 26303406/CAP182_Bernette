@@ -1,0 +1,14 @@
+table,column,missing,missing_share
+table01_registration_onboarding,onboarding_completion_date,213,0.043
+table01_registration_onboarding,time_to_onboarding_completion,2104,0.428
+table01_registration_onboarding,onboarding_dropout_step,2816,0.572
+table01_registration_onboarding,first_deposit_date,2823,0.574
+table01_registration_onboarding,days_to_first_deposit,2823,0.574
+table02_initial_session_behaviour,first_session_duration_seconds,56,0.011
+table03_demographics_identity,gender,236,0.048
+table03_demographics_identity,stated_investment_goal,221,0.045
+table04_communication_support,support_ticket_type,2987,0.609
+table04_communication_support,support_resolution_time_hours,2987,0.609
+table05_pre_deposit_interaction,total_pre_deposit_minutes,75,0.015
+table09_compliance_kyc,kyc_days_to_verification,2094,0.427
+table11_device_technical,connection_type,195,0.04

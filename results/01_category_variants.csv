@@ -1,0 +1,15 @@
+table,column,distinct_raw,distinct_after_normalising,spurious_variants
+table01_registration_onboarding,acquisition_channel,31,8,23
+table03_demographics_identity,stated_investment_goal,20,6,14
+table11_device_technical,signup_browser_name,20,6,14
+table03_demographics_identity,province,21,9,12
+table02_initial_session_behaviour,product_exploration_depth,16,4,12
+table01_registration_onboarding,onboarding_completion_status,17,5,12
+table09_compliance_kyc,kyc_status,16,4,12
+table03_demographics_identity,employment_status,17,6,11
+table03_demographics_identity,investor_experience_level,14,4,10
+table03_demographics_identity,gender,14,4,10
+table03_demographics_identity,metro_status,11,3,8
+table02_initial_session_behaviour,device_type,10,3,7
+table09_compliance_kyc,pep_list_check,9,3,6
+table09_compliance_kyc,sanctions_list_check,8,3,5

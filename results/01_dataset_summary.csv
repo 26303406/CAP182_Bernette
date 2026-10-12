@@ -1,0 +1,9 @@
+item,value
+Relevant tables loaded,9.0
+Tables not used (relevance / leakage),3.0
+"Raw rows, table 01",4920.0
+Exact duplicate rows removed,14.0
+Modelling instances (unique accounts),4906.0
+Class 0 · not activated within 90 days,2813.0
+Class 1 · activated within 90 days,2093.0
+Majority : minority ratio,1.344

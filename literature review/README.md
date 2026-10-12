@@ -1,6 +1,6 @@
-﻿# Research Studies
+﻿# Literature Review
 
-This folder contains the academic and industry research used to support the CAP182 project. It provides the literature foundation for the study of customer activation, fintech engagement, and predictive modelling in a digital investment context.
+This folder contains the academic and industry research used to support the CAP182 SS2 project. It provides the literature foundation for the study of customer activation, fintech engagement, and predictive modelling in a digital investment context.
 
 ## Purpose
 

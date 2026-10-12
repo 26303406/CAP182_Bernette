@@ -1,0 +1,13 @@
+table,verdict,reason
+table01_registration_onboarding,USE,"Target + onboarding funnel; drop first_deposit_date, days_to_first_deposit (leakage)."
+table02_initial_session_behaviour,USE,First-session and early engagement (pre-activation behaviour).
+table03_demographics_identity,USE,"Stated goal, experience and region. gender excluded as a protected attribute."
+table04_communication_support,USE,Onboarding / promotional e-mail engagement and support-contact counts.
+table05_pre_deposit_interaction,USE (partial),"Drop pre_deposit_window_days, total_pre_deposit_minutes (censored by deposit); account_balance_before_first_action is constant 0."
+table06_inapp_messaging_response,USE,Push and in-app engagement: a lever the client can pull.
+table07_support_tickets,NOT USED,No timestamp (cannot prove pre-deposit); counts duplicate Table 04 exactly.
+table08_marketing_campaigns,USE (partial),"Aggregated to account level; drop conversion_within_30days, campaign_roi_percent (outcome-derived)."
+table09_compliance_kyc,USE,"KYC/AML status; snapshot at extract date, tested in sensitivity analysis."
+table10_feedback_satisfaction,NOT USED,"barrier_to_activation exists only for non-activators (leakage); ~31% response, non-random."
+table11_device_technical,USE,"Sign-up device, OS, browser, connection, VPN / ad-blocker flags."
+table12_post_deposit_activity,NOT USED,Exists only for activated accounts; post-deposit behaviour (leakage).

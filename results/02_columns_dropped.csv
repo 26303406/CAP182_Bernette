@@ -1,0 +1,16 @@
+table,column,reason
+table01,first_deposit_date,Outcome leakage (exists only because the account deposited)
+table01,days_to_first_deposit,Outcome leakage
+table01,registration_date,Raw timestamp in 4 formats (ambiguous); day-of-week and hour used instead
+table01,onboarding_completion_date,Raw timestamp; duration kept as time_to_onboarding_completion
+table02,first_session_date,Raw timestamp
+table03,gender,"Protected attribute, not used as a predictor (fairness); not required for the business question"
+table05,pre_deposit_window_days,Measured to the deposit for activated accounts (leakage)
+table05,total_pre_deposit_minutes,Duration measured to the deposit (leakage)
+table05,account_balance_before_first_action,Constant 0 for every account: no information
+table08,conversion_within_30days,Outcome-derived conversion (leakage)
+table08,campaign_roi_percent,Derived from the conversion outcome (leakage)
+table08,user_exposed_date,Raw timestamp; replaced by aggregation
+table08,marketing_campaign_id,Identifier; replaced by aggregation
+table08,campaign_message_theme,Multi-valued per account; not aggregated in this version (limitation)
+table08,is_first_touch_attribution,Multi-valued per account; not aggregated in this version (limitation)

@@ -1,0 +1,13 @@
+table,rows,columns,distinct_accounts,rows_per_account (max),exact_duplicate_rows
+table01_registration_onboarding,4920,13,4906,2,14
+table02_initial_session_behaviour,4906,13,4906,1,0
+table03_demographics_identity,4906,8,4906,1,0
+table04_communication_support,4906,10,4906,1,0
+table05_pre_deposit_interaction,4906,12,4906,1,0
+table06_inapp_messaging_response,4906,9,4906,1,0
+table07_support_tickets,2806,9,1919,3,0
+table08_marketing_campaigns,8013,10,4906,3,0
+table09_compliance_kyc,4906,9,4906,1,0
+table10_feedback_satisfaction,1533,8,1533,1,0
+table11_device_technical,4906,9,4906,1,0
+table12_post_deposit_activity,2093,9,2093,1,0
