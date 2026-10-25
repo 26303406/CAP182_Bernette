@@ -1,4 +1,4 @@
 model_a,model_b,U,p_value,significant
-Logistic Regression,Random Forest,1111.0,0.33966881454041775,ns
-Logistic Regression,XGBoost,1280.5,0.8361502947006435,ns
-Random Forest,XGBoost,1449.5,0.17009617322796255,ns
+Logistic Regression,Random Forest,1066.0,0.2058520057488723,ns
+Logistic Regression,XGBoost,1280.5,0.8361488407161727,ns
+Random Forest,XGBoost,1470.0,0.13022014826305822,ns
